@@ -1,0 +1,514 @@
+Page Header,Name,Match Number,Assignment,Robot?,Team (getting scouted),Page 2 Header,AMP Score (Auto),SPEAKER Score (Auto),Crossed Line?,Game Pieces Taken?,Page 3 Header,Used Coopertition Button,AMP Score (Teleop),SPEAKER Score (Teleop),Shuttled Notes,Intook From (Full Match),Page 4 Header,TRAP Score,Climb Type,Issues,Notes
+,Nisala,2,Red 3,9455,,,0,0,TRUE,,,FALSE,2,0,0,,,0,Solo Climb,,Really really slow (see data)
+,Nisala,2,Red 1,8159,,,0,3,TRUE,,,FALSE,0,9,0,Ground,,0,,,Great shoot on the move
+,Nisala,2,Red 2,5705,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,Disabled,
+,Fanta,4,Red 2,3310,,,0,1,TRUE,,,TRUE,0,3,0,Ground,,1,Solo Climb,,"Passed the notes over stage, fast."
+,Leif,4,Blue 3,7712,,,0,1,TRUE,,,TRUE,2,0,0,Ground,,0,Solo Climb,,"The robot had a bad auto, only shot the preloaded note and crossed the line. The driver seemed to be taking a while with limited access of travel. The robot has troubles with moving through tight spaces (easily pinned)"
+,Leif,5,Blue 3,3546,,,0,0,FALSE,,,FALSE,0,0,0,Ground,,0,Solo Climb,,The robot was used to shoot notes from the source to the blue alliance side of the field.
+,Fanta,5,Red 2,68,,,0,2,TRUE,Left Spike,,FALSE,0,3,0,Ground,,0,2 Robot Climb,Tipped/Tippy,On the slower side
+,Leif,6,Blue 3,8592,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike",,FALSE,0,0,0,,,0,,Disabled,"Robot had an auto that was flawed by waiting 2 or 3 seconds staying still before shooting its final note. The robot’s shooter can adjust from a distance greater than being at the subwoofer, but the robot disabled during the match, so much of the data is skewed."
+,Fanta,6,Red 2,9726,,,0,0,FALSE,,,TRUE,0,0,0,,,0,,Tipped/Tippy,Slow and remained close to the speaker throughout the entire match
+,Davin,6,Red 3,2370,,,0,0,TRUE,Center Spike,,TRUE,6,2,0,Ground,,0,Solo Climb,,Very innacurate speaker shooter. Very accurate amp shooter
+,Logan,6,Red 1,5993,,,0,0,FALSE,,,TRUE,0,1,0,Ground,,0,,Parts Fell Off/Robot Broke,"Really slow driving, really slow intake, intake got hit while outside of bumper and bent really easily."
+,Davin,7,Red 3,5940,,,0,3,TRUE,"Center Line 1 , Center Line 2",,FALSE,7,7,2,Ground,,0,Solo Climb,,Extremely accurate AMP. and SPEAKER shots
+,Fanta,7,Red 2,8013,,,0,2,TRUE,Right Spike,,TRUE,1,0,0,Ground,,0,Solo Climb,,"Hard for 8013 to intake from ground, but extremely fast."
+,Leif,7,Blue 3,1671,,,0,0,TRUE,,,FALSE,2,2,0,Ground,,0,Solo Climb,,"Robot is pinned easily, speed is about average, not very fast or slow. Their teammate’s intake broke, and the strategy that changed throughout the match was not very good."
+,Logan,7,Red 1,1250,,,0,3,TRUE,"Center Spike , Left Spike",,TRUE,0,0,6,Ground,,0,Solo Climb,,"Good at shuttling, but struggled to get around defense"
+,Leif,8,Blue 3,9429,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,,"Defense robot, along with being a kit bot, defense was bad, barely did anything, adult pushed around."
+,Davin,8,Red 3,3374,,,,0,FALSE,,,FALSE,0,4,0,Source,,0,Buddy Climb,,Very slow bot. Slow shooter
+,Lucas,8,Blue 1,195,,,0,3,TRUE,Center Line 1,,FALSE,7,5,0,"Ground , Source",,0,2 Robot Climb,,"Really efficient amp and speaker score, kinda carried fs"
+,Coby,8,Blue 2,818,,,0,2,TRUE,,,FALSE,0,3,3,Ground,,0,,,Auto data inaccurate (app didn’t update)
+,Fanta,8,Red 2,5715,,,0,1,TRUE,Left Spike,,TRUE,4,3,0,Ground,,0,,,"Inconsistent shooting, mainly focused on shooting amp"
+,Logan,8,Red 1,1781,,,0,3,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,3,4,2,Ground,,0,,,They got better since searcy
+,Coby,9,Blue 2,498,,,0,4,FALSE,"Right Spike , Center Line 1 , Center Line 2",,TRUE,6,7,0,Ground,,0,,,Insane amp and speaker cycle
+,Lucas,9,Blue 1,8298,,,0,1,FALSE,,,FALSE,0,3,0,Source,,0,,Tipped/Tippy,Boooo
+,Logan,9,Red 1,456,,,0,1,TRUE,,,TRUE,6,3,0,Ground,,0,Solo Climb,,
+,Davin,9,Red 3,2096,,,0,0,FALSE,,,TRUE,0,1,2,Ground,,0,,,Slow shooter.
+,Fanta,9,Red 2,6328,,,0,4,TRUE,"Right Spike , Center Spike , Center Line 3",,TRUE,0,5,8,Ground,,1,Solo Climb,,"Extremely consistent, fast robot, avoids conflict with other robots. Overall good robot"
+,Leif,9,Blue 3,302,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike",,FALSE,0,0,13,Ground,,0,,,"Robot had a 4 note auto, climb failed, the robot was able to shoot the notes relatively far so the rest of the alliance could score the notes."
+,Lucas,10,Blue 1,3128,,,0,0,FALSE,,,FALSE,0,1,6,Source,,0,Solo Climb,,"Really clever driving, tipped enemy robot over🐒"
+,Coby,10,Blue 2,4481,,,0,3,FALSE,"Center Spike , Left Spike , Center Line 3 , Center Line 4 , Center Line 5",,FALSE,8,4,0,Ground,,0,2 Robot Climb,,Really good amp cycle and really janky climb
+,Davin,10,Red 3,8188,,,0,2,FALSE,Center Line 2,,TRUE,3,0,0,Ground,,0,,Tipped/Tippy,Blocked blue from speaker. Accurate AMP shooter and SPEAKER
+,Fanta,10,Red 2,8214,,,0,2,TRUE,"Right Spike , Center Spike",,TRUE,0,5,5,Ground,,0,,,"Pretty consistent, took time for them to intake from ground tho,"
+,Leif,11,Blue 3,192,,,0,0,TRUE,Center Line 2,,TRUE,0,0,0,,,0,Solo Climb,Parts Fell Off/Robot Broke,"The robot broke during the beginning (somewhere near the shooter, appears to be a belt), they played defense for the rest of the match."
+,Lucas,11,Blue 1,5809,,,0,0,TRUE,,,FALSE,1,2,0,Ground,,0,Solo Climb,,"Slow, failed amp like 6 times in a row😭"
+,Davin,11,Red 3,6574,,,0,0,TRUE,,,TRUE,6,1,0,Ground,,0,Solo Climb,,Very quick intake
+,Fanta,11,Red 2,8891,,,0,2,TRUE,"Right Spike , Center Spike",,TRUE,0,4,1,Ground,,0,,,"Attempted 2 robot climb (parked), consistent shooting in speaker"
+,Logan,11,Red 1,1325,,,0,1,TRUE,,,TRUE,1,4,5,Ground,,0,Solo Climb,,Failed their auto but pretty good driving
+,Coby,11,Blue 2,9694,,,0,0,TRUE,,,TRUE,0,0,0,Ground,,0,,Note Stuck In Robot,Failed auto + broke
+,Lucas,12,Blue 1,3641,,,0,1,TRUE,,,FALSE,2,2,0,"Ground , Source",,0,2 Robot Climb,Note Stuck In Robot,That is such a weird climb
+,Coby,12,Blue 2,2834,,,0,0,FALSE,,,TRUE,1,4,0,Ground,,0,Solo Climb,,"Auto failed, slow, sloppy driving, missed a shot and got a penalty"
+,Davin,12,Red 3,7525,,,0,1,TRUE,Left Spike,,TRUE,2,4,0,Ground,,0,,,Fast bot. Accurate amp and speaker shooter
+,Logan,12,Red 1,108,,,0,3,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,3,4,0,Ground,,0,2 Robot Climb,,Seems consistent
+,Leif,12,Blue 3,8576,,,0,0,FALSE,,,TRUE,0,3,12,Ground,,0,2 Robot Climb,,"Robot was able to shoot many notes throughout the match, along with having limited issues with traveling quick from the center line towards the source, enabling the rest of the alliance to score more notes."
+,Fanta,12,Red 2,4786,,,0,1,TRUE,,,TRUE,2,0,0,Ground,,0,2 Robot Climb,,"Slow, inconsistent, struggling to move forward at some points"
+,Lucas,13,Blue 1,3494,,,0,0,TRUE,Center Line 1,,TRUE,5,0,0,"Ground , Source",,1,Solo Climb,,"Auto was just shuttling, climbed pretty early in endgame"
+,Coby,13,Blue 2,6647,,,0,2,TRUE,Center Spike,,TRUE,0,1,2,Ground,,0,Solo Climb,,"Missed most notes they fired, accrued penalties, shoddy driving"
+,Davin,13,Red 3,4414,,,0,2,TRUE,"Center Line 3 , Center Line 4",,TRUE,0,0,9,Ground,,1,Solo Climb,,Can shoot quick and low across the field
+,Logan,13,Red 1,4909,,,0,1,TRUE,,,TRUE,0,2,2,Ground,,0,Solo Climb,,Seemed to be struggling with controllability at beginning of teleop.
+,Fanta,13,Red 2,687,,,0,4,FALSE,"Right Spike , Center Spike , Left Spike",,TRUE,7,4,0,Ground,,0,,,"Good at shooting in amp, but is not very fast"
+,Leif,13,Blue 3,180,,,0,1,TRUE,Center Line 4,,FALSE,0,5,1,Ground,,0,Solo Climb,Note Stuck In Robot,"A note got stuck under the robot near the beginning of the match, although it was able to be freed from it, movement was not significantly impaired from the note. The robot also was able to quickly score away from the subwoofer, which most likely led it to complete an additional cycle."
+,Lucas,14,Blue 1,5705,,,0,1,FALSE,,,TRUE,1,5,0,Source,,0,2 Robot Climb,,Nice
+,Coby,14,Blue 2,3134,,,0,2,TRUE,"Right Spike , Left Spike",,TRUE,0,2,0,Ground,,0,Solo Climb,,Didn’t do much during the match
+,Fanta,14,Red 2,5993,,,0,1,FALSE,,,TRUE,0,0,0,,,0,Solo Climb,Tipped/Tippy,"Slow, really tippy, tried to defend but almost tipped over, hard for them to intake"
+,Davin,14,Red 3,33,,,0,3,TRUE,"Center Line 4 , Center Line 5",,TRUE,3,7,0,Ground,,0,Solo Climb,,Extremely accurate SPEAKER shooter. Adequate AMP shooter
+,Leif,14,Blue 3,3175,,,0,3,TRUE,"Center Line 1 , Center Line 2",,FALSE,3,5,0,Ground,,0,2 Robot Climb,,"Robot was efficient throughout the match, climbers extend enough to support multiple robots on a chain. The robot was also easily pinned 2 times."
+,Coby,15,Blue 2,2080,,,0,2,TRUE,Right Spike,,TRUE,0,1,0,Ground,,0,Solo Climb,,Super slow at scoring turning and driving
+,Davin,15,Red 3,88,,,0,1,FALSE,Center Line 5,,TRUE,0,6,0,Ground,,0,,,Very quick SPEAKER shooter.
+,Leif,15,Blue 3,2370,,,0,2,TRUE,Center Spike,,FALSE,4,2,0,Ground,,0,,,The robot’s intake and shooting was abnormally slow in the first part of the match.
+,Fanta,15,Red 2,9421,,,0,1,FALSE,,,TRUE,0,0,2,Ground,,0,,,"More of defense, remained near the stage majority of the time, shaky and slow"
+,Jonathan Wang,16,Blue 1,9455,,,0,1,FALSE,,,TRUE,0,0,5,Source,,0,,Tipped/Tippy,
+,Jazzy,16,Red 2,5232,,,0,0,FALSE,,,FALSE,0,1,11,Source,,0,Solo Climb,,Exclusively shuttle
+,Aiden,16,Blue 3,1781,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,1,6,0,Ground,,0,Solo Climb,,
+,Dillon,16,Blue 2,3310,,,0,1,TRUE,,,TRUE,2,3,3,"Ground , Source",,1,Solo Climb,,Good defense. Scored well. Couldnt see well
+,Taj,17,Red 3,195,,,0,1,TRUE,,,FALSE,1,3,0,Source,,0,Solo Climb,,
+,Jazzy,17,Red 2,1671,,,0,2,TRUE,Center Line 1,,FALSE,3,2,0,Ground,,0,2 Robot Climb,,Are their left/right controls switched or what
+,Aiden,17,Blue 3,456,,,0,0,TRUE,,,TRUE,1,3,0,"Ground , Source",,0,,,"Meh, they were okay. I might have missed a couple points"
+,Lucas,18,Red 2,3627,,,0,1,FALSE,,,FALSE,0,1,0,Source,,0,,Note Stuck In Robot,Boo
+,Taj,18,Red 3,8613,,,0,2,TRUE,,,TRUE,5,1,0,Ground,,0,,,Froze for a second
+,Aiden,18,Blue 3,9726,,,0,0,TRUE,,,FALSE,0,0,0,,,0,,,Roomba. Heavy defense bot
+,Dillon,18,Blue 2,2096,,,0,0,TRUE,,,TRUE,0,5,0,"Ground , Source",,0,Solo Climb,,It was missed a few shots. Good driver but it was slow. Bad auto.
+,Taj,19,Red 3,192,,,0,0,TRUE,,,TRUE,2,1,0,Ground,,0,,Parts Fell Off/Robot Broke,Intake bent
+,Dillon,19,Blue 2,9694,,,0,0,FALSE,,,TRUE,0,0,0,,,0,,Disabled,
+,Aiden,19,Blue 3,302,,,0,2,TRUE,Right Spike,,TRUE,2,1,8,Ground,,0,Solo Climb,,Shuttled A LOT. Looks like they tried to score in trap towards the end.
+,Dillon,20,Blue 2,7525,,,0,5,TRUE,,,TRUE,0,4,0,"Ground , Source",,0,,,Goated
+,Aiden,20,Blue 3,4481,,,0,2,TRUE,Center Line 1,,TRUE,4,0,0,Ground,,0,,,"Attempted to climb at the end, overall pretty good at amp scoring"
+,Taj,20,Red 3,498,,,0,1,TRUE,,,TRUE,2,0,0,Ground,,0,,Note Stuck In Robot,Note stuck good defense against us
+,Luke,20,Red 1,5809,,,0,3,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,2,4,6,Ground,,0,Solo Climb,,"Amp scoring a lil slow, quality shots but missed first note in auto"
+,Jazlyn,20,Red 2,5715,,,0,1,TRUE,,,TRUE,1,4,0,Ground,,0,,,attempted to clime but seemed to be indecisive on whether to score in amp or speaker. also couldn’t see auto very well
+,Taj,21,Red 3,818,,,0,0,TRUE,,,TRUE,4,3,0,Ground,,0,Solo Climb,,
+,Aiden,21,Blue 3,108,,,0,0,FALSE,,,TRUE,4,6,0,Ground,,0,Solo Climb,,"Pretty good, kind of carried. Didn’t have an auto, though"
+,Jazlyn,21,Red 2,1218,,,0,1,FALSE,,,TRUE,0,0,0,,,0,,,"really slow robot seemed to have trouble moving, didn’t do anything all round"
+,Dillon,21,Blue 2,2046,,,0,4,TRUE,,,TRUE,0,4,5,"Ground , Source",,1,Solo Climb,Parts Fell Off/Robot Broke,Part broke on the shooter thingy made it less consistent but still scored. Shuttled a lot. Good driver.
+,Luke,21,Red 1,8298,,,0,1,FALSE,,,TRUE,0,1,0,Ground,,0,,Tipped/Tippy,"Bad robot, tried amp a lot but didn’t work"
+,Luke,22,Red 1,8592,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,2,2,5,Ground,,0,Solo Climb,,Slow cycles
+,Jazlyn,22,Red 2,9429,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,Disabled,wasn’t working the entire match
+,Aiden,22,Blue 3,3641,,,0,0,TRUE,Center Line 4,,TRUE,3,2,2,Ground,,0,,,"Looked like they tried to climb, but failed. Didn’t catch all of their auto."
+,Taj,22,Red 3,157,,,0,1,TRUE,,,TRUE,5,4,0,Ground,,0,2 Robot Climb,,Idk if in their climb they made it all the way up or not
+,Dillon,22,Blue 2,3357,,,0,0,TRUE,,,TRUE,3,3,0,"Ground , Source",,0,Solo Climb,Disabled,Was disabled then stopped. Was good when it was awake. Consistent and quick. Intentional decision making.
+,Aiden,23,Blue 3,3128,,,0,4,TRUE,,,TRUE,0,7,5,Ground,,0,Solo Climb,,Terrifyingly fast. They have a pretty decent driver as well.
+,Luke,23,Red 1,6652,,,0,0,FALSE,,,FALSE,0,2,0,Ground,,0,,Tipped/Tippy,"Insanely tippy, all weight in one mechanism"
+,jonathan,23,Blue 1,3494,,,0,3,TRUE,"Right Spike , Center Spike , Center Line 3",,TRUE,0,7,6,Ground,,0,Solo Climb,,auto scouting wonky couldnt see that well
+,Taj,23,Red 3,8891,,,0,2,TRUE,,,TRUE,0,1,0,Ground,,0,Solo Climb,Parts Fell Off/Robot Broke,I think something broke they switched to defense in the last third of the match
+,Dillon,23,Blue 2,8188,,,0,1,TRUE,,,TRUE,0,2,0,"Ground , Source",,0,Solo Climb,,Driver had to have been confused. Missed many shots. Looked like a chicken with its head cut off at time.
+,Jazlyn,23,Red 2,2834,,,0,1,TRUE,,,TRUE,3,3,0,Ground,,0,Solo Climb,,failed to get trap note and it shoots really fast and hits the bottom of speaker score
+,Aiden,24,Blue 3,6574,,,0,0,TRUE,,,TRUE,3,6,0,Ground,,0,Solo Climb,,Slow speaker shooter
+,jonathan,24,Blue 1,6328,,,0,3,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,0,1,5,Ground,,1,Solo Climb,,their aim sucks missed speaker a bunch
+,Taj,24,Red 3,6647,,,0,1,TRUE,,,TRUE,2,1,0,Ground,,0,,Parts Fell Off/Robot Broke,Maybe broke? Switched to defense halfway
+,Dillon,24,Blue 2,99999,,,0,1,TRUE,,,TRUE,0,3,5,"Ground , Source",,0,,,Short auto. Good a shuttling and scoring. Did everything it needed to but climb.
+,Luke,24,Red 1,68,,,0,1,FALSE,"Center Line 1 , Center Line 2",,TRUE,0,1,10,Ground,,0,,Made Other Auto Fail,"Auto was too slow, couldn’t shoot the ones they got, fed the whole time"
+,Jazlyn,24,Red 2,4270,,,0,2,TRUE,"Center Spike , Center Line 1",,TRUE,5,6,0,Ground,,1,Solo Climb,,"really fast robot, really good at scoring amp and speaker but overshot one auto shot
+i think it got center like 1?"
+,Luke,25,Red 1,8013,,,0,1,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,5,5,0,"Ground , Source",,1,Solo Climb,Made Other Auto Fail,"Failed auto, only first note went in"
+,Aiden,25,Blue 3,8214,,,0,1,TRUE,"Center Line 1 , Center Line 2",,TRUE,5,0,0,Ground,,0,,,Bad speaker shooter accuracy
+,Jazlyn,25,Red 2,1325,,,0,2,TRUE,Center Line 2,,TRUE,1,7,0,Ground,,0,Solo Climb,,good auto and good speed but missed a couple speaker shots
+,Taj,25,Red 3,3374,,,0,0,TRUE,,,TRUE,1,0,0,Ground,,0,Solo Climb,,
+,Dillon,25,Blue 2,4786,,,0,2,TRUE,,,TRUE,2,1,0,Ground,,0,,,Couldnt see well****. It drove around like it had no idea what was happening and was inconsistent.
+,Taj,26,Red 3,456,,,0,1,TRUE,,,TRUE,3,2,0,Source,,0,Solo Climb,,Missed speaker a lot
+,Aiden,26,Blue 3,5993,,,0,1,FALSE,,,TRUE,0,0,0,,,0,,"Tipped/Tippy , Parts Fell Off/Robot Broke","Attempted to climb, but I think their intake broke"
+,Luke,26,Red 1,180,,,0,5,TRUE,,,TRUE,2,5,0,Ground,,1,Solo Climb,Tipped/Tippy,Just slam into them and they will tip over trust 🔥
+,Dillon,26,Blue 2,88,,,0,1,TRUE,,,TRUE,4,2,0,"Ground , Source",,1,Solo Climb,,Cant score on speaker. Good at amp scoring. Decent driver.
+,Jazlyn,26,Red 2,1403,,,0,4,TRUE,"Center Line 3 , Center Line 4 , Center Line 5",,TRUE,4,4,0,Ground,,0,Solo Climb,,"4 note auto, good at scoring between amp and speaker, good sccuracy"
+,Aiden,27,Blue 3,5232,,,0,0,TRUE,Center Line 2,,TRUE,0,0,8,Ground,,0,Solo Climb,,Attempted to 2 robot climb.
+,Luke,27,Red 1,687,,,0,3,TRUE,"Center Spike , Center Line 3",,TRUE,7,5,0,Ground,,0,,,"Kept feeding amp the whole time to get amplification, pretty accurate"
+,Dillo,27,Blue 2,302,,,0,1,TRUE,,,TRUE,6,9,0,"Ground , Source",,0,Solo Climb,,Kevin durant in terms of scoring. Bad at making space for team. Probably cost the game for that.
+,Taj,27,Red 3,6615,,,0,0,TRUE,,,TRUE,0,9,0,"Ground , Source",,0,Solo Climb,,Very consistent speaker scoring
+,Jalzny,27,Red 2,3546,,,0,1,FALSE,,,TRUE,0,2,7,Ground,,1,Solo Climb,,"just found out what a shuttle note is it might be more than 7. pssses notes a lot to other side and attempts to score occasionally, able to score in trap"
+,Taj,28,Red 3,9694,,,0,0,TRUE,,,TRUE,0,1,0,,,0,,,I don’t think they have an intake
+,jonathan,28,Blue 1,195,,,0,2,TRUE,Center Line 3,,TRUE,7,4,0,Ground,,0,Solo Climb,,
+,Aiden,28,Blue 3,2080,,,0,1,FALSE,,,TRUE,0,0,0,,,0,,,Did a whole bunch of nothing
+,Dillon,28,Blue 2,2096,,,0,1,TRUE,,,TRUE,0,1,5,Source,,0,Solo Climb,,Driver seemed confused. Didnt contribute much.
+,Luke,28,Red 1,4481,,,0,3,TRUE,"Left Spike , Center Line 2",,TRUE,4,5,0,Ground,,0,,,Good
+,Jazlyn,28,Red 2,5895,,,0,2,TRUE,"Center Line 1 , Center Line 3",,TRUE,3,5,0,Ground,,0,Solo Climb,,missed center line 2
+,Taj,29,Red 3,2079,,,0,0,FALSE,,,TRUE,0,0,6,Source,,0,,Parts Fell Off/Robot Broke,I think one of their hooks broke
+,Aiden,29,Blue 3,8298,,,0,1,FALSE,,,TRUE,0,0,0,Ground,,0,,Tipped/Tippy,Just barely didn’t climb up in time. Driver is a bit clumsy
+,Luke,29,Red 1,5940,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike , Center Line 4",,TRUE,4,6,0,Ground,,1,Solo Climb,,Low key good
+,Dillon,29,Blue 2,5809,,,0,3,TRUE,,,TRUE,2,5,0,"Ground , Source",,0,,,It was very good at the beginning but it became disabled and performed badly after words. Struggled to hit amp
+,Aiden,30,Blue 3,4414,,,0,3,TRUE,"Center Line 4 , Center Line 5",,TRUE,0,3,8,Ground,,0,Solo Climb,,
+,Luke,30,Red 1,9584,,,0,1,TRUE,,,FALSE,0,0,4,Source,,0,2 Robot Climb,,Can do nothing but feed and CLIMB??? brother 💔💔💔
+,Taj,30,Red 3,509,,,0,1,TRUE,,,TRUE,0,5,0,Source,,0,Solo Climb,Note Stuck In Robot,Fast and good at speaker
+,Dillon,30,Blue 2,33,,,0,3,TRUE,,,TRUE,0,4,4,"Ground , Source",,0,Solo Climb,,It was very fast and intentional in its driving. Scored ok
+,Owen Reynolds (filling in for Freya),31,Blue 1,8891,,,0,1,FALSE,,,TRUE,0,0,0,,,0,Solo Climb,Parts Fell Off/Robot Broke,Shooter broke
+,Jalen,31,Blue 2,2370,,,0,1,TRUE,,,FALSE,3,0,0,Source,,0,,,
+,jonathan,31,Red 2,3175,,,0,2,TRUE,Center Spike,,TRUE,1,5,0,Ground,,0,Solo Climb,,
+,Noah Carrillo,31,Red 3,1671,,,0,1,TRUE,,,TRUE,0,3,2,Ground,,0,,,"Couldn’t get notes in auto, preferred to shuttle notes to the ref than score."
+,Logan,31,Red 1,157,,,0,0,FALSE,,,FALSE,2,2,0,Ground,,0,,,"Not accurate scouting, i started late"
+,Logan,32,Red 1,5715,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,4,4,1,Ground,,0,Solo Climb,,
+,jonathan,32,Red 2,6652,,,0,0,FALSE,,,TRUE,0,0,0,Ground,,0,,"Tipped/Tippy , Note Stuck In Robot",i dont know what they were doing bro this cannot be a worlds level bot.
+,Jalen,32,Blue 2,9455,,,0,0,FALSE,,,FALSE,0,1,0,,,0,2 Robot Climb,,It was doing nothing when it was auto
+,Noah Carrillo,32,Red 3,4230,,,0,1,TRUE,Center Line 2,,TRUE,2,4,0,Ground,,0,Solo Climb,,Movement was erratic. Not bad over all.
+,Garys,32,Blue 3,68,,,0,0,TRUE,Center Line 1,,TRUE,0,0,0,Ground,,0,,Disabled,Froze mid match for unknown reason. Also score could be off as I'm currently at a poor viewing spot.
+,Jalen,33,Blue 2,3357,,,0,0,TRUE,,,FALSE,6,2,0,Source,,0,,,
+,Karos Rasheed,33,Red 1,6574,,,0,0,TRUE,Center Line 1,,FALSE,0,2,0,"Ground , Source",,0,3 Robot Climb,,not bad robot just wasn’t consistent making shots
+,Noah Carrillo,33,Red 3,2046,,,0,2,TRUE,"Center Line 2 , Center Line 3 , Center Line 4",,TRUE,0,5,0,Ground,,1,Solo Climb,,"Fantastic. Fast, incredibly accurate. But, easily blocked."
+,Logan,33,Red 1,6574,,,0,1,TRUE,Center Line 1,,TRUE,3,3,0,Ground,,0,Solo Climb,,Missed more shots than they scored on speaker
+,jonathan,33,Red 2,8576,,,0,1,TRUE,Center Spike,,TRUE,0,0,16,Ground,,0,Solo Climb,,shuttled forever
+,Garys,33,Blue 3,8159,,,0,0,TRUE,Left Spike,,TRUE,0,3,5,Source,,0,,Parts Fell Off/Robot Broke,Intake broke near the end. Robot resorted to shuttling.
+,Freya,34,Blue 1,3134,,,0,2,FALSE,,,FALSE,0,2,0,Ground,,0,Solo Climb,,
+,Noah Carrillo,34,Red 3,9576,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,Disabled,
+,Jalen,34,Blue 2,8013,,,0,2,FALSE,Right Spike,,FALSE,5,3,0,Source,,0,3 Robot Climb,,
+,Garys,34,Blue 3,4786,,,0,0,TRUE,Center Line 2,,TRUE,0,5,2,Source,,0,Solo Climb,,
+,Logan,34,Red 1,9429,,,0,0,FALSE,,,FALSE,0,0,0,Source,,0,,"Tipped/Tippy , Parts Fell Off/Robot Broke","Kit bot, way too light, no swerve, shooter stopped working"
+,Karos Rasheed,34,Red 1,9429,,,0,0,FALSE,,,FALSE,0,1,0,Source,,0,,Tipped/Tippy,Was really slow. Could only get notes from source and the robot looked like it’d almost tip. I did not see if it had a climbing mechanism but it didn’t clime either
+,jonathan,34,Red 2,5705,,,0,1,TRUE,,,FALSE,0,5,0,Ground,,0,2 Robot Climb,,
+,Jalen,35,Blue 2,3494,,,0,0,FALSE,,,FALSE,1,0,0,Ground,,1,2 Robot Climb,,
+,jonathan,35,Red 2,6328,,,0,1,TRUE,,,TRUE,0,3,6,Ground,,1,Solo Climb,,
+,Freya,35,Blue 1,3006,,,0,4,TRUE,,,FALSE,4,3,0,Ground,,0,Solo Climb,,
+,Logan,35,Red 1,3374,,,0,0,FALSE,,,FALSE,0,0,0,Ground,,0,,Parts Fell Off/Robot Broke,Tried to play defense but didn’t stop anything
+,Karos,35,Red 1,3374,,,0,0,FALSE,Left Spike,,,0,0,0,,,0,3 Robot Climb,,Was mostly defending instead of scoring. Was good at climbing
+,Noah,35,Red 3,108,,,0,1,TRUE,,,TRUE,7,6,0,Ground,,0,Solo Climb,,Nothing bad. Held to the space by the amp and was fed notes from teammates.
+,Garys,35,Blue 3,8613,,,0,0,FALSE,,,TRUE,0,4,6,Source,,0,,,
+,Freya,36,Blue 1,4270,,,0,2,TRUE,,,FALSE,4,4,0,Ground,,0,,,
+,Logan,36,Red 1,9726,,,0,0,FALSE,,,FALSE,0,0,0,Source,,0,,"Tipped/Tippy , Disabled","Kit bot that has a sail and a picture of shaq, too tippy to defend"
+,jonathan,36,Red 2,3641,,,0,2,TRUE,Right Spike,,TRUE,3,1,0,Ground,,0,Solo Climb,,
+,Jalen,36,Blue 2,1325,,,0,0,FALSE,,,TRUE,3,3,0,Source,,0,,,
+,Karos,36,Red 1,9726,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,,Didn’t really do nothing. Just sat in place and had a big pic of someone on the robot
+,Noah Carrillo,36,Red 3,8188,,,0,2,TRUE,Center Line 5,,TRUE,1,3,6,Ground,,0,,,Felt like it wasn’t sure of what role to play in the alliance. But was good overall.
+,Garys,36,Blue 3,7712,,,0,0,TRUE,,,TRUE,0,3,0,Ground,,0,Solo Climb,,Would pick up peice and drop near speaker. Kinda slow?
+,Logan,37,Red 1,4909,,,0,3,TRUE,"Center Spike , Left Spike",,TRUE,0,1,8,Ground,,1,Solo Climb,,
+,Noah Carrillo,37,Red 3,2834,,,0,0,FALSE,,,TRUE,4,1,0,Ground,,0,Solo Climb,,I missed some of what happened. But what I did see was good.
+,Freya,37,Blue 1,8214,,,0,3,TRUE,,,FALSE,4,3,0,Ground,,0,,,
+,Jalen,37,Blue 2,9072,,,0,1,TRUE,,,FALSE,0,4,0,Source,,0,,,My robot thought it was Stephen curry
+,Garys,37,Blue 3,2531,,,0,0,TRUE,,,TRUE,0,5,9,Ground,,0,,,Shuttle robot; didn't shoot note during auto but moved as if it were supposed to.
+,jonathan,37,Red 2,1781,,,0,1,TRUE,,,TRUE,1,4,0,Ground,,0,,,not trustworthy data this one i got distracted
+,Karos,37,Red 1,4909,,,0,0,TRUE,,,FALSE,0,0,0,"Ground , Source",,1,2 Robot Climb,,Was shooting from amp to near speaker for other robots to shoot it in. Good gameplan
+,Logan,38,Red 1,9694,,,0,1,TRUE,Center Spike,,TRUE,0,0,0,Ground,,0,,,"Failed auto, mid defense"
+,jonathan,38,Red 2,3310,,,0,3,TRUE,Center Spike,,TRUE,0,3,8,Ground,,1,Solo Climb,,
+,Jalen,38,Blue 2,3546,,,0,1,FALSE,,,FALSE,0,4,0,Source,,1,Solo Climb,,
+,Karos,38,Red 1,9694,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,,Didn’t score didn’t climb
+,Freya,38,Blue 1,498,,,0,1,TRUE,,,FALSE,5,2,0,Ground,,0,,,
+,Noah Carrillo,38,Red 3,6647,,,0,1,TRUE,Center Spike,,TRUE,4,7,0,Ground,,0,Solo Climb,Tipped/Tippy,"Good, fast shooter."
+,Garys,38,Blue 3,9584,,,0,0,TRUE,,,TRUE,0,0,0,Source,,0,,,Got stuck on opposing chain. Didn't score anything.
+,Freya,39,Blue 1,687,,,0,3,TRUE,,,FALSE,0,2,8,Ground,,0,,,
+,Logan,39,Red 1,4414,,,0,2,TRUE,Center Line 5,,TRUE,4,1,6,Ground,,1,Solo Climb,,
+,Karos,39,Red 1,4414,,,0,0,TRUE,,,FALSE,2,0,0,"Ground , Source",,0,,,Didn’t climb but was quick and accurate
+,Jalen,39,Blue 2,4481,,,0,1,FALSE,,,FALSE,7,7,0,Source,,0,,,It did excellent
+,Noah Carrillo,39,Red 3,3627,,,0,0,TRUE,,,TRUE,0,0,0,,,0,Solo Climb,,Something was definitely wrong with that robot. It required the top of it to be duct taped. Played defense due to that.
+,jonathan,39,Red 2,8298,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,"Tipped/Tippy , Parts Fell Off/Robot Broke",looks like their shooter broke making it stick out being super top heavy so they just stayed still and played defense
+,Garys,39,Blue 3,157,,,0,0,TRUE,,,TRUE,0,1,0,Ground,,0,,,
+,Freya,40,Blue 1,8891,,,0,0,FALSE,,,FALSE,0,0,0,Source,,0,2 Robot Climb,,
+,Jalen,40,Blue 2,9455,,,0,1,FALSE,,,FALSE,0,3,0,Source,,0,2 Robot Climb,,
+,Karos,40,Red 1,33,,,0,0,TRUE,Center Line 1,,FALSE,0,4,0,"Ground , Source",,0,3 Robot Climb,,Really accurate and made a lot of points
+,jonathan,40,Red 2,1250,,,0,1,TRUE,,,TRUE,5,2,0,Ground,,0,2 Robot Climb,,
+,Noah Carrillo,40,Red 3,8592,,,0,1,TRUE,,,TRUE,4,1,1,Ground,,0,Solo Climb,,Just a slower bot compared to the rest. Still did well.
+,Garys,40,Blue 3,195,,,0,1,FALSE,,,FALSE,0,0,0,,,0,,Disabled,"Was looking at wrong bot during auto but scored from afar.
+Froze during game under chains."
+,Logan,40,Red 1,33,,,0,0,TRUE,"Right Spike , Center Line 4 , Center Line 5",,TRUE,1,6,0,Ground,,0,2 Robot Climb,,Failed auto
+,Freya,41,Blue 1,2096,,,0,0,TRUE,,,FALSE,1,0,0,Ground,,0,Solo Climb,,
+,jonathan,41,Red 2,9421,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,Note Stuck In Robot,robot broke after auto but im not sure what it did during auti
+,Jalen,41,Blue 2,1671,,,0,0,FALSE,,,TRUE,4,7,0,Source,,0,,,
+,Noah Carrillo,41,Red 3,818,,,0,2,TRUE,"Left Spike , Center Line 4",,TRUE,6,2,0,Ground,,0,,Note Stuck In Robot,Was doing great until a note got stuck.
+,Garys,41,Blue 3,8576,,,0,0,FALSE,,,TRUE,0,2,3,Ground,,0,,,
+,Karos,41,Red 1,68,,,0,0,TRUE,Center Line 1,,FALSE,0,1,0,"Ground , Source",,0,,,was only shooting notes towards speaker for teammates. Was a little slow
+,Logan,41,Red 1,68,,,0,0,TRUE,"Center Line 1 , Center Line 2",,FALSE,2,3,4,Ground,,0,,,
+,Freya,42,Blue 1,4230,,,0,2,TRUE,,,FALSE,5,1,0,Ground,,0,Solo Climb,,
+,Jalen,42,Blue 2,2079,,,0,1,FALSE,,,FALSE,0,0,0,,,0,,Disabled,
+,Garys,42,Blue 3,5895,,,0,1,TRUE,Right Spike,,TRUE,2,6,3,Ground,,0,Solo Climb,,
+,jonathan,42,Red 2,3128,,,0,2,TRUE,Center Line 3,,FALSE,1,2,7,Ground,,0,,,
+,Karos,42,Red 1,4786,,,0,0,FALSE,,,FALSE,0,1,0,"Ground , Source",,0,2 Robot Climb,,Was alright
+,Ligan,42,Red 1,4786,,,0,0,FALSE,,,TRUE,0,6,1,Ground,,0,Solo Climb,,Failed auto
+,Noah Carrillo,42,Red 3,3175,,,0,0,TRUE,Center Line 1,,TRUE,9,5,0,Ground,,0,Solo Climb,,On the solo climb there was another robot but it did not pull itself up all the way.
+,Karos,43,Red 1,302,,,0,0,TRUE,,,FALSE,0,0,0,"Ground , Source",,0,3 Robot Climb,,Didn’t really do anything good
+,Freya,43,Blue 1,88,,,0,2,TRUE,,,FALSE,2,4,0,Ground,,1,Solo Climb,,I wasn’t watching during auto
+,Noah Carrillo,43,Red 3,5715,,,0,1,TRUE,,,TRUE,4,8,0,Ground,,0,Solo Climb,,I think it stalled a couple of times but did really well.
+,Garys,43,Blue 3,2370,,,0,1,TRUE,,,TRUE,0,3,6,Ground,,0,,,
+,Logan,43,Red 1,302,,,0,3,TRUE,"Right Spike , Center Line 5",,TRUE,0,0,10,Ground,,1,Solo Climb,,
+,Jonathan,43,Red 2,5940,,,0,1,TRUE,"Center Line 1 , Center Line 2",,TRUE,0,1,3,Ground,,1,Solo Climb,,
+,Freya,44,Blue 1,1403,,,0,3,TRUE,,,FALSE,2,1,0,Ground,,0,,Disabled,Stop halfway through match
+,Logan,44,Red 1,6574,,,0,1,TRUE,"Right Spike , Center Spike",,FALSE,2,4,0,Ground,,0,Solo Climb,,
+,Noah Carrillo,44,Red 3,509,,,0,1,TRUE,Left Spike,,TRUE,1,1,4,Ground,,0,Solo Climb,,Was a bit slow. I wouldn’t pick it.
+,Garys,44,Blue 3,5705,,,0,0,FALSE,Center Line 1,,FALSE,0,3,0,Ground,,0,,,
+,jonathan,44,Red 2,3494,,,0,0,FALSE,,,TRUE,4,0,0,Ground,,1,Solo Climb,,auto went and made some circlrs
+,Karos,44,Red 1,6574,,,0,1,TRUE,Center Line 2,,FALSE,0,3,0,"Ground , Source",,0,3 Robot Climb,,Really accurate shooter
+,Freya,45,Blue 1,180,,,0,4,TRUE,,,FALSE,2,2,0,Ground,,0,Solo Climb,,
+,Jalen,45,Blue 2,1218,,,0,2,FALSE,Left Spike,,FALSE,0,2,0,Source,,2,3 Robot Climb,,
+,Garys,45,Blue 3,8013,,,0,2,TRUE,"Center Spike , Left Spike",,TRUE,2,3,0,"Ground , Source",,1,Solo Climb,,
+,Karos,45,Red 1,192,,,0,1,FALSE,Center Spike,,FALSE,0,2,0,"Ground , Source",,0,,,Couldn’t climb up all the way
+,jonathan,45,Red 2,9072,,,0,0,TRUE,,,TRUE,0,3,6,Ground,,0,,,wasbt ready not sure abt auto except for line cross
+,Logan,45,Red 1,192,,,0,0,TRUE,"Center Spike , Left Spike",,TRUE,0,3,3,Ground,,0,,,"Missed all auto speaker shots, notes take a really long time between intake and shooter"
+,Davin,45,Red 3,3641,,,0,0,TRUE,,,TRUE,6,5,0,Ground,,0,Solo Climb,,Very reliable shooter for AMP
+,Fanta,51,Red 2,7712,,,0,1,FALSE,,,TRUE,3,3,0,Ground,,0,,,"Attempted to take center line 1, but failed, kinda slow and inconsistent"
+,Davin,46,Red 3,2046,,,,0,TRUE,,,TRUE,3,5,2,Ground,,0,,Tipped/Tippy,Can shoot from end of stage into the SPEAKER accurately
+,Davin,47,Red 3,9726,,,,0,FALSE,,,FALSE,0,0,0,,,0,,,Robot got stuck on other robot. Exclusively blocks speakers
+,Fanta,47,Red 2,7525,,,0,3,TRUE,"Right Spike , Center Spike , Center Line 5",,FALSE,7,2,0,Ground,,0,,,Consist shooting
+,Leif,47,Blue 3,3006,,,0,0,FALSE,,,FALSE,0,4,0,Ground,,0,,,"Another robot got on top of the robot and disabled it for the rest of the match a little more than half way through. The robot was able to adjust its shooter to shoot slightly further away from the subwoofer, although this was not very advantageous in defense."
+,Davin,48,Red 3,456,,,0,1,FALSE,,,FALSE,0,1,0,Ground,,0,,,Blocked blue path.
+,Leif,48,Blue 3,3310,,,0,2,TRUE,Center Line 2,,FALSE,0,5,8,Ground,,0,Solo Climb,,"Robot was able to score a plentiful amount of notes, and shoot the notes relatively far for scuttled notes. The robot failed to score a trap note by one or two seconds, additionally, the driver had some trouble with the # of notes, having more than one note at once."
+,Fanta,48,Red 2,8214,,,0,2,FALSE,"Left Spike , Center Line 1",,FALSE,0,4,1,Ground,,0,,,"Not really that fast, but pretty accurate auto"
+,Coby,49,Blue 2,4270,,,0,2,TRUE,"Left Spike , Center Line 4 , Center Line 5",,,3,3,0,Ground,,1,Solo Climb,,Fast but misses like all their shots
+,Davin,49,Red 3,498,,,0,1,TRUE,,,TRUE,3,0,0,Ground,,0,,,Unreliable shooter for SPEAKER
+,Fanta,49,Red 2,9576,,,0,3,FALSE,"Center Spike , Left Spike",,TRUE,0,7,0,Ground,,0,,,"Parked on stage, pretty accurate shooting, kinda fast"
+,Leif,49,Blue 3,6615,,,0,1,TRUE,,,TRUE,0,5,0,Ground,,0,,,"Interesting score and intake, they are both the same thing, which does take some times to lower and raise. The robot additionally can stand severe hits, as it suffered about two throughout the match. The shooting power on the robot is also weak, subsequently cussing it to miss a few shots that it took on the shooter."
+,Davin,50,Red 3,5809,,,0,2,TRUE,Left Spike,,TRUE,0,3,0,Ground,,0,,,Stuck in corner. Very quick shooter for SPEAKER
+,Coby,50,Blue 2,1781,,,0,3,TRUE,"Center Spike , Left Spike",,TRUE,2,4,3,Ground,,0,,,"It’s driving was fine, speed fine, held back by alliance"
+,Fanta,50,Red 2,8613,,,0,3,FALSE,"Center Line 3 , Center Line 4 , Center Line 5",,TRUE,0,1,9,Ground,,0,2 Robot Climb,,"Very fast, but is inaccurate when shooting in speaker"
+,Leif,50,Blue 3,6652,,,0,1,TRUE,,,TRUE,0,0,0,Ground,,0,,,"The robot failed to shoot any notes well. It constantly shot over the speaker, loosing multiple cycles, even though one robot’s strategy was focused on scuttle notes. The intake is yet again the same mech as the shooter, causing massive weight distribution problems, slowing the robot and making it appear to be easily defendable. The intake additionally was not able to keep the notes held in place for very long."
+,Coby,51,Blue 2,4414,,,0,2,TRUE,"Center Line 4 , Center Line 5",,TRUE,1,5,0,Ground,,1,Solo Climb,,"They’re really fast at scoring, but really fragile, you could probably hit them a couple of times to disable them"
+,Fanta,51,Red 2,9421,,,0,0,FALSE,,,TRUE,0,0,0,,,0,,,"Remained near the stage the entire time, attempting defense"
+,Davin,51,Red 3,1671,,,0,2,TRUE,Center Line 1,,TRUE,5,4,0,Ground,,0,,,Has to shoot close to speaker.
+,Leif,51,Blue 3,3128,,,0,1,FALSE,Center Line 3,,TRUE,0,3,5,Ground,,0,,,"The robot failed to complete climb, still touching the ground. The robot played relatively well, but failed to get to certain points on the field quickly due to the other team’s defense."
+,Coby,52,Blue 2,68,,,0,0,FALSE,,,TRUE,0,2,5,Ground,,0,Solo Climb,,"No auto, shuttled notes well but missed basically all the shots, not particularly powerful motors so can get pushed around"
+,Davin,52,Red 3,302,,,0,1,TRUE,Center Spike,,FALSE,0,1,7,Ground,,1,Solo Climb,,Can shoot from very far. Great for exclusively shuttling
+,Fanta,52,Red 2,4786,,,0,1,FALSE,"Center Line 2 , Center Line 3",,TRUE,7,6,0,Ground,,0,Solo Climb,,"Pretty accurate in amp, fast-ish, fast when it comes to climbing"
+,Leif,52,Blue 3,9584,,,0,1,FALSE,,,FALSE,0,1,2,Source,,0,,,"Robot was slow throughout the match, making it miss several cycles. The robot is additionally a kit bot, (slightly modified) which led it to be easily overrun by the other robots."
+,Davin,53,Red 3,818,,,0,1,TRUE,Center Spike,,TRUE,4,5,0,Ground,,0,Buddy Climb,,Accurate shooting into AMP and SPEAKER
+,Coby,53,Blue 2,1250,,,0,0,TRUE,"Left Spike , Center Line 4 , Center Line 5",,TRUE,0,4,1,Ground,,0,Solo Climb,,"Really fast climb, good driver, firing mechanism ruins whole bot (soooo slow)"
+,Fanta,53,Red 2,2370,,,0,0,TRUE,,,TRUE,0,0,15,Ground,,0,,,"Attempted to do a two robot climb, fast and basically only shuttled"
+,Coby,54,Blue 2,33,,,0,3,TRUE,"Left Spike , Center Line 5",,TRUE,2,3,0,Ground,,0,2 Robot Climb,Note Stuck In Robot,
+,Davin,54,Red 3,8298,,,0,0,FALSE,,,FALSE,0,0,0,Ground,,0,,,Terrible SPEAKER shooting accuracy
+,Logan,54,Red 1,4230,,,0,1,FALSE,,,TRUE,4,3,0,Ground,,0,,,My auton scouting wasn’t accurate
+,Fanta,54,Red 2,9429,,,0,0,FALSE,,,TRUE,0,0,0,Source,,0,,Tipped/Tippy,Often attempts to score but has a weak and inaccurate shooter and it’s really slow and tippy
+,Leif,54,Blue 3,8891,,,0,0,FALSE,,,TRUE,0,0,3,Ground,,0,2 Robot Climb,,"Robot was relatively slow, shooting power was additionally terrible, resulting in it missing 2 or 3 notes. The shooting power also led the shuttled notes to not being very useful, it may have been more beneficial as a defense robot, considering it’s square shape."
+,Logan,55,Red 1,5705,,,0,0,FALSE,,,TRUE,0,0,10,Ground,,0,Solo Climb,,
+,Coby,55,Blue 2,4909,,,0,3,TRUE,"Center Spike , Left Spike",,TRUE,0,2,7,Ground,,1,Solo Climb,,"Fast, shuttled, possibly lost part?"
+,sofiya,55,Blue 1,1218,,,0,4,TRUE,"Left Spike , Center Line 4 , Center Line 5",,FALSE,0,3,0,Ground,,0,Solo Climb,,"shuttling notes over stage, fast accurate shooter, smooth operator"
+,Davin,55,Red 3,5715,,,0,2,TRUE,Center Line 2,,TRUE,1,3,0,Ground,,0,,,Very quick shooter SPEAKER and accurate
+,Leif,55,Blue 3,1325,,,0,2,FALSE,"Center Line 2 , Center Line 3",,TRUE,6,6,,Ground,,0,Solo Climb,,"The robot scored efficiently with limited problems from other robots. Their robot appears to work best with another robot doing a shuttled note strategy. The robot’s amp and speaker score is neither slow nor fast, but is very consistent."
+,Fanta,55,Red 2,2096,,,0,3,TRUE,"Center Spike , Left Spike",,TRUE,2,5,0,Ground,,0,Solo Climb,,"They really struggle to keep their note in, often times making them shoot weakly. Inconsistent speaker shooting."
+,Coby,56,Blue 2,1403,,,0,2,TRUE,"Right Spike , Center Spike",,TRUE,7,3,0,Ground,,0,,,
+,Davin,56,Red 3,7525,,,0,5,FALSE,"Center Spike , Left Spike , Center Line 4 , Center Line 5",,TRUE,3,4,0,Ground,,0,,,Accurate shooter for AMP and SPEAKER
+,Logan,56,Red 1,5895,,,0,1,TRUE,,,TRUE,4,6,0,Ground,,0,Solo Climb,,
+,Leif,56,Blue 3,8214,,,0,0,TRUE,Center Line 2,,TRUE,0,3,1,Ground,,0,,,"The robot was very slow near the end of the match, possibly some power issues."
+,sofiya,56,Blue 1,3546,,,0,2,TRUE,Left Spike,,TRUE,0,4,0,Ground,,1,Solo Climb,,"kinda slow cycling but overall pretty decent bot (I think, tbh I missed a bit of teleop)"
+,Coby,57,Blue 2,6615,,,0,0,FALSE,,,TRUE,0,6,0,Ground,,0,Solo Climb,,
+,Leif,57,Blue 3,6574,,,0,2,FALSE,Center Spike,,TRUE,0,0,0,Ground,,0,Solo Climb,Parts Fell Off/Robot Broke,"The robot’s shooter/amp score failed in the beginning of the match, making the robot fairly ineffective. The robot’s size allows it to pin other robots, but average movement speed does not always assist it in pinning the robots."
+,Lucas,57,Blue 1,3627,,,0,1,FALSE,,,FALSE,0,2,0,Source,,0,,Note Stuck In Robot,Everytime they took a piece in it got jammed soooo
+,Fanta,57,Red 2,108,,,0,2,TRUE,Center Spike,,TRUE,2,5,0,Ground,,0,Solo Climb,,Accurate shooter
+,Davin,57,Red 3,3310,,,0,0,TRUE,,,FALSE,2,1,3,Ground,,0,,,Very quick shooter. Accurate AMP shou
+,sofiya,57,Blue 1,3627,,,0,1,TRUE,,,FALSE,0,4,0,Ground,,0,Solo Climb,,take a very long time to spin up to shoot I think or it's poor driving but very slow speaker
+,Logan,57,Red 1,2080,,,0,1,FALSE,,,TRUE,1,0,0,Ground,,0,,,"Really slow, couldnt intake for a long time."
+,Logan,58,Red 1,3357,,,0,2,FALSE,"Left Spike , Center Line 4 , Center Line 5",,TRUE,6,5,0,Ground,,0,Solo Climb,,
+,Coby,58,Blue 2,5940,,,0,2,TRUE,Center Spike,,TRUE,0,7,3,Ground,,0,Solo Climb,,"Really fast, its auto went for 5 but only scored 2"
+,Lucas,58,Blue 1,498,,,0,0,FALSE,,,FALSE,6,2,0,"Ground , Source",,0,,Note Stuck In Robot,"Got a note stuck, was able to get it out, not great at speaker scoring"
+,Davin,58,Red 3,192,,,,0,TRUE,"Center Line 2 , Center Line 3",,TRUE,0,1,0,Ground,,1,Solo Climb,,Kind of Slow bot
+,Fanta,58,Red 2,9726,,,0,0,FALSE,,,TRUE,0,0,0,,,0,,,"Acted as defense, was stationed in front of blues subwoofer, and parked on staged"
+,Leif,58,Blue 3,2834,,,0,0,FALSE,,,TRUE,0,0,13,Ground,,0,Solo Climb,,"The robot was good at its purpose, but failed to shoot far enough on a few shots. It also attempted a trap score, but failed. The auto was also poor, as it stood still."
+,sofiya,58,Blue 1,498,,,0,1,TRUE,,,TRUE,5,3,0,Ground,,0,,,"I missed autonomous ngl but they were doing good in teleop, accurate shooter and fast and good at amp"
+,Lucas,59,Blue 1,3134,,,0,1,TRUE,,,TRUE,3,2,0,"Ground , Source",,0,Solo Climb,,
+,Davin,59,Red 3,3494,,,0,0,FALSE,,,TRUE,5,1,2,Ground,,1,Solo Climb,,Very accurate shooter for SPEAKER & AMP
+,Fanta,59,Red 2,456,,,0,1,FALSE,Center Spike,,TRUE,0,6,0,Ground,,0,Solo Climb,,"Sometimes overshoots in speaker, but overall good at shooting in speaker"
+,Coby,59,Blue 2,157,,,0,2,TRUE,Left Spike,,TRUE,2,3,0,Ground,,0,Solo Climb,,"SOOOO SLOW, turning speed is terrible, firing speed is slow & misses"
+,Logan,59,Red 1,2046,,,0,2,FALSE,Left Spike,,FALSE,0,6,7,Ground,,1,Solo Climb,,
+,Leif,59,Blue 3,1781,,,0,4,FALSE,"Right Spike , Center Spike , Left Spike",,TRUE,0,1,9,Ground,,0,Solo Climb,,"The robot was able to quickly transport notes from one side of the field to the other. Overall the robot’s efficiency was pretty good, only making one shuttled note going on top of the stage. (Power may be a little low with shooting, which led to little distance across the field)"
+,sofiya,59,Blue 1,3134,,,0,1,TRUE,,,FALSE,1,5,0,Ground,,0,Solo Climb,,"got defended but did alright regardless, they had an auto where they went after far notes I just missed it,"
+,Logan,60,Red 1,2531,,,0,1,TRUE,Center Line 1,,TRUE,2,4,0,Ground,,0,,,
+,Fanta,60,Red 2,3374,,,0,1,TRUE,,,TRUE,0,0,0,,,0,,Disabled,"For the first half played as defense, in latter half disabled"
+,Coby,60,Blue 2,180,,,0,3,FALSE,"Left Spike , Center Line 3",,TRUE,3,5,2,Ground,,0,,Tipped/Tippy,Really physically shakey
+,Lucas,60,Blue 1,9576,,,0,1,TRUE,,,FALSE,0,5,0,Source,,0,Solo Climb,,
+,Leif,60,Blue 3,5993,,,0,1,FALSE,Center Spike,,TRUE,0,1,0,Ground,,0,Solo Climb,,"The robot’s shooter is very slow, most of their shots were too weak, loosing them multiple cycles."
+,Davin,60,Red 3,4481,,,0,2,TRUE,"Center Line 3 , Center Line 4",,TRUE,5,5,0,Ground,,0,Solo Climb,,Very quick climb. Can shoot from far accurately and quickly into SPEAKER. Very accurate AMP shooter
+,Aiden,61,Blue 3,509,,,0,0,TRUE,Center Line 1,,TRUE,1,2,0,Ground,,0,Solo Climb,,"Speaker shooter was a bit off, driver was decent"
+,sofiya,61,Blue 1,5809,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike , Center Line 5",,FALSE,0,7,2,Ground,,0,,,"shuttled notes low and high, good driving"
+,Taj,61,Red 3,5232,,,0,0,TRUE,,,TRUE,0,0,9,Ground,,0,Solo Climb,,"Fast, shot for scoring like twice just shuttled whole time"
+,Jazlyn,61,Red 2,3641,,,0,0,FALSE,,,TRUE,0,7,0,Ground,,0,Solo Climb,,couldn’t see auto nor the beginning of teleport but really good speaker scorers
+,jonathan,61,Blue 1,5809,,,0,2,TRUE,"Center Spike , Center Line 5",,TRUE,3,7,2,Ground,,0,,,
+,Dillon,61,Blue 2,3006,,,0,0,FALSE,,,TRUE,1,1,0,"Ground , Source",,0,,Note Stuck In Robot,It hd a stuck note. Didnt do much. I also could not see for the first half
+,jonathan,62,Blue 1,6328,,,0,2,TRUE,,,TRUE,0,5,5,Ground,,1,Solo Climb,,
+,Taj,62,Red 3,2079,,,0,3,TRUE,,,TRUE,4,3,0,Source,,0,Solo Climb,,Note got stuck for a little
+,Aiden,62,Blue 3,8013,,,0,0,,,,TRUE,3,3,0,"Ground , Source",,0,Solo Climb,,Couldnt see auto. Very quick cycles and made most of their speaker shots
+,sofiya,62,Blue 1,6328,,,0,2,FALSE,"Center Line 3 , Center Line 4 , Center Line 5",,TRUE,0,4,5,Ground,,1,Solo Climb,,"fast intake powerful accurate shooter but sometimes overshoot- shot note out of field while shuttling, good far note autos"
+,Dillon,62,Blue 2,6652,,,0,0,FALSE,,,TRUE,0,0,0,,,0,,Tipped/Tippy,Watch the vod. Craziest robot eva
+,Jazlyn,62,Red 2,8159,,,0,1,TRUE,,,TRUE,0,3,8,Ground,,0,,,mostly shuttled notes but did score a couple times. missed 5th and 4th center line during auto
+,Nisala,2,Blue 1,5895,,,0,4,TRUE,,,FALSE,3,9,0,Ground,,0,Solo Climb,,
+,Nisala,2,Blue 2,88,,,0,0,TRUE,,,FALSE,1,2,2,Ground,,1,Solo Climb,,Very bad driver -- wasted so much time
+,Nisala,2,Blue 3,157,,,0,1,TRUE,,,FALSE,0,6,1,Ground,,0,Solo Climb,,
+,Nisala,3,Red 1,3175,,,0,4,TRUE,,,TRUE,7,0,0,Ground,,0,,,Tried to climb but didn't get high enough
+,Nisala,3,Red 2,3627,,,0,0,FALSE,,,TRUE,0,5,0,Ground,,0,,,"Solo climb failed, didn't go high enough"
+,Nisala,3,Red 3,6652,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,Tipped/Tippy,Fell over very quickly and didn't do anything else. Very bad pick.
+,Nisala,3,Blue 1,3006,,,0,4,TRUE,,,TRUE,0,6,9,Ground,,0,Solo Climb,,
+,Nisala,3,Blue 2,9584,,,0,1,FALSE,,,FALSE,0,1,0,,,0,,,Bad defense and bad shooter. Tank bot.
+,Nisala,3,Blue 3,9072,,,0,2,TRUE,,,TRUE,5,8,0,Ground,,0,,Disabled,"Was doing great, but then tried to intake a note (or maybe got stuck?) and then disabled in the last thirty seconds."
+,Aiden,6,Blue 1,509,,,0,0,TRUE,Center Line 1,,FALSE,6,1,0,Ground,,0,Solo Climb,,"Pretty fast amp cycle, okay driver"
+,Aiden,6,Blue 2,9576,,,0,1,FALSE,,,FALSE,0,7,0,Ground,,0,,,"Bad amp scorer, pretty fast"
+,Aiden,10,Red 1,6615,,,0,0,FALSE,,,FALSE,0,0,0,,,0,Solo Climb,,"Heavy defense bot, did nothing for auto"
+,Nisala,5,Red 1,3357,,,0,2,TRUE,,,FALSE,2,5,0,Ground,,0,2 Robot Climb,,
+,Nisala,5,Red 3,180,,,0,3,TRUE,,,FALSE,4,4,0,Ground,,0,Solo Climb,,
+,Nisala,5,Blue 1,4270,,,0,3,TRUE,,,FALSE,7,7,0,Ground,,0,Solo Climb,,
+,Nisala,5,Blue 2,2079,,,0,1,FALSE,,,FALSE,0,1,0,,,0,,,"Kinda bad defense, didn't stop much tbh"
+,seastiee,30,Red 2,818,,,0,2,TRUE,Center Line 1,,FALSE,5,7,0,Ground,,0,Solo Climb,,gas
+,Luke,63,Red 1,8613,,,0,3,TRUE,"Right Spike , Center Line 1 , Center Line 2",,TRUE,0,5,8,Ground,,0,,,"Seems like they have adjusting auto or whatever, was picking up notes not on the center line, primarily fed notes and shooter was a bit inaccurate"
+,Nisala,64,Red 1,1403,,,0,4,TRUE,,,FALSE,6,3,2,Ground,,0,,,
+,Luke,64,Red 1,1403,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,6,3,2,Ground,,0,,,Carried
+,Nisala,65,Red 1,818,,,0,1,TRUE,,,FALSE,2,1,5,Ground,,0,Solo Climb,,
+,Luke,65,Red 1,818,,,0,1,TRUE,Left Spike,,TRUE,2,1,9,Ground,,0,Solo Climb,Made Other Auto Fail,"Auto failed, mostly fed but could score any way except trap"
+,Luke,66,Red 1,192,,,0,3,TRUE,,,TRUE,4,1,0,Ground,,0,Solo Climb,,"Notes kept getting stuck in intake, really slow process, driver kinda bad cause his movements slow"
+,Luke,67,Red 1,1325,,,0,1,TRUE,Center Line 2,,TRUE,1,10,0,Ground,,0,,Parts Fell Off/Robot Broke,"Climber broke, but quick cycles and driver fell into a groove"
+,Nisala,67,Red 1,1325,,,0,1,TRUE,,,FALSE,1,10,2,Ground,,0,,Made Other Auto Fail,"Made contact under the stage, giving opposition RP"
+,Nisala,68,Red 1,4786,,,0,1,FALSE,,,TRUE,0,1,9,Ground,,0,,,Decent shuttler
+,Luke,69,Blue 2,3374,,,0,0,FALSE,,,TRUE,0,0,0,,,0,,,Only defense and not great at it
+,Nisala,69,Red 1,3128,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,,"Decent defense — nothing out of this world, but good"
+,Luke,70,Red 1,3006,,,0,0,TRUE,,,TRUE,2,2,0,Ground,,0,Solo Climb,Made Other Auto Fail,"Real slow cycles, inaccurate shots"
+,jonathan,71,Blue 1,157,,,0,1,TRUE,Right Spike,,TRUE,3,3,0,Ground,,0,,,
+,Aiden,71,Blue 3,5993,,,0,1,FALSE,,,TRUE,0,0,0,,,0,,Disabled,Disabled in teleop
+,Luke,71,Red 1,8013,,,0,3,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,4,6,0,"Ground , Source",,1,Solo Climb,,"Quick cycles, source intake is versatile so quick intake"
+,Taj,71,Red 3,4270,,,0,1,TRUE,,,TRUE,3,3,0,Ground,,0,,,"Fast, kinda takes a while shooting for speaker"
+,Jazlyn,71,Red 2,9694,,,0,0,TRUE,,,TRUE,0,0,0,,,0,,Made Other Auto Fail,auto failed and took a while to figure out how to shoot notes but ended up just playing defense after
+,Luke,72,Red 1,2079,,,0,2,TRUE,"Center Spike , Left Spike",,TRUE,5,5,0,Ground,,0,,,Meh robot meh driver
+,Taj,72,Red 3,6652,,,0,1,FALSE,,,TRUE,0,0,0,Ground,,0,,Tipped/Tippy,Robot really bad at shooting and really tippy
+,jazzy,72,Red 2,8576,,,0,0,TRUE,,,TRUE,0,5,7,Ground,,0,,,"attempted to climb in the end, only really shuttled note with occasionally shooting in the amp"
+,Dillon,72,Blue 2,5232,,,0,0,TRUE,,,TRUE,0,0,2,Source,,0,Solo Climb,Note Stuck In Robot,Note stuck in floor intake. Really bad defense. Confused driver.
+,jonathan,72,Blue 1,7712,,,0,1,TRUE,"Right Spike , Center Spike",,TRUE,2,3,0,Ground,,0,Solo Climb,,
+,Aiden,72,Blue 3,88,,,0,1,TRUE,"Left Spike , Center Line 5",,TRUE,5,4,0,Ground,,0,,,Got kind of stuck under the stage due to bad-ish driver. Attempted to climb
+,Taj,73,Red 3,2046,,,0,2,TRUE,,,TRUE,0,4,5,Ground,,0,,,
+,Aiden,73,Blue 3,9421,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,,Did pretty much nothing
+,jonathan,73,Blue 1,7525,,,0,4,TRUE,"Center Spike , Left Spike , Center Line 5",,TRUE,1,1,0,Ground,,0,,,cpnnection issues???
+,Dillon,73,Blue 2,2834,,,0,1,FALSE,,,TRUE,0,0,3,Source,,1,Solo Climb,,It is very bad at driving and scoring speaker.
+,Luke,73,Red 1,509,,,0,1,FALSE,,,TRUE,1,1,0,Ground,,0,,Note Stuck In Robot,"Note got stuck, idk about defense cause bots were being weird"
+,Jazlyn,73,Red 2,180,,,0,2,TRUE,,,TRUE,4,4,0,Ground,,0,Solo Climb,Tipped/Tippy,"switched between speaker and amp a lot, good robot and fast pretty good auto"
+,Taj,74,Red 3,3546,,,0,1,TRUE,,,FALSE,5,2,0,Ground,,0,Solo Climb,,"Tried to score in trap, pretty consistent"
+,jonathan,74,Blue 1,8592,,,0,2,TRUE,,,TRUE,2,1,4,Ground,,0,Solo Climb,,
+,Dillon,74,Blue 2,456,,,0,2,TRUE,,,TRUE,1,0,6,Source,,0,,,It only shuttled the whole game. Shuttlaholic.
+,Luke,74,Red 1,1218,,,0,1,TRUE,,,TRUE,0,2,6,Ground,,0,Solo Climb,Made Other Auto Fail,Shooter very inaccurate
+,Jazlyn,74,Red 2,108,,,0,4,TRUE,"Center Spike , Left Spike , Center Line 3",,TRUE,2,4,0,Ground,,0,Solo Climb,,"shot notes too fast to where they’d fly out of the speaker, good auto though"
+,Aiden,74,Blue 3,4481,,,0,0,TRUE,,,TRUE,5,5,0,Ground,,0,,,"Auto failed hard, none of the notes were in the spots they were going for. Robot itself was pretty slow"
+,Taj,75,Red 3,8298,,,0,0,FALSE,,,TRUE,0,0,0,,,0,,Disabled,Robot did not move the entire time
+,jonayhan,75,Blue 1,8159,,,0,0,FALSE,,,TRUE,0,4,6,Ground,,0,Solo Climb,,
+,Aiden,75,Blue 3,6647,,,0,0,FALSE,,,TRUE,2,4,0,Ground,,0,Solo Climb,Note Stuck In Robot,
+,Dillon,75,Blue 2,3641,,,0,1,TRUE,,,TRUE,3,6,2,"Ground , Source",,0,Solo Climb,,Luh scoring maniac. Missed some but was a quick scorer.
+,Luke,75,Red 1,2370,,,0,3,TRUE,,,TRUE,0,5,8,Ground,,0,,Tipped/Tippy,"Fed mostly except for amplification, skinny and tall so tippy"
+,Freya,76,Blue 2,1781,,,0,1,TRUE,,,FALSE,1,4,4,Ground,,0,Solo Climb,,Good
+,Garys,76,Blue 3,4786,,,0,1,TRUE,Left Spike,,TRUE,1,5,4,Ground,,0,,,
+,Jalen,76,Blue 2,1781,,,0,1,FALSE,,,TRUE,3,3,0,,,0,Solo Climb,,
+,Freya,77,Blue 2,1671,,,0,1,TRUE,,,FALSE,5,2,0,Ground,,0,2 Robot Climb,,
+,Jalen,77,Blue 2,1671,,,0,1,FALSE,,,TRUE,4,3,0,Source,,0,2 Robot Climb,,Auto fail after 3 secs
+,Garys,77,Blue 3,9726,,,0,0,FALSE,,,TRUE,0,0,0,Source,,0,,Tipped/Tippy,Didnt shoot and was wobbly. Acted as defense and blocked red speaker majority of match. Failed climb if tried.
+,Freya,78,Blue 2,3134,,,0,0,FALSE,,,FALSE,0,0,5,Ground,,0,,,
+,Jalen,78,Blue 2,3134,,,0,1,FALSE,,,TRUE,0,1,0,Source,,1,,,
+,Garys,78,Blue 3,8188,,,0,0,TRUE,,,TRUE,0,0,5,Ground,,0,Solo Climb,,Slow intake and has difficulty picking up note. Resorted to mostly launching notes across stage.
+,Freya,79,Blue 2,9455,,,0,1,TRUE,,,FALSE,0,1,3,Source,,0,,,
+,Jalen,79,Blue 2,9455,,,0,1,FALSE,,,FALSE,0,2,0,,,0,,,
+,Noah Carrillo,79,Red 3,8013,,,0,2,TRUE,Right Spike,,TRUE,7,6,0,"Ground , Source",,1,Solo Climb,,"Best bot I’ve seen. Nothing bad about it. Fast, and accurate."
+,Garys,79,Blue 3,3128,,,0,1,TRUE,,,FALSE,0,1,0,Ground,,0,Solo Climb,,Didn't score much and did strong defense instead.
+,Garys,80,Blue 3,7712,,,0,0,TRUE,Left Spike,,TRUE,1,2,1,Ground,,0,,,
+,Jalen,80,Blue 2,6574,,,0,3,FALSE,"Center Spike , Left Spike",,FALSE,2,2,0,,,0,Solo Climb,,Robot drove very slow
+,Owen Reynolds (filling in for Freya),80,Blue 1,3374,,,0,0,FALSE,,,TRUE,0,1,0,,,0,,Parts Fell Off/Robot Broke,"Robot only shot its preloaded note at the beginning of teleop, played ok defense the rest of the match, failed climb"
+,Noah Carrillo,80,Red 3,33,,,0,1,TRUE,Center Line 4,,TRUE,3,5,3,Ground,,0,2 Robot Climb,,Fast and aggressive. Nothing particularly wrong or bad. Good shooter and amp action.
+,Jalen,81,Blue 2,4230,,,0,2,FALSE,Center Line 1,,TRUE,3,6,0,Source,,0,3 Robot Climb,,
+,Noah Carrillo,81,Red 3,9694,,,0,0,FALSE,,,TRUE,4,0,0,Ground,,0,,,"Slow movement, slow intake, slow shooting. Not very good."
+,Garys,81,Blue 3,2834,,,0,1,TRUE,,,TRUE,0,2,6,Ground,,1,Solo Climb,,Saw wrong robot during auto
+,Owen Reynolds (filling in for Freya),81,Blue 1,2046,,,0,1,TRUE,,,TRUE,6,5,0,Ground,,1,Solo Climb,,"Their auto failed, but very good teleop performance. Speaker shots missed occasionally though"
+,Jalen,82,Blue 2,6652,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,,
+,Owen Reynolds (filling in for Freya),82,Blue 1,3310,,,0,2,TRUE,Right Spike,,TRUE,4,8,0,Ground,,1,Solo Climb,,
+,Garys,82,Blue 3,302,,,0,3,TRUE,"Right Spike , Center Spike",,TRUE,0,0,10,Ground,,2,Solo Climb,,
+,Noah Carrillo,82,Red 3,1325,,,0,2,TRUE,Right Spike,,TRUE,6,2,0,Ground,,0,,Parts Fell Off/Robot Broke,"The part that fell off wasn’t vital it seemed. Otherwise, did ok. Not the fastest but good amp scorer. Bulky, can take a hit."
+,Jalen,83,Blue 2,7525,,,0,1,FALSE,,,TRUE,2,4,0,Source,,0,Solo Climb,,
+,Garys,83,Blue 3,687,,,0,3,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,0,3,10,Ground,,0,,,
+,Owen Reynolds,83,Blue 1,4270,,,0,0,TRUE,Center Line 5,,TRUE,6,4,0,Ground,,0,,,"Worked extremely well with our team in teleop, auto and climb were sketch but very good amp strategy"
+,Noah Carrillo,83,Red 3,1218,,,0,1,TRUE,Left Spike,,TRUE,1,3,1,Ground,,0,Solo Climb,,Performed good. A bit slower than the others had trouble scoring in the trap.
+,Owen Reynolds (filling in for Freya),84,Blue 1,8613,,,0,2,TRUE,"Center Line 4 , Center Line 5",,TRUE,1,2,17,Ground,,0,,,Ridiculously dedicated to shuffling notes
+,Noah Carrillo,84,Red 3,9576,,,0,2,TRUE,"Right Spike , Center Spike",,TRUE,0,9,0,Ground,,0,,,Great speaker shots. Mechanically unable to score in amp. Did well.
+,Garys,84,Blue 3,195,,,0,0,TRUE,"Center Line 1 , Center Line 2",,FALSE,0,2,5,Ground,,0,,,There was a collision where something broke off but I couldn't tell which bot it came from. Froze in last 20 seconds but came back on.
+,Garys,85,Blue 3,108,,,0,0,TRUE,,,TRUE,3,3,1,Ground,,0,,,
+,Noah Carrillo,85,Red 3,509,,,0,1,TRUE,Center Line 5,,TRUE,4,5,0,Ground,,0,Solo Climb,,I didn’t have a visual for the first couple weeks of seconds so the auto might be a little off. Otherwise it all should be accurate and say that this was a good bot.
+,Garys,86,Blue 3,180,,,0,4,TRUE,"Center Line 1 , Center Line 2 , Center Line 3",,TRUE,5,7,0,Ground,,0,Solo Climb,,
+,Noah Carrillo,86,Red 3,8592,,,0,3,TRUE,"Right Spike , Center Spike",,TRUE,2,8,0,Ground,,0,Solo Climb,,On the slow side but makes up for it with great accuracy.
+,Jalen,86,Blue 2,5895,,,0,5,TRUE,Center Line 5,,TRUE,0,1,0,Source,,0,3 Robot Climb,,It was a good support robot
+,Garys,87,Blue 3,2370,,,0,1,FALSE,Center Line 2,,FALSE,4,2,3,Ground,,0,,,
+,Jalen,87,Blue 2,5809,,,0,3,FALSE,Center Spike,,TRUE,2,3,0,Source,,0,2 Robot Climb,,
+,Noah Carrillo,87,Red 3,6328,,,0,3,FALSE,"Center Spike , Center Line 3 , Center Line 4",,TRUE,1,6,8,Ground,,0,Solo Climb,,Smart driver. Shuttled several notes then as time ran down just shot them rapidly. The bot has a POWERFUL shooter.
+,Jalen,88,Blue 2,3128,,,0,2,TRUE,Center Line 4,,TRUE,1,3,4,Source,,0,Solo Climb,,
+,Garys,88,Blue 3,1403,,,0,3,TRUE,"Center Spike , Left Spike",,TRUE,2,0,0,Ground,,0,,,
+,Noah Carrillo,88,Red 3,498,,,0,1,TRUE,Center Line 1,,FALSE,6,3,0,Ground,,0,,,This thing was fast. Went from the amp to the source in a second. Good shooter as well.
+,Jalen,89,Blue 2,5993,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,,Disappointment incarnate
+,Garys,89,Blue 3,3374,,,0,0,TRUE,,,TRUE,0,1,0,Ground,,0,,,Mostly defense
+,Noah Carrillo,89,Red 3,5232,,,0,0,TRUE,,,TRUE,0,1,9,Ground,,0,Solo Climb,,Did not lot to make points for itself. I don’t think it did poorly per se.
+,Garys,90,Blue 3,3357,,,0,1,TRUE,Center Line 4,,TRUE,4,4,0,Ground,,0,Solo Climb,,
+,Jalen,90,Blue 2,818,,,0,0,FALSE,,,FALSE,0,0,5,Source,,0,2 Robot Climb,,
+,Noah Carrillo,90,Red 3,7712,,,0,2,TRUE,Center Spike,,TRUE,2,3,0,Ground,,0,Solo Climb,,Good shooter.
+,Lucas,91,Blue 1,1671,,,0,0,TRUE,,,FALSE,4,4,0,"Ground , Source",,0,Solo Climb,,
+,Fanta,91,Red 2,1325,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,2,6,7,Ground,,0,,,"Extremely fast, accurately shot in speaker for the most part."
+,Leif,91,Blue 3,8159,,,0,1,FALSE,,,TRUE,0,3,9,Ground,,0,Solo Climb,,"The robot is able to move across the stage quickly. Additionally, the robot is able to shoot notes very consistently, although it has a terrible auto. The robot was able to switch between shooting the speaker and shuttle notes quickly as well. The robot does not take much time to shoot at the speaker, allowing for more cycles."
+,Jazlyn,75,Red 2,195,,,0,2,TRUE,Center Line 2,,TRUE,6,8,1,Ground,,0,Solo Climb,,"missed 2/3 notes in auto but really good play during teleop, shoot sub speaker and amp equally"
+,Lucas,92,Blue 1,3310,,,0,3,TRUE,Center Line 1,,FALSE,6,5,0,Ground,,0,,,
+,Fanta,92,Red 2,88,,,0,2,TRUE,Center Spike,,TRUE,1,4,8,Ground,,1,Solo Climb,,"Fast, accurate shooting in both speaker and amp, shuttled notes a lot of game"
+,Leif,92,Blue 3,1218,,,0,1,TRUE,,,TRUE,0,0,10,Ground,,0,Solo Climb,,"The robot’s shooter is very strong; it was able to shoot far distances. The robot did take some time to adjust to shooting, as it took several seconds in the beginning. It took some to readjust the positioning when hit by another robot. The robot’s auto was very poor, as it missed several notes."
+,Lucas,93,Blue 1,33,,,0,2,TRUE,Center Line 1,,TRUE,2,6,2,Ground,,0,2 Robot Climb,,
+,Leif,93,Blue 3,2079,,,0,1,TRUE,,,TRUE,0,3,7,Ground,,0,Solo Climb,,"The robot took some time to adjust the aim and power of the shooter, as the first few notes were inaccurate and required readjusting. The auto was pretty bad, as it shot, then drove forward."
+,Jazlyn,93,Red 3,8613,,,0,0,FALSE,,,TRUE,0,5,4,Ground,,0,,Made Other Auto Fail,"doesn’t climb, has a thing where it looks for a note if it isn’t there but doesn’t work the best, ended up bumping into the wall"
+,Fanta,93,Red 2,302,,,0,3,TRUE,"Center Spike , Left Spike",,TRUE,5,5,0,Ground,,1,Solo Climb,,"Good at shooting in both amp and speaker,"
+,Lucas,94,Blue 1,1781,,,0,1,TRUE,,,TRUE,4,6,2,"Ground , Source",,0,Solo Climb,,
+,Coby,94,Blue 2,9726,,,0,0,TRUE,,,TRUE,0,0,0,Ground,,0,,,Really slow and fragile
+,Logan,94,Red 1,3175,,,0,2,TRUE,Center Line 2,,TRUE,3,3,0,"Ground , Source",,0,,,
+,Leif,94,Blue 3,108,,,0,3,TRUE,,,TRUE,2,2,6,Ground,,0,Solo Climb,,"The robot was having some trouble escaping some of the other robots. The robot’s power in the shooter is okay, but not good."
+,Fanta,94,Red 2,180,,,0,5,TRUE,"Right Spike , Center Spike , Left Spike , Center Line 4 , Center Line 5",,TRUE,4,2,0,Ground,,1,Solo Climb,,"Good auto, fast, good at shooting speaker and amp"
+,Jazlyn,94,Red 3,9694,,,0,1,FALSE,,,TRUE,0,0,0,Ground,,0,,Parts Fell Off/Robot Broke,couldn’t shoot and didn’t do anything the entire round
+,Lucas,95,Blue 1,5705,,,0,3,FALSE,,,TRUE,0,0,0,"Ground , Source",,0,,,Sorry i was watching our robot
+,Coby,95,Blue 2,8298,,,0,1,FALSE,,,TRUE,0,0,0,,,0,,Tipped/Tippy,"Very slow, possibly broke?"
+,Leif,95,Blue 3,3494,,,0,1,TRUE,"Center Line 3 , Center Line 4 , Center Line 5",,TRUE,7,0,0,Ground,,1,Solo Climb,,"The robot appears to only be able to score amp. The amp scoring speed is relatively slow, which did prevent it from doing a few more cycles."
+,jazlyn,95,Red 3,195,,,0,2,FALSE,Center Line 2,,TRUE,4,2,1,Ground,,0,Solo Climb,Disabled,disabled for a little bit but tbf every robot did this match
+,Davin,95,Red 3,195,,,,2,TRUE,Center Line 1,,FALSE,2,3,3,Ground,,0,Solo Climb,Disabled,Accurate shooter for AMP and SPEAKER
+,Fanta,95,Red 2,9584,,,0,0,TRUE,,,FALSE,0,1,2,Source,,0,,Tipped/Tippy,"Slow:(  didn’t have good auto, tippy,"
+,Logan,95,Red 1,7525,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike",,FALSE,0,0,0,Ground,,0,,Disabled,Make the robot better please
+,Coby,96,Blue 2,6328,,,0,2,TRUE,Center Spike,,TRUE,0,2,8,Ground,,1,Solo Climb,,"Fast, didn’t complete auto, shuttled"
+,Lucas,96,Blue 1,6647,,,0,1,TRUE,,,FALSE,0,0,0,"Ground , Source",,0,Solo Climb,,Bad speaker aim
+,Jazlyn,96,Red 3,6615,,,0,0,TRUE,,,TRUE,0,5,0,Ground,,0,Solo Climb,,doesn’t do much in auto but pretty good at scoring nothing rlly special
+,Davin,96,Red 3,6615,,,0,1,TRUE,,,TRUE,0,2,0,Ground,,0,Solo Climb,,Slow shooter. Unreliable info ( people standing in the way )
+,Logan,96,Red 1,4786,,,0,2,TRUE,,,FALSE,0,2,3,Ground,,0,2 Robot Climb,,My data isnt accurate because i couldn’t see the field
+,Leif,96,Blue 3,1403,,,0,2,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,3,4,0,Ground,,0,,,"The robot attempted climb, but failed. The robot took some time when intaking, as some of the time was turning and adjusting the angle to intake. The robot also appears best to score amp or speaker, and not shuttle robots based on the robot’s speed and power of the shooter."
+,Lucas,97,Blue 1,8576,,,0,1,FALSE,,,FALSE,0,0,13,Source,,0,2 Robot Climb,,Strict shuttle
+,Coby,97,Blue 2,5809,,,0,4,FALSE,"Right Spike , Center Spike , Left Spike",,TRUE,0,3,2,Ground,,0,Solo Climb,,"Auto is alright, mainly shuttled notes but not well"
+,Aiden,97,Blue 3,456,,,0,0,TRUE,,,TRUE,4,6,0,Ground,,0,2 Robot Climb,,"Failed auto, okay driver, quick speaker shooter"
+,jazlyn,97,Red 3,1250,,,0,1,FALSE,,,TRUE,1,3,1,Ground,,0,Solo Climb,,was a little tipple towards the end with their climb and not a very good amp score and did nothing pretty much during auto
+,Logan,97,Red 1,9576,,,0,2,TRUE,,,TRUE,4,1,1,Ground,,0,,,
+,Davin,97,Red 3,1250,,,0,0,FALSE,,,FALSE,0,1,2,Ground,,0,Solo Climb,,Didn’t block or shoot much at all. Opened very little for their team
+,Leif,97,Blue 3,456,,,0,1,FALSE,,,TRUE,4,6,0,Ground,,0,2 Robot Climb,,"The robot’s auto failed, as it missed all of the notes that it attempted to pick up. The robot has some difficulties with grabbing notes then shooting them. They do spend a generous amount of time on the amp, which almost always means that they will miss a cycle or two."
+,jazlyn,98,Red 3,9455,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,Disabled,disabled and i’m pretty sure it missed its shot in auto
+,Lucas,98,Blue 1,3546,,,0,1,FALSE,,,TRUE,3,2,2,"Ground , Source",,1,Solo Climb,,
+,Davin,98,Red 3,9455,,,0,1,FALSE,,,FALSE,0,0,0,,,0,,Disabled,Stood in one place after autonomous 👁️👁️
+,Logan,98,Red 1,2370,,,0,2,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,7,6,0,Ground,,0,Solo Climb,,
+,Coby,98,Blue 2,192,,,0,0,TRUE,,,TRUE,1,0,0,Ground,,0,Solo Climb,"Parts Fell Off/Robot Broke , Made Other Auto Fail , Note Stuck In Robot","Obnoxiously slow, broke firing mechanism, made other robots fail"
+,Leif,98,Blue 3,2080,,,0,1,TRUE,,,TRUE,0,3,0,Ground,,0,,,"The robot was extremely slow for the entire match. The robot additionally lost several cycles due to speed, along with taking time to adjust the turning."
+,Lucas,99,Blue 1,9421,,,0,0,FALSE,,,TRUE,0,0,0,,,0,Solo Climb,Note Stuck In Robot,I missed auto but I don’t think they did anything anyway. Defended all game
+,jazlyn,99,Red 3,3134,,,0,1,TRUE,,,TRUE,0,3,4,Ground,,0,,,not sure why it was modtly shuttling notes if there was another robot doing it nothing special abt this one
+,Coby,99,Blue 2,6652,,,0,1,FALSE,,,TRUE,0,1,0,Ground,,0,,"Tipped/Tippy , Parts Fell Off/Robot Broke","This is so bad, dropped notes constantly, every part of it broke"
+,Logan,99,Red 1,8214,,,0,2,TRUE,"Center Line 1 , Center Line 2",,TRUE,0,1,5,Ground,,0,,,Almost disabled mid match
+,Davin,99,Red 3,3134,,,0,1,TRUE,,,TRUE,0,3,2,Ground,,0,,,Fast and accurate shooter for SPEAKER. Can and did stay in corner to collect notes and shuttle
+,Leif,99,Blue 3,3641,,,0,3,TRUE,"Right Spike , Center Spike , Left Spike , Center Line 4",,TRUE,1,4,5,Ground,,0,,,"The robot is extremely with shooting, with the exception of not being able to shoot a few of the notes (accuracy problem) in the speaker. The robot is shooting at very high speeds, making their cycles very fast if they did not have to be a shuttle robot this match."
+,Lucas,100,Blue 1,509,,,0,1,TRUE,,,TRUE,0,1,2,"Ground , Source",,0,Solo Climb,,
+,Coby,100,Blue 2,687,,,0,3,TRUE,"Right Spike , Center Spike , Center Line 3",,TRUE,0,3,9,Ground,,0,,,Really good shuttle cycle
+,Logan,100,Red 1,5895,,,0,1,TRUE,,,TRUE,1,5,2,Ground,,0,Solo Climb,,
+,Davin,100,Red 3,9072,,,0,2,TRUE,"Center Line 3 , Center Line 4",,TRUE,0,0,0,Ground,,0,,,Blockecd TBA SPEAKER
+,Leif,100,Blue 3,5940,,,0,3,TRUE,"Center Line 1 , Center Line 2",,TRUE,6,13,0,Ground,,1,Solo Climb,,"They constantly shoot effectively, as they only missed one or two shots throughout the match. They have an auto that is generally good, but may miss a note. They were able to quickly move throughout their field, and are not overcome with opposition from the other team. (Not pinned easily)"
+,Lucas,101,Blue 1,3310,,,0,3,TRUE,,,TRUE,4,6,0,Ground,,0,,,
+,Coby,101,Blue 2,2096,,,0,1,FALSE,,,FALSE,0,0,11,Ground,,0,,,"Tried to shuttle, not very well."
+,Logan,101,Red 1,2834,,,0,0,FALSE,,,TRUE,0,0,13,Ground,,0,Solo Climb,,
+,Leif,101,Blue 3,68,,,0,2,TRUE,"Right Spike , Center Spike",,TRUE,0,0,10,Ground,,0,,Disabled,"The robot took a hit in the last 30 seconds of the match, which prevented the robot from moving. The robot was able to shoot notes quick enough to be a good shuttle robot, but was not very fast."
+,Jazlyn,101,Red 3,33,,,0,4,FALSE,,,TRUE,0,7,0,Ground,,0,,,i did not see if it climbed nor barely saw that auto but good team rlly good at scoring speaker
+,Jazlyn,102,Red 3,8891,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,0,1,3,Ground,,0,,,
+,Lucas,102,Blue 1,8159,,,0,1,FALSE,,,FALSE,0,1,6,Source,,0,,,
+,Logan,102,Red 1,5232,,,0,0,TRUE,"Center Line 1 , Center Line 2",,TRUE,0,0,13,Ground,,0,Solo Climb,,
+,Coby,102,Blue 2,180,,,0,3,TRUE,"Left Spike , Center Line 1",,TRUE,5,4,1,Ground,,0,,Parts Fell Off/Robot Broke,Something went wrong with their wheels
+,Leif,102,Blue 3,1325,,,0,2,TRUE,"Center Spike , Center Line 2",,TRUE,2,5,9,Ground,,0,,,"The robot missed several shots throughout the match, missing the playing field (shot over the boundary because of angle/power for shuttles notes) and the speaker. The robot tended to work best when scoring amp, as it wasn’t fast, but more efficient than other strategies."
+,Coby,103,Blue 2,7525,,,0,2,TRUE,Left Spike,,FALSE,0,0,0,,,0,,,
+,Coby (fixed),103,Blue 2,7525,,,0,2,TRUE,,,TRUE,0,1,0,Ground,,0,,Note Stuck In Robot,This is sad
+,Logan,103,Red 1,818,,,0,1,TRUE,Center Line 1,,TRUE,0,2,4,Ground,,0,Solo Climb,,
+,Leif,103,Blue 3,3627,,,0,1,TRUE,,,FALSE,0,6,0,Ground,,0,Solo Climb,,"The robot was taking a long time when intaking, and the shooting power was very low."
+,Logan,104,Red 1,9726,,,0,0,FALSE,,,TRUE,0,0,0,Source,,0,,,Shaq bot
+,Coby,104,Blue 2,6647,,,0,1,FALSE,Left Spike,,TRUE,0,0,3,Ground,,0,,Tipped/Tippy,Tries to shuttle badly
+,Leif,104,Blue 3,4786,,,0,1,TRUE,Center Line 2,,TRUE,0,0,14,Ground,,0,Solo Climb,,The robot was able to shoot far and allow for an easy shuttle robot.
+,Fanta,104,Red 2,2046,,,0,3,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,0,5,6,Ground,,1,Solo Climb,,"Good at shooting in auto, speaker, and fast"
+,Logan,105,Red 1,8188,,,0,2,TRUE,"Right Spike , Center Spike",,TRUE,6,5,0,Ground,,0,Solo Climb,,
+,Coby,105,Blue 2,498,,,0,2,TRUE,"Center Spike , Left Spike",,TRUE,3,7,0,Ground,,0,,,Fast amp cycle
+,Leif,105,Blue 3,1218,,,0,1,TRUE,"Left Spike , Center Line 3",,TRUE,2,7,0,Ground,,0,Solo Climb,,The robot was able to score quickly with another robot using a shuttle note strategy.
+,Fanta,105,Red 2,195,,,0,0,TRUE,"Center Line 1 , Center Line 3",,TRUE,2,3,3,Ground,,0,,,"Stopped for a lil while, ok at shooting in speaker, failed auto."
+,Aiden,106,Blue 3,3374,,,0,0,TRUE,,,TRUE,0,0,0,,,0,Solo Climb,,"Defense bot, intake must be broken or something"
+,Taj,106,Red 3,4909,,,0,3,TRUE,,,TRUE,2,5,0,Ground,,0,,,Pretty fast and consistent at amp and speaker
+,Dillon,106,Blue 2,6615,,,0,1,FALSE,,,TRUE,0,6,0,"Ground , Source",,0,,,It scored speaker well but struggled to pick up notes.
+,Taj,107,Red 3,3006,,,0,4,TRUE,,,TRUE,1,7,1,Ground,,0,Solo Climb,,Good driving and speaker scoring
+,Aiden,107,Blue 3,4414,,,0,0,FALSE,,,TRUE,0,2,13,Ground,,0,Solo Climb,,"Really fast, speaker shooter automatic angle was not very accurate at some places"
+,Dillon,107,Blue 2,9429,,,0,1,FALSE,,,FALSE,0,0,0,Source,,0,,,"Kit bot. Really funny. Real data, trust."
+,Aiden,108,Blue 3,9421,,,0,0,FALSE,,,TRUE,0,0,0,,,0,,,"Defense bot, no intake I think. Looks like they tried to climb but their climbers wouldn’t go down enough to lift them off the ground"
+,Dillon,108,Blue 2,3494,,,0,0,FALSE,,,TRUE,0,0,0,,,0,,,Worst ever.
+,Taj,108,Red 3,5895,,,0,2,TRUE,,,TRUE,8,3,0,Ground,,0,2 Robot Climb,,Pretty good at amp
+,Aiden,109,Blue 3,192,,,0,0,TRUE,Center Line 1,,TRUE,6,0,0,Ground,,1,Solo Climb,,"Pretty good, their cycles are pretty fast. In their auto their speaker shooter didn’t have enough power"
+,Aiden,110,Blue 3,1403,,,0,2,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,5,4,0,Ground,,0,,,Attempted to climb at the end
+,Aiden,111,Blue 3,9584,,,0,0,FALSE,,,FALSE,0,0,0,,,0,,,"Defense bot, had a huge piece of cardboard on their robot 😆"
+,Aiden,112,Blue 3,3175,,,0,0,FALSE,,,TRUE,2,5,0,Ground,,0,Solo Climb,,"Missed what they did in auto. Very fast, but missed a couple speaker shots"
+,Aiden,113,Blue 3,818,,,0,2,TRUE,"Center Spike , Left Spike , Center Line 2 , Center Line 3",,TRUE,4,6,0,Ground,,0,Solo Climb,,"Very fast cycles, had a lot of notes shuttled to the though"
+,Aiden,114,Blue 3,4909,,,0,1,TRUE,Center Spike,,TRUE,0,6,0,Ground,,1,Solo Climb,,"Amp scoring mechanism is kind of bad, the note got slightly stuck"
+,Aiden,115,Blue 3,68,,,0,3,TRUE,"Right Spike , Center Spike",,TRUE,5,2,0,Ground,,0,Solo Climb,Note Stuck In Robot,"Missed a couple of their auto notes. Pretty fast, but fumbled a lot at the amp"
+,Noah Carrillo,121,Red 3,5809,,,0,2,TRUE,"Center Line 1 , Center Line 2",,TRUE,2,4,0,Ground,,0,Solo Climb,,Good shots. Paused a few times on the field.
+,Noah Carrillo,122,Red 3,5715,,,0,1,TRUE,,,FALSE,6,3,0,Ground,,0,Solo Climb,,Good shooting. Had control of the amp. Overall: ✅
+,Noah Carrillo,123,Red 3,4270,,,0,1,FALSE,Center Line 5,,TRUE,5,8,0,Ground,,1,Solo Climb,,Was in charge of the whole game. One of the bests so far.
+,Noah Carrillo,124,Red 3,1781,,,0,1,TRUE,,,TRUE,2,0,5,Ground,,0,Solo Climb,,Good. Nothing spectacular. Had some minor trouble with the amp at times.
+,Noah Carrillo,125,Red 3,3546,,,0,1,TRUE,Left Spike,,TRUE,3,7,0,Ground,,0,Solo Climb,,Not the best with amp but still ok. Missed a couple of shots.
