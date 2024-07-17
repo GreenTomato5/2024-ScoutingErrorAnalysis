@@ -5,7 +5,7 @@ import constants
 
 # Constants
 MISSED_SHIFT_PATH = constants.MissedShiftAnalysis.MISSED_SHIFT_PATH
-MAX_MATCH_NUMBER = constants.MissedShiftAnalysis.MAX_MATCH_NUMBER
+MAX_MATCH_NUMBER = constants.Global.MAX_MATCH_NUMBER
 SCOUTING_DATA_PATH = constants.Global.SCOUTING_DATA_PATH
 ASSIGNMENTS = constants.Global.ASSIGNMENTS
 SHIFTS = constants.Global.SHIFTS
