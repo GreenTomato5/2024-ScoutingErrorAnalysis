@@ -4,8 +4,8 @@ import pandas as pd
 
 # Constants
 
-MISSED_SHIFT_FILE = "MissedShifts.csv"
-SCOUTING_DATA_FILE = "ScoutingData.csv"
+MISSED_SHIFT_PATH = "CSVs/MissedShifts.csv"
+SCOUTING_DATA_PATH = "CSVs/ScoutingData.csv"
 
 MAX_MATCH_NUMBER = 109
 
@@ -13,13 +13,13 @@ ASSIGNMENTS = ["Red 1", "Red 2", "Red 3", "Blue 1", "Blue 2", "Blue 3"]
 SHIFTS = ["A", "B", "C"]
 
 # Setup File to Write To
-if (os.path.exists(MISSED_SHIFT_FILE) and not os.stat(MISSED_SHIFT_FILE).st_size == 0):
-    os.remove(MISSED_SHIFT_FILE) 
-    open(MISSED_SHIFT_FILE, 'w', encoding="utf-8")
+if (os.path.exists(MISSED_SHIFT_PATH) and not os.stat(MISSED_SHIFT_PATH).st_size == 0):
+    os.remove(MISSED_SHIFT_PATH) 
+    open(MISSED_SHIFT_PATH, 'w', encoding="utf-8")
     print("Replaced Existing Storage File")
 
 # Setup Important Variables
-raw_data = pd.read_csv(SCOUTING_DATA_FILE)
+raw_data = pd.read_csv(SCOUTING_DATA_PATH)
 data = raw_data[raw_data["Match Number"] < MAX_MATCH_NUMBER]
 
 shift_A = [["Logan", 0], ["Fanta", 0], ["Davin", 0], ["Lucas", 0], ["Coby", 0], ["Leif", 0]]
@@ -70,7 +70,7 @@ for match in range(1, MAX_MATCH_NUMBER):
     
 combined_shifts = shift_A + shift_B + shift_C
 
-with open(MISSED_SHIFT_FILE, 'w', encoding="utf-8", newline='') as f:
+with open(MISSED_SHIFT_PATH, 'w', encoding="utf-8", newline='') as f:
         writer = csv.writer(f)
         writer.writerow(["Scout", "Matches Missed"])
         writer.writerows(combined_shifts)
