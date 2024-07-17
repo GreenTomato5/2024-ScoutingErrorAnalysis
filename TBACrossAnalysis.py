@@ -6,8 +6,9 @@ import os
 import constants
 
 # Constants
-SCOUTING_DATA_PATH = "CSVs/ScoutingData.csv"
-MAX_MATCH_NUMBER = 109
+SCOUTING_DATA_PATH = constants.Global.SCOUTING_DATA_PATH
+MAX_MATCH_NUMBER = constants.Global.MAX_MATCH_NUMBER
+TBA_PATH = constants.TBAAnalysis.TBA_PATH
 
 # Load Data
 tba = requests.get("https://www.thebluealliance.com/api/v3/event/2024hop/matches", 
@@ -18,9 +19,9 @@ raw_data = pd.read_csv(SCOUTING_DATA_PATH)
 data = raw_data[raw_data["Match Number"] < MAX_MATCH_NUMBER]
 
 # Saves the data to a file so i dont have to imagine what the dict looks like
-if (not os.path.exists(constants.TBAAnalysis.TBA_PATH)):
+if (not os.path.exists(TBA_PATH)):
     
-    with open(constants.TBAAnalysis.TBA_PATH, "w") as scribbler:
+    with open(TBA_PATH, "w") as scribbler:
         json.dump(tba, scribbler)
 
 for match in tba:
