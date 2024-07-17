@@ -12,7 +12,6 @@ class Global:
     SHIFT_B = [["Luke", 0], ["Jazlyn", 0], ["Taj", 0], ["Jonathan", 0], ["Dillon", 0], ["Aiden", 0]]
     SHIFT_C = [["Karos", 0], ["Danyar", 0], ["Noah", 0], ["Freya", 0], ["Jalen", 0], ["Garys", 0]]
 
-    
 class TBAAnalysis:
     TBA_API_kEY = ""
     
