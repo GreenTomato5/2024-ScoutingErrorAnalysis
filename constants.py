@@ -6,7 +6,7 @@ class MissedShiftAnalysis:
     SAVE_MISSED_SHIFTS = False;
 
 class Global:
-    SCOUTING_DATA_PATH = "Data/ScoutingData.csv"
+    SCOUTING_DATA_PATH = "Data/Arkansas.csv"
     ASSIGNMENTS = ["Red 1", "Red 2", "Red 3", "Blue 1", "Blue 2", "Blue 3"]
     SHIFTS = ["A", "B", "C"]
     MAX_MATCH_NUMBER = 109
@@ -26,6 +26,7 @@ class Global:
             self.shift_C = shift_C
         
     CURRENT_EVENT = Events.ARKANSAS
+    DOUBLE_SCOUTING = CURRENT_EVENT.double_scouted
 
     # Calculate matches per shift
     MATCHES_PER_SHIFT = MAX_MATCH_NUMBER // CURRENT_EVENT.number_of_shifts
