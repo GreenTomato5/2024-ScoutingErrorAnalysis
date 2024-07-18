@@ -1,0 +1,682 @@
+Page 1 Header,Name,Match Number,Assignment,Robot?,Team (getting scouted),Page 2 Header,AMP Score (Auto),SPEAKER Score (Auto),Crossed Line?,Game Pieces Taken?,Page 3 Header,Used Coopertition Button,AMP Score (Teleop),SPEAKER Score (Teleop),Page 4 Header,TRAP Score,Climb Type,Issues,Intook From (Full Match),Notes
+,Taj,1,Red 3,3102,,,0,1,FALSE,,,TRUE,1,2,,0,Solo Climb,,Source,
+,Aiden,1,Blue 1,5437,,,,,FALSE,,,FALSE,0,0,,0,,Tipped/Tippy,,Very defensive
+,zofia,1,Red 2,5454,,,0,1,TRUE,Center Spike,,TRUE,0,4,,0,,,Ground,"good driver, fast swerve"
+,Alex,1,Blue 3,8044,,,0,0,FALSE,,,FALSE,2,5,,0,Solo Climb,Failed Auto,"Ground , Source","no auto, had problems w shooter power at first but they were resolved"
+,Luke Thompson,1,Red 3,3102,,,0,1,FALSE,,,TRUE,2,1,,0,Solo Climb,,Source,"Don’t know if they’re fully off the ground for climb, note got stuck in the frame"
+,Jalen,1,Blue 2,6586,,,0,1,TRUE,Left Spike,,FALSE,0,0,,0,2 Robot Climb,Disabled,Ground,This robot did not cook. It just burn
+,Leif,1,Blue 3,8044,,,0,0,FALSE,,,FALSE,2,5,,0,Solo Climb,Failed Auto,"Ground , Source","No auto, the shooter had problems with aim and power in the beginning, along with taking multiple attempts to score in the amp."
+,Jazlyn,1,Red 2,5454,,,0,1,TRUE,"Right Spike , Left Spike",,FALSE,0,6,,0,,,Ground,
+,Owen Reynolds,1,Red 1,3616,,,0,2,TRUE,Right Spike,,FALSE,0,1,,0,2 Robot Climb,,"Ground , Source","Note immediately got stuck in the robot, so they mostly stuck to playing a fairly decent defense game"
+,Owen Reynolds,1,Red 1,3616,,,0,2,TRUE,Right Spike,,FALSE,0,1,,0,2 Robot Climb,,"Ground , Source","Note immediately got stuck in the robot, so they mostly stuck to playing a fairly decent defense game"
+,Garys,1,Blue 1,5437,,,0,0,FALSE,,,,0,0,,0,,Tipped/Tippy,,Wobbles alot with speed; picked up no notes; used as defense. No movement in auto.
+,Ajmed,1,Blue 2,6586,,,0,0,,,,,0,0,,0,,,,
+,Aiden,2,Blue 1,2190,,,,,FALSE,,,FALSE,,,,0,,Tipped/Tippy,,"Defensive, did pretty much nothing"
+,Luke Thompson,2,Red 3,16,,,0,4,TRUE,,,TRUE,5,3,,0,,,Ground,
+,Taj,2,Red 3,16,,,0,4,TRUE,,,FALSE,5,3,,0,,,Ground,
+,alex,2,Blue 3,2992,,,0,1,FALSE,,,FALSE,4,2,,0,,,,intake method was prone to intakinf multiple notes but they seemed to be good at getting rid of them
+,zofua,2,Red 2,5002,,,0,0,FALSE,,,FALSE,0,0,,0,,,,"couldn’t do anything this round, looks like they have a shooter so idk what the issue is"
+,Jazlyn,2,Red 2,5002,,,0,0,FALSE,,,FALSE,0,0,,0,,,,did not grab notes or scored and played a little bit of defense
+,Coby,2,Blue 2,9429,,,0,1,FALSE,,,FALSE,0,0,,0,,,,
+,Jalen,2,Blue 2,9429,,,0,1,FALSE,,,FALSE,0,0,,0,,,,It was running around like a headless chicken. Useless
+,Dillon,2,Red 1,6186,,,0,0,TRUE,,,FALSE,0,0,,0,,Disabled,Source,Was off for half the match. Nothing tried to score and got not close
+,Owen,2,Red 1,6186,,,0,0,FALSE,Failed Left Spike,,FALSE,1,1,,0,,"Disabled , Failed Auto , Made Alliance Fail Climb",Source,Disabled for a good portion of the match not the entire time
+,Garys,2,Blue 1,2190,,,0,0,FALSE,,,FALSE,0,0,,0,,,,Ran into chain during auto; collected no notes: used as defense; tall and bulky.
+,Leif,2,Blue 3,2992,,,0,1,FALSE,,,FALSE,4,2,,0,,Failed Auto,"Ground , Source","Robot had an auto that did nothing. The robot also had trouble scoring on amp and speaker about 2 or 3 times. Movement speed with the robot was also relatively slow, which prevented it from having enough time to climb or score again."
+,Jonathan,3,Red 1,4107,,,0,0,FALSE,,,FALSE,0,5,,0,,,Source,
+,Taj,3,Red 3,7483,,,0,0,FALSE,,,FALSE,3,0,,0,,,Ground,Don’t think it can climb
+,Luke Thompson,3,Red 3,7483,,,0,0,FALSE,,,FALSE,2,0,,0,,Failed Auto,,Slowest arm ever
+,zofia,3,Red 2,9608,,,0,1,FALSE,,,FALSE,0,0,,0,,Disabled,Source,"source only robot, not stuck or shooter failed no use during game"
+,Jalen,3,Blue 2,323,,,0,1,FALSE,,,TRUE,1,0,,0,2 Robot Climb,Disabled,Ground,
+,Aiden,3,Blue 1,6055,,,,,FALSE,,,FALSE,,5,,0,Solo Climb,Failed Auto,Ground,"Overall a pretty good team, I don’t think they can intake from source at all"
+,Dillon,3,Red 1,4107,,,0,0,TRUE,,,TRUE,0,7,,0,,,Source,Very consistent.
+,alex,3,Blue 3,2357,,,0,1,FALSE,,,FALSE,4,0,,0,,,Ground,"im honestly not sure if they climbed or not, they started to but then part of their robot touched the ground? idk"
+,Coby fixed,3,Blue 2,323,,,0,0,FALSE,,,FALSE,1,0,,0,,"Disabled , Failed Auto",Ground,
+,Garys,3,Blue 1,6055,,,0,0,FALSE,,,FALSE,0,5,,0,Solo Climb,,Ground,Fast and efficient at speaker. Good offense.
+,Jazlyn,3,Red 2,9608,,,0,0,TRUE,,,FALSE,0,0,,0,,Failed Auto,Source,"not sure what to put for it but it seemed like they couldn’t shoot. noticed they did have the parts to climb, but didn’t."
+,Leif,3,Blue 3,2357,,,0,1,TRUE,,,FALSE,4,0,,0,Solo Climb,,"Ground , Source","The robot wasted a lot of time waiting around, not doing anything for about a full 30 or 40 seconds. The robot also climbed with a full 30 seconds left, which means that at least 40 seconds of game time was wasted."
+,Jalen,4,Blue 2,3792,,,0,1,TRUE,Center Spike,,FALSE,0,5,,1,2 Robot Climb,,"Ground , Source",
+,Coby,4,Blue 2,3792,,,0,1,FALSE,,,TRUE,0,3,,0,Solo Climb,Failed Auto,Ground,
+,Luke Thompson,4,Red 3,1622,,,0,1,TRUE,,,TRUE,0,0,,0,Solo Climb,,Ground,"Note got stuck in frame, could only defend"
+,Jonathan,4,Red 1,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,Disabled,,did not move
+,Dillon,4,Red 1,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,Disabled,,Thang was not on.
+,alex,4,Blue 3,2341,,,0,1,FALSE,,,FALSE,0,3,,0,Solo Climb,,"Ground , Source",shooter seemed sorta flimsy but not too bad
+,Taj,4,Red 3,1622,,,0,1,TRUE,,,TRUE,0,0,,0,,,,Note stuck
+,Aiden,4,Blue 1,1038,,,0,,TRUE,,,FALSE,5,0,,0,,,Ground,Might be a good choice since we’re primarily speaker and they’re primary amp
+,zofia,4,Red 2,3937,,,0,1,TRUE,,,FALSE,7,5,,0,,,Ground,woahhhhhh super fastt and high scorer
+,Garys,4,Blue 1,1038,,,0,0,FALSE,,,FALSE,4,0,,0,,,Ground,Mostly git notes from ground by the source; Amp scoring robot saw no speaker shots. Tall and bulky yet not tippy somehow. Hiding behind Amp during auto so early data could be slightly off.
+,Jazlyn,4,Red 2,3937,,,0,1,TRUE,,,TRUE,5,5,,0,,Failed Auto,Ground,"picked up 2 notes duirng auto, failed to shoot the first note before getting the other"
+,Leif,4,Blue 3,2341,,,0,1,FALSE,,,FALSE,0,3,,0,Solo Climb,,"Ground , Source","The robot was overrun with the defense of the other team, and actually participated in lots of defense on its own, which prevented the other team from getting certain notes in the source area. The robot is not very fast, but is not slow."
+,Jazlyn,5,Red 2,9067,,,0,0,FALSE,,,TRUE,1,3,,0,Solo Climb,,,
+,zofia,5,Red 2,9067,,,0,0,FALSE,,,FALSE,1,2,,0,Solo Climb,,Ground,
+,Aiden,5,Blue 1,1781,,,,2,FALSE,,,FALSE,3,2,,0,Solo Climb,,Ground,
+,Taj,5,Red 3,3102,,,0,1,FALSE,,,FALSE,1,3,,0,Solo Climb,,Ground,
+,Luke Thompson,5,Red 3,3102,,,0,1,FALSE,,,TRUE,0,2,,0,Solo Climb,,"Ground , Source",
+,Dillon,5,Red 1,4336,,,0,0,TRUE,,,TRUE,0,0,,0,Solo Climb,,,Never scored only climbed.
+,Jalen,5,Blue 2,16,,,0,3,TRUE,Left Spike,,FALSE,2,3,,0,2 Robot Climb,,"Ground , Source",That 7525 robot was cooking
+,Leif,5,Blue 3,7525,,,0,3,TRUE,,,FALSE,0,6,,0,Solo Climb,,"Ground , Source","The best robot at comp, no more explanation needed."
+,Leif,5,Blue 3,7525,,,0,3,TRUE,,,FALSE,0,6,,0,Solo Climb,,"Ground , Source","The best robot at comp, no more explanation needed."
+,Coby,5,Blue 2,16,,,0,3,TRUE,,,FALSE,1,2,,0,,,"Ground , Source",Autos paired well
+,Jonathan,5,Red 1,4336,,,0,0,TRUE,,,FALSE,0,0,,0,,Failed Auto,,Played defense whole match
+,Garys,5,Blue 1,1781,,,0,1,FALSE,,,FALSE,5,2,,0,2 Robot Climb,,Ground,Can score both Amp and speaker really well.
+,Coby fixed,6,Blue 2,6586,,,0,0,FALSE,,,FALSE,0,0,,0,,"Tipped/Tippy , Failed Auto","Ground , Source",Rough
+,Jalen,6,Blue 2,6586,,,0,0,TRUE,Failed Center Spike,,FALSE,0,0,,0,Solo Climb,,"Ground , Source",
+,alex,6,Blue 3,5454,,,0,0,FALSE,,,FALSE,0,9,,0,,,"Ground , Source",literally just spun around in auto?
+,Elaria,6,Red 1,2992,,,0,0,FALSE,Center Spike,,FALSE,7,0,,0,,,Ground,
+,Aiden,6,Blue 1,9608,,,,,FALSE,,,FALSE,0,0,,0,Solo Climb,Parts Fell Off/Broke,Source,
+,Taj,6,Red 3,6186,,,0,1,TRUE,,,FALSE,0,0,,0,,,Ground,Missed every shot
+,Luke Thompson,6,Red 3,6186,,,0,0,FALSE,,,FALSE,0,0,,0,,,Source,"Fed notes the whole match, wasn’t good at in taking"
+,Zofia,6,Red 2,4107,,,0,0,FALSE,,,FALSE,0,8,,0,Solo Climb,,"Ground , Source",
+,Dillon,6,Red 1,2992,,,0,0,TRUE,,,FALSE,8,0,,0,,,"Ground , Source",Amp score only reliable one fouled a lot too
+,Jazlyn,6,Red 2,4107,,,0,0,FALSE,,,TRUE,0,7,,0,Solo Climb,,"Ground , Source","couldn’t see the bumper during auto, not sure if i got that right. scored only in speaker"
+,Leif,6,Blue 3,5454,,,0,0,FALSE,,,FALSE,0,9,,0,,,"Ground , Source","Constantly scores speaker, but gets few pints because there were almost no amp scores by the other robots, relatively slow robot as well."
+,Garys,6,Blue 1,9608,,,0,0,FALSE,Failed Center Line 1,,FALSE,0,0,,0,Solo Climb,,Source,Didn't score anything. No floor intake.
+,Taj,7,Red 3,6055,,,0,0,TRUE,,,FALSE,2,1,,0,Solo Climb,,Ground,
+,alex,7,Blue 3,5002,,,0,0,FALSE,,,FALSE,0,0,,0,,"Disabled , Failed Auto",,literally just a roomba 😭 bro did not cook
+,Aiden,7,Blue 1,2357,,,0,2,FALSE,Center Spike,,FALSE,5,2,,0,,,Ground,
+,zofia,7,Red 2,2341,,,0,0,FALSE,,,FALSE,0,3,,0,Solo Climb,,Ground,driver kinda booty
+,Leif,7,Blue 3,5002,,,0,0,FALSE,,,FALSE,0,0,,0,,"Disabled , Failed Auto",,"The robot was a Roomba, and nothing else, pretty sure there was a malfunction on the code side."
+,Luke Thompson,7,Red 3,6055,,,0,0,TRUE,,,FALSE,4,1,,0,Solo Climb,,Ground,Human player did not support their ampage
+,Jalen,7,Blue 2,7483,,,0,0,FALSE,,,FALSE,0,0,,2,Solo Climb,,,This robot needs to do better
+,Elaria,7,Red 1,9429,,,0,1,FALSE,,,FALSE,0,0,,0,,,,"only scored one during auto, did defense but fouled"
+,Jazlyn,7,Red 2,2341,,,0,0,FALSE,,,FALSE,0,5,,0,Solo Climb,,Ground,seemed to have a little trouble picking up notes
+,Garys,7,Blue 1,2357,,,0,2,FALSE,"Center Spike , Left Spike",,TRUE,7,1,,0,Solo Climb,,Ground,Mainly scores Amp + can score speaker well. Overall good bot.
+,Coby,7,Blue 2,7483,,,0,0,FALSE,,,FALSE,0,0,,0,,Failed Auto,Ground,
+,Dillon,7,Red 1,9429,,,0,0,TRUE,,,TRUE,0,0,,0,,Parts Fell Off/Broke,,Broke in auto. Never scored
+,Jalen,8,Blue 2,8044,,,0,0,FALSE,,,FALSE,2,5,,0,Solo Climb,,,
+,zofia,8,Red 2,1038,,,0,1,TRUE,,,FALSE,3,0,,0,Solo Climb,,Ground,"alright, slow amp"
+,Garys,8,Blue 1,2190,,,0,0,FALSE,,,FALSE,0,0,,0,,,,Did not play/was not in arena.
+,Garys,8,Blue 1,2190,,,0,0,FALSE,,,FALSE,0,0,,0,,,,Did not play/was not in arena.
+,Dillon,8,Red 1,7525,,,0,3,TRUE,,,FALSE,0,4,,0,Solo Climb,Parts Fell Off/Broke,"Ground , Source",RAHHHHHHHH
+,Jonathan,8,Red 1,7525,,,0,3,TRUE,"Center Spike , Left Spike , Failed Right Spike",,FALSE,0,6,,0,Solo Climb,,Ground,i mean what can i say... we da best
+,Leif,8,Blue 3,3792,,,0,1,TRUE,,,FALSE,0,7,,0,,Failed Auto,"Ground , Source","Robot is efficient with speaker scoring, and is a medium speed robot."
+,Leif,8,Blue 3,3792,,,0,1,TRUE,,,FALSE,0,7,,0,,Failed Auto,"Ground , Source","Robot is efficient with speaker scoring, and is a medium speed robot."
+,Jazlyn,8,Red 2,1038,,,0,0,FALSE,,,FALSE,3,0,,0,Solo Climb,,Ground,maybe had issues with auto? only scored in amp and climbed early
+,Coby,8,Blue 2,8044,,,0,0,FALSE,,,FALSE,0,5,,0,Solo Climb,Failed Auto,,
+,Nisala,8,Red 3,323,,,0,0,FALSE,,,FALSE,0,5,,0,,,Ground,
+,Nisala,8,Red 3,323,,,0,0,FALSE,,,FALSE,0,5,,0,,,Ground,
+,Taj,9,Red 3,1781,,,0,1,TRUE,,,TRUE,4,2,,0,Solo Climb,,Ground,
+,alex,9,Blue 3,5437,,,0,0,FALSE,,,FALSE,0,0,,0,,,,bro is worse than a roomba 😭 at least roombas can move without shaking
+,Aiden,9,Blue 1,3937,,,,,FALSE,"Center Line 1 , Center Line 2",,FALSE,2,3,,0,,,Ground,
+,Luke Thompson,9,Red 3,1781,,,0,1,TRUE,,,TRUE,4,3,,0,Solo Climb,,"Ground , Source",Good
+,Coby,9,Blue 2,4336,,,0,1,TRUE,,,FALSE,0,2,,0,,"Parts Fell Off/Broke , Failed Auto",Ground,
+,Jonathan,9,Red 1,1622,,,0,1,TRUE,Center Spike,,FALSE,2,4,,0,Solo Climb,,Ground,
+,Dillon,9,Red 1,1622,,,0,2,TRUE,,,TRUE,1,2,,0,Solo Climb,,"Ground , Source","Intake, more like outtake. Bad intake."
+,zofia,9,Red 2,9067,,,0,1,TRUE,,,FALSE,2,0,,0,Solo Climb,,Ground,"if they can shoot speaker it malfunctioned, their driver is on smth that i don’t want bleh"
+,Jazlyn,9,Red 2,9067,,,0,1,TRUE,,,TRUE,2,0,,0,Solo Climb,,Ground,"bumped a lot, wasn’t really working with their alliance (kept crashing into them and fighting to score in the amp)"
+,Garys,9,Blue 1,3937,,,0,1,TRUE,"Center Line 1 , Center Line 2",,TRUE,4,2,,0,,,Ground,"Okay at scoring, but controls seem slippy. Might want to prioritize Amp over speaker but could go either way."
+,Leif,9,Blue 3,5437,,,0,0,FALSE,,,FALSE,0,0,,0,,Failed Auto,,"An incredibly sad robot fail, couldn’t move most of the game, it appeared to be some major PID issue, as it was constantly shaking."
+,Jalen,9,Blue 2,4336,,,0,1,TRUE,,,FALSE,1,4,,0,,,,
+,zofia,10,Red 2,3102,,,0,1,FALSE,,,FALSE,0,5,,0,Solo Climb,,Source,"pretty good for a source only robot, good driver"
+,Jonathan,10,Red 1,3616,,,0,0,FALSE,,,FALSE,0,6,,0,Solo Climb,,"Ground , Source",
+,Taj,10,Red 3,2992,,,0,1,FALSE,,,FALSE,5,1,,0,,,Source,Fast
+,Luke Thompson,10,Red 3,2992,,,0,1,TRUE,,,FALSE,6,1,,0,,,Ground,
+,Dillon,10,Red 1,3616,,,0,0,FALSE,,,FALSE,0,6,,0,,,"Ground , Source",Kinda slow good at scoring
+,Aiden,10,Blue 1,2341,,,,,FALSE,,,FALSE,0,5,,0,Solo Climb,Failed Auto,Ground,A note slipped under its wheel at some point and cost them some time
+,alex,10,Blue 3,6186,,,0,0,FALSE,,,FALSE,0,0,,0,,Failed Auto,Source,"shooter was horrible, same w pid"
+,Coby,10,Blue 2,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,"Parts Fell Off/Broke , Failed Auto",,Don’t know how to drive w/ swerve
+,Jalen,10,Blue 2,9073,,,0,0,FALSE,,,FALSE,0,0,,0,Solo Climb,,,It didnt do anything to secure blue’s win
+,Leif,10,Blue 3,6186,,,0,0,FALSE,,,FALSE,0,0,,0,,Failed Auto,Source,"Very poor strategy, it only took notes and shot them to the other side."
+,Garys,10,Blue 1,2341,,,0,0,FALSE,,,FALSE,0,5,,0,Solo Climb,,Ground,Had trouble with ground intake ay beginning then got better. Scored speaker only.
+,Jazlyn,10,Red 2,3102,,,0,1,FALSE,,,TRUE,0,4,,1,Solo Climb,,Source,"took a while to move from the source the first time thue went, climb was just barely a climb"
+,Luke Thompson,11,Red 2,8044,,,0,0,FALSE,,,FALSE,2,6,,0,Solo Climb,,Ground,
+,lucia,11,Blue 3,7525,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike",,FALSE,0,3,,0,Solo Climb,Parts Fell Off/Broke,"Ground , Source",note stuck in intake?
+,Fanta,11,Blue 2,5002,,,0,0,TRUE,,,FALSE,0,0,,0,,,,Didn’t attempt to take a note or score
+,Maggie,11,Red 2,8044,,,0,0,FALSE,,,FALSE,1,6,,0,Solo Climb,,Ground,No auto
+,Jalen,11,Blue 2,5002,,,0,0,FALSE,,,FALSE,0,0,,0,2 Robot Climb,Disabled,,Disgusting play
+,Dillon,11,Blue 3,7525,,,0,4,TRUE,,,FALSE,0,4,,0,Solo Climb,Parts Fell Off/Broke,"Ground , Source",Goated. Note stuck. Goated w defense
+,Garys,11,Blue 1,4107,,,0,1,FALSE,,,FALSE,1,2,,0,Solo Climb,,Source,
+,Garys,11,Blue 1,4107,,,0,1,FALSE,,,FALSE,1,2,,0,Solo Climb,,Source,
+,Logan,11,Red 3,3792,,,0,1,TRUE,Left Spike,,FALSE,0,1,,0,2 Robot Climb,,Ground,They missed the speaker many times and drove quite slowly.
+,Logan,11,Red 3,3792,,,0,1,TRUE,Left Spike,,FALSE,0,1,,0,2 Robot Climb,,Ground,They missed the speaker many times and drove quite slowly.
+,Nisala,11,Red 1,7483,,,0,0,FALSE,,,FALSE,0,0,,0,,Disabled,,Fully broken entire match
+,Nisalsa,11,Red 1,7483,,,0,0,FALSE,,,FALSE,0,0,,0,,Disabled,,Did not move.
+,Luke,12,Red 2,323,,,0,1,FALSE,,,TRUE,2,0,,0,,Disabled,Ground,Robot stopped working halfway through
+,lucia,12,Blue 3,2190,,,0,0,TRUE,,,FALSE,0,0,,0,,Tipped/Tippy,,"barely moved around at all, kinda just stayed still"
+,Fanta,12,Blue 2,3937,,,0,2,FALSE,,,FALSE,2,6,,0,,,Ground,
+,Jalen,12,Blue 2,3937,,,0,2,TRUE,"Left Spike , Failed Center Line 4",,FALSE,1,4,,0,Solo Climb,,Source,
+,Dillon,12,Blue 3,2190,,,0,0,TRUE,,,FALSE,0,0,,0,,Tipped/Tippy,,So bad. No intake. I dont know what was happening.
+,Garys,12,Blue 1,6055,,,0,0,FALSE,,,FALSE,3,1,,0,Solo Climb,,Ground,Slow movement note wise. Need to change angle for speaker shot.
+,Garys,12,Blue 1,6055,,,0,0,FALSE,,,FALSE,3,1,,0,Solo Climb,,Ground,Slow movement note wise. Need to change angle for speaker shot.
+,Maggie,12,Red 2,323,,,0,0,TRUE,,,TRUE,1,1,,0,,Disabled,Ground,Sat at choke point for most of match. Disabled?
+,Logan,12,Red 3,4336,,,0,1,TRUE,,,FALSE,2,3,,0,,,Ground,"Really slow driving, couldn’t get past defense."
+,Logan,12,Red 3,4336,,,0,1,TRUE,,,FALSE,2,3,,0,,,Ground,"Really slow driving, couldn’t get past defense."
+,Nisala,12,Red 1,6586,,,0,0,TRUE,,,FALSE,0,0,,0,,"Tipped/Tippy , Made Alliance Fail Climb",Ground,"Tippy, got in the way during amplification, bad maneuverability"
+,Nisalsa,12,Red 1,6586,,,0,0,TRUE,,,FALSE,0,0,,0,,,Ground,Shooter is very inconsistent and not powerful enough.
+,Owen Reynolds,13,Red 1,1622,,,0,1,TRUE,,,FALSE,0,5,,0,Solo Climb,,"Ground , Source",
+,Owen Reynolds,13,Red 1,1622,,,0,1,TRUE,,,FALSE,0,5,,0,Solo Climb,,"Ground , Source",
+,lucia,13,Blue 3,9067,,,0,1,TRUE,,,FALSE,1,0,,0,Solo Climb,,Ground,"kept trying to score in amp, but kept missing"
+,Luke Thompson,13,Red 2,5454,,,0,1,FALSE,,,FALSE,1,0,,0,,,Ground,Could barely intake
+,Taj,13,Blue 3,9067,,,0,0,FALSE,,,FALSE,1,0,,0,Solo Climb,,Ground,Bad at speaker
+,Garys,13,Blue 1,16,,,0,1,FALSE,Center Line 5,,FALSE,0,1,,0,3 Robot Climb,,Ground,Note got stuck In intake early on. Resorted to defence.
+,Garys,13,Blue 1,16,,,0,1,FALSE,Center Line 5,,FALSE,0,1,,0,3 Robot Climb,,Ground,Note got stuck In intake early on. Resorted to defence.
+,Maggie,13,Red 2,5454,,,0,1,FALSE,,,FALSE,2,0,,0,,,Ground,Got stuck in the corner for a while.
+,Fanta,13,Blue 2,3616,,,0,1,FALSE,"Left Spike , Failed Left Spike",,FALSE,0,6,,0,,,"Ground , Source",Only shot in speaker
+,Fanta,13,Blue 2,3616,,,0,1,FALSE,"Left Spike , Failed Left Spike",,FALSE,0,6,,0,,,"Ground , Source",Only shot in speaker
+,Logan,13,Red 3,2357,,,0,1,TRUE,,,FALSE,1,2,,0,2 Robot Climb,Parts Fell Off/Broke,Ground,"Because of their clumsy and slow driving they crashed into teammates and opponents, eventually losing a piece of their robot. They also struggled to intake from the ground multiple times."
+,Logan,13,Red 3,2357,,,0,1,TRUE,,,FALSE,1,2,,0,2 Robot Climb,Parts Fell Off/Broke,Ground,"Because of their clumsy and slow driving they crashed into teammates and opponents, eventually losing a piece of their robot. They also struggled to intake from the ground multiple times."
+,Taj,14,Blue 3,9429,,,0,0,TRUE,,,FALSE,0,1,,0,,,Source,Shooter has no power
+,lucia,14,Blue 3,9429,,,0,0,TRUE,,,FALSE,0,2,,0,,,Source,
+,Garys,14,Blue 1,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,,,Stayed in one spot or made small circles through match. No notes collected or scored.
+,Garys,14,Blue 1,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,,,Stayed in one spot or made small circles through match. No notes collected or scored.
+,Maggie,14,Red 2,1781,,,0,1,TRUE,,,TRUE,5,5,,0,Solo Climb,,,
+,Shubh,14,Red 2,1781,,,0,1,FALSE,,,FALSE,3,5,,0,Solo Climb,,Ground,
+,Owen Reynolds,14,Red 1,5437,,,0,0,FALSE,,,FALSE,0,0,,0,Solo Climb,"Tipped/Tippy , Failed Auto",,
+,Owen Reynolds,14,Red 1,5437,,,0,0,FALSE,,,FALSE,0,0,,0,Solo Climb,"Tipped/Tippy , Failed Auto",,
+,Fanta,14,Blue 2,1038,,,1,0,FALSE,,,FALSE,6,0,,0,Solo Climb,,"Ground , Source",
+,Jalen,14,Blue 2,1038,,,0,0,TRUE,,,FALSE,4,0,,0,Solo Climb,,Ground,
+,Logan,14,Red 3,9608,,,0,0,TRUE,,,FALSE,0,0,,0,Solo Climb,,Source,"Their shooter was too weak to score on speaker, and when they tried to intake from the source they failed times. After this they decided to give up and play defense."
+,Logan,14,Red 3,9608,,,0,0,TRUE,,,FALSE,0,0,,0,Solo Climb,,Source,"Their shooter was too weak to score on speaker, and when they tried to intake from the source they failed times. After this they decided to give up and play defense."
+,Jalen,15,Blue 2,3102,,,0,1,FALSE,,,FALSE,0,4,,0,Solo Climb,,Source,
+,Owen Reynolds,15,Red 1,7525,,,0,3,TRUE,"Center Spike , Left Spike",,FALSE,1,7,,0,Solo Climb,,"Ground , Source",Hard Carry
+,Owen Reynolds,15,Red 1,7525,,,0,3,TRUE,"Center Spike , Left Spike",,FALSE,1,7,,0,Solo Climb,,"Ground , Source",Hard Carry
+,Maggie,15,Red 2,7483,,,0,0,FALSE,,,FALSE,2,0,,0,,,Ground,
+,Shubh,15,Red 2,7483,,,0,0,FALSE,,,FALSE,2,1,,0,,,,"Super slow, and they often get in the way of other robots"
+,lucia,15,Blue 3,6586,,,0,0,TRUE,,,FALSE,0,0,,0,Solo Climb,,Source,mostly played defense
+,lucia,15,Blue 3,6586,,,0,0,TRUE,,,FALSE,0,0,,0,Solo Climb,,Source,mostly played defense
+,John davis,15,Blue 2,3102,,,1,1,TRUE,,,FALSE,0,4,,0,Solo Climb,,Source,Half of this might be wrong (I was too focused on our robot)
+,Garys,15,Blue 1,4107,,,0,0,FALSE,,,FALSE,0,0,,0,3 Robot Climb,,,Appears to be stuck in up position. R resorted to a small amount of defense. Tall robot could fall if only defensive.
+,Garys,15,Blue 1,4107,,,0,0,FALSE,,,FALSE,0,0,,0,3 Robot Climb,,,Appears to be stuck in up position. R resorted to a small amount of defense. Tall robot could fall if only defensive.
+,Logan,15,Red 3,2190,,,0,0,TRUE,,,FALSE,0,0,,0,Solo Climb,Tipped/Tippy,,They could barely move so they didn’t really do anything.
+,Logan,15,Red 3,2190,,,0,0,TRUE,,,FALSE,0,0,,0,Solo Climb,Tipped/Tippy,,They could barely move so they didn’t really do anything.
+,Shubh,16,Red 2,2992,,,0,1,FALSE,,,TRUE,3,3,,0,,,,
+,Maggie,16,Red 2,2992,,,0,1,TRUE,,,TRUE,4,5,,0,,,Ground,
+,lucia,16,Blue 3,9067,,,0,0,TRUE,"Right Spike , Center Spike",,TRUE,2,2,,0,Solo Climb,,"Ground , Source",their auto keeps missing notes in the speaker.
+,Fanta,16,Blue 2,6186,,,0,0,FALSE,,,FALSE,0,0,,0,,,Source,"Only received from source, didn’t attempt to score, but gave notes to other teams."
+,Ridge,16,Blue 2,6186,,,0,1,,,,FALSE,0,1,,0,,Disabled,Source,"Source intake was very shaky, often got disabled because of this"
+,Logan,16,Red 3,1622,,,0,2,FALSE,Left Spike,,FALSE,1,9,,0,,Tipped/Tippy,Ground,"Really tippy when their intake is up, but otherwise really quick and precise driving"
+,Logan,16,Red 3,1622,,,0,2,FALSE,Left Spike,,FALSE,1,9,,0,,Tipped/Tippy,Ground,"Really tippy when their intake is up, but otherwise really quick and precise driving"
+,lucia,16,Blue 3,9067,,,0,0,TRUE,"Right Spike , Center Spike",,TRUE,2,2,,0,Solo Climb,,"Ground , Source",their auto keeps missing notes in the speaker.
+,Nisala,16,Blue 1,3616,,,0,0,TRUE,Left Spike,,FALSE,2,3,,0,Solo Climb,,Ground,"Lots of shooter aim issues, got in the way during amplification, slow (basically just controls skill issues)"
+,Nisala,16,Blue 1,3616,,,0,0,TRUE,Left Spike,,FALSE,2,3,,0,Solo Climb,,Ground,"Lots of shooter aim issues, got in the way during amplification, slow (basically just controls skill issues)"
+,Nisalsa,16,Red 1,5002,,,0,0,FALSE,,,FALSE,0,0,,0,,,,"Very bad drive, drew fouls, cannot defend at all"
+,Nisalsa,16,Red 1,5002,,,0,0,FALSE,,,FALSE,0,0,,0,,,,"Very bad drive, drew fouls, cannot defend at all"
+,lucia,17,Blue 3,8044,,,0,0,TRUE,,,FALSE,2,2,,0,Solo Climb,,"Ground , Source",
+,Fanta,17,Blue 1,2341,,,0,0,TRUE,,,FALSE,0,0,,0,,,Ground,
+,Maggie,17,Red 2,6055,,,0,0,TRUE,,,FALSE,1,3,,0,Solo Climb,,Ground,
+,Danyar,17,Red 2,6055,,,0,1,FALSE,,,FALSE,1,5,,1,2 Robot Climb,,"Ground , Source",
+,Ridge,17,Blue 2,1781,,,0,1,FALSE,,,FALSE,3,5,,0,Solo Climb,,Ground,
+,Damari,17,Blue 1,2341,,,0,0,FALSE,,,FALSE,0,1,,0,,Failed Auto,Ground,
+,Coby,17,Blue 2,1781,,,0,0,FALSE,,,TRUE,1,6,,0,Solo Climb,Failed Auto,Ground,
+,Noah Carrillo,17,Red 3,3792,,,0,0,FALSE,,,FALSE,0,3,,0,,"Disabled , Failed Auto",Ground,
+,Owen Reynolds,17,Red 1,5437,,,0,0,FALSE,,,FALSE,0,0,,0,Solo Climb,"Tipped/Tippy , Parts Fell Off/Broke",,"Extremely Tippy, parts were flying off as it crashed into the stage and blue alliance robots"
+,Owen Reynolds,17,Red 1,5437,,,0,0,FALSE,,,FALSE,0,0,,0,Solo Climb,"Tipped/Tippy , Parts Fell Off/Broke",,"Extremely Tippy, parts were flying off as it crashed into the stage and blue alliance robots"
+,Logan,17,Red 3,3792,,,0,0,FALSE,,,FALSE,0,1,,0,2 Robot Climb,Parts Fell Off/Broke,Ground,They were very clumsy and snapped a piece their intake.
+,sofiya,17,Blue 3,8044,,,0,0,TRUE,,,FALSE,2,3,,0,Solo Climb,,Ground,
+,Maggie,18,Red 2,9608,,,0,0,TRUE,,,FALSE,0,1,,0,Solo Climb,,,
+,Coby,18,Blue 2,16,,,0,2,FALSE,,,FALSE,0,3,,0,Solo Climb,,"Ground , Source",
+,Damari,18,Blue 1,5454,,,0,0,FALSE,,,FALSE,1,1,,0,,,Ground,
+,lucia,18,Blue 3,3937,,,0,1,TRUE,"Center Line 1 , Center Line 2",,TRUE,5,5,,0,,,"Ground , Source",very inconsistent shooter
+,Fanta,18,Blue 1,5454,,,0,0,TRUE,,,FALSE,2,1,,1,,,Ground,
+,Danyar,18,Red 2,9608,,,0,0,FALSE,,,FALSE,0,1,,0,2 Robot Climb,,Source,
+,Noah Carrillo,18,Red 3,9429,,,0,0,TRUE,,,FALSE,0,0,,0,,"Disabled , Failed Auto",Source,
+,Ridge,18,Blue 2,16,,,0,3,FALSE,,,FALSE,0,4,,0,Solo Climb,,Ground,Focused on firing towards teammates that round
+,Jonathan,18,Red 1,323,,,0,0,FALSE,,,FALSE,2,0,,0,,Tipped/Tippy,,note got stuck and flipped onto its side
+,sofiya,18,Blue 3,3937,,,0,1,TRUE,"Center Line 4 , Center Line 5",,FALSE,6,4,,0,,,,
+,Logan,18,Red 3,9429,,,0,0,FALSE,,,FALSE,0,0,,0,Solo Climb,,Source,"Its a kit bot, they couldn’t shoot or defend."
+,Owen Reynolds,18,Red 1,323,,,0,0,TRUE,,,FALSE,2,0,,0,Solo Climb,"Disabled , Failed Auto",Ground,"Note got stuck in intake very early on, during climb the robot tipped over. Robot froze for a solid 20 seconds, defense was nothing to write home about."
+,Damari,19,Blue 1,1038,,,0,0,FALSE,,,FALSE,4,0,,0,Solo Climb,,Ground,
+,lucia,19,Blue 3,4336,,,0,3,TRUE,"Right Spike , Center Spike , Left Spike",,FALSE,2,5,,0,Solo Climb,,"Ground , Source",nearly missed climb at the end
+,Danyar,19,Red 2,9073,,,0,0,FALSE,,,FALSE,3,0,,0,Solo Climb,,Ground,
+,Maggie,19,Red 2,9073,,,0,0,FALSE,,,TRUE,3,0,,0,,,Ground,Can only ground intake and amp score.
+,Fanta,19,Blue 1,1038,,,0,0,FALSE,,,FALSE,5,0,,0,,,Ground,Only scored in amp
+,Jonathan,19,Red 1,2357,,,0,0,TRUE,,,TRUE,2,1,,0,Solo Climb,,Ground,intake is kinda bad
+,Noah Carrillo,19,Red 3,6186,,,0,0,FALSE,,,FALSE,1,0,,0,,,Source,Did not climb
+,Ridge,19,Blue 2,4107,,,0,1,FALSE,,,FALSE,1,2,,0,,"Parts Fell Off/Broke , Failed Auto",Source,Intake broke partway into match
+,Ridge,19,Blue 2,4107,,,0,1,FALSE,,,FALSE,1,2,,0,,"Parts Fell Off/Broke , Failed Auto",Source,Intake broke partway into match
+,Owen Reynolds,19,Red 1,2357,,,0,1,TRUE,"Failed Right Spike , Failed Center Spike",,FALSE,2,1,,0,Solo Climb,Failed Auto,"Ground , Source","Missed amp one, auto wasn't optimized for under the bumper intake"
+,sofiya,19,Blue 3,4336,,,0,2,TRUE,,,FALSE,1,5,,0,Solo Climb,,Ground,overshot frequently
+,Logan,19,Red 3,6186,,,0,0,FALSE,,,FALSE,0,0,,0,Solo Climb,,Source,"They are on a tank drive system so they are very slow, and they couldn’t really line up to score anything. Their defense was also not great"
+,lucia,20,Blue 3,3102,,,0,1,TRUE,,,TRUE,0,5,,0,Solo Climb,,"Ground , Source",
+,Danyar,20,Red 2,2190,,,0,0,FALSE,,,TRUE,0,0,,0,,,Source,
+,Damari,20,Blue 1,1622,,,0,2,FALSE,,,FALSE,4,3,,0,Solo Climb,,Ground,
+,Noah Carrillo,20,Red 3,6586,,,0,0,TRUE,,,FALSE,0,0,,0,,,Source,Did not attempt to climb.
+,Fanta,20,Blue 1,1622,,,0,2,FALSE,Left Spike,,FALSE,6,1,,0,Solo Climb,,Ground,
+,Dillon,20,Red 1,6055,,,0,1,TRUE,,,FALSE,0,1,,0,,Parts Fell Off/Broke,Ground,Note got stuck
+,Jonathan,20,Red 1,6055,,,0,1,TRUE,Failed Center Spike,,FALSE,0,1,,0,,Made Alliance Fail Climb,Ground,note got stuck midway
+,Ridge,20,Blue 2,3792,,,0,0,FALSE,,,FALSE,0,2,,0,,"Disabled , Parts Fell Off/Broke , Failed Auto",Ground,An absolutely complete and utter breakdown
+,Ridge,20,Blue 2,3792,,,0,0,FALSE,,,FALSE,0,2,,0,,"Disabled , Parts Fell Off/Broke , Failed Auto",Ground,An absolutely complete and utter breakdown
+,Maggie,20,Red 2,2190,,,0,0,TRUE,,,FALSE,0,0,,0,,,Ground,Played defense for most of the match.
+,Logan,20,Red 3,6586,,,0,0,TRUE,,,FALSE,0,0,,0,,,Ground,"Goodish driving but they are on tank drive, they couldn’t score in anything because their aim was off. Bad at defense"
+,sofiya,20,Blue 3,3102,,,0,1,TRUE,,,FALSE,0,5,,0,Solo Climb,,Source,
+,Coby,21,Blue 2,9608,,,0,0,FALSE,,,FALSE,0,2,,0,Solo Climb,Failed Auto,Source,
+,alex,21,Blue 3,5002,,,0,0,FALSE,,,FALSE,0,1,,0,,Failed Auto,Ground,scored a single note and then just sat there under the stage 💀
+,Jalen,21,Blue 2,9608,,,0,0,FALSE,,,FALSE,0,2,,1,Solo Climb,,Source,
+,zofia,21,Red 2,2341,,,0,1,FALSE,,,FALSE,0,3,,0,Solo Climb,,Ground,"kept missing speaker, their climb scares me it’s just their arm folding on the chain"
+,Aiden,21,Blue 1,8044,,,0,0,TRUE,,,FALSE,3,3,,0,Solo Climb,,Ground,
+,Danyar,21,Red 1,9067,,,0,3,FALSE,,,TRUE,2,3,,1,Solo Climb,,"Ground , Source",
+,Dillon,21,Red 1,9067,,,0,1,TRUE,,,FALSE,1,1,,0,,,"Ground , Source",I was so confused. It kept hitting walls.
+,Leif,21,Blue 3,5002,,,0,0,FALSE,,,FALSE,0,1,,0,,Failed Auto,Ground,"Simply a bad robot. Many issues, moves slowly, did not do defense even though it could have tried. Moved to the stage and basically disabled when it picked up the broken note."
+,Taj,21,Red 3,5454,,,0,0,FALSE,,,FALSE,1,4,,0,,,"Ground , Source",Auto not good
+,Garys,21,Blue 1,8044,,,0,0,FALSE,,,FALSE,4,3,,0,Solo Climb,,Ground,Got a note stuck by swerve had to go defensive. Unable to climb I think (back heavy)
+,Luke,21,Red 3,5454,,,0,1,FALSE,,,FALSE,2,4,,0,,,"Ground , Source","Amp scoring kinda violent, have to ram into amp for it to go in"
+,Jazlyn,21,Red 2,2341,,,0,1,FALSE,,,FALSE,0,3,,0,Solo Climb,,Ground,"missed a lot of shots, kinda roamed for a bit"
+,zofia,22,Red 2,5437,,,1,0,FALSE,,,FALSE,0,0,,0,Solo Climb,,,didn’t do ANYTHING BLEH we lost
+,Danyar,22,Red 1,7525,,,0,3,FALSE,,,TRUE,1,7,,0,Solo Climb,,"Ground , Source",
+,Luke,22,Red 3,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,,,"Note got stuck, could only play defense"
+,Jazlyn,22,Red 2,5437,,,0,0,FALSE,,,FALSE,0,0,,0,Solo Climb,,,
+,Dillon,22,Red 1,7525,,,0,3,TRUE,,,FALSE,0,6,,0,,Disabled,"Ground , Source",New world conspiracy has forsaken us
+,Garys,22,Blue 1,7483,,,0,0,FALSE,,,FALSE,2,0,,0,2 Robot Climb,Tipped/Tippy,Source,Mostly roamed around only attempted to score 3 times. Issues?
+,Garys,22,Blue 1,7483,,,0,0,FALSE,,,FALSE,2,0,,0,2 Robot Climb,Tipped/Tippy,Source,Mostly roamed around only attempted to score 3 times. Issues?
+,Taj,22,Red 3,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,,,"Absolutely screwed us. Didn’t score once. If we could block teams, we should block them."
+,Leif,22,Blue 3,3937,,,0,1,TRUE,"Center Line 1 , Center Line 2 , Center Line 3",,TRUE,4,3,,0,Solo Climb,,Ground,"Robot scored efficiently, as the team’s most balanced robot."
+,Leif,22,Blue 3,3937,,,0,1,TRUE,"Center Line 1 , Center Line 2 , Center Line 3",,TRUE,4,3,,0,Solo Climb,,Ground,"Robot scored efficiently, as the team’s most balanced robot."
+,Nisala,22,Blue 2,323,,,0,1,FALSE,"Left Spike , Center Spike , Right Spike , Center Line 5",,FALSE,0,4,,0,Solo Climb,,Ground,Able to evade defense
+,Nisala,22,Blue 2,323,,,0,1,FALSE,"Left Spike , Center Spike , Right Spike , Center Line 5",,FALSE,0,4,,0,Solo Climb,,Ground,Able to evade defense
+,zofia,23,Red 2,1038,,,0,0,FALSE,,,FALSE,2,0,,0,Solo Climb,,,
+,Aiden,23,Blue 1,4336,,,0,1,TRUE,,,FALSE,3,3,,0,Solo Climb,,Ground,
+,Danyar,23,Red 1,1781,,,0,1,FALSE,,,TRUE,1,4,,0,3 Robot Climb,,"Ground , Source",
+,Taj,23,Red 3,3616,,,0,0,TRUE,,,FALSE,0,1,,0,Solo Climb,,Ground,Note stuck
+,alex,23,Blue 3,9429,,,0,1,FALSE,,,FALSE,0,0,,0,,,,"no intake, defense was alright though"
+,Luke,23,Red 3,3616,,,0,1,TRUE,,,FALSE,0,2,,0,Solo Climb,,,Notes kept getting stuck in intake
+,Dillon,23,Red 1,1781,,,0,1,TRUE,,,FALSE,1,4,,0,Solo Climb,,"Ground , Source",RAHHHHHHHHH. BLUE TEAM BETTA.
+,Garys,23,Blue 1,4336,,,0,1,FALSE,"Right Spike , Center Spike , Failed Left Spike",,FALSE,2,3,,0,2 Robot Climb,,Ground,
+,Jazlyn,23,Red 2,1038,,,0,0,FALSE,,,FALSE,4,0,,0,Solo Climb,,Ground,aimed for amp
+,Leif,23,Blue 3,9429,,,0,0,FALSE,,,FALSE,0,0,,0,,,,"Did not take any notes in, overall it seemed like a defense robot. Overall defense was very effective, it probably stalled other robots for a full 50-1:00 seconds."
+,Nisala,23,Blue 2,2357,,,0,0,FALSE,,,FALSE,1,4,,0,Solo Climb,,Ground,
+,Nisala,23,Blue 2,2357,,,0,0,FALSE,,,FALSE,1,4,,0,Solo Climb,,Ground,
+,Danyar,24,Red 1,2992,,,0,2,FALSE,,,TRUE,3,2,,0,2 Robot Climb,,"Ground , Source",
+,zofia,24,Red 2,8044,,,0,0,TRUE,,,FALSE,1,1,,0,Solo Climb,Failed Auto,Ground,"climbed with 20 seconds left, continually missed speaker notes, driver not good at positioning for speaker"
+,alex,24,Blue 3,9608,,,0,0,FALSE,,,FALSE,0,0,,0,,,,"kitbot, cant intake and bad defense 😭"
+,Aiden,24,Blue 1,3102,,,0,1,TRUE,,,FALSE,0,4,,0,Solo Climb,,Source,
+,Leif,24,Blue 3,9608,,,0,0,FALSE,,,FALSE,0,0,,0,,Failed Auto,,"The robot is a defense, and nothing else."
+,Taj,24,Red 3,6055,,,0,1,FALSE,,,FALSE,1,0,,0,Solo Climb,,Ground,Just copied bomb squad
+,Garys,24,Blue 1,3102,,,0,1,FALSE,,,FALSE,0,4,,0,Solo Climb,,Source,
+,Dillon,24,Red 1,2992,,,0,2,TRUE,,,FALSE,3,2,,0,,,"Ground , Source",Pretty impressive. Scored consistently and had good teamwork
+,Luke,24,Red 3,6055,,,0,1,FALSE,,,FALSE,1,0,,0,Solo Climb,,Ground,Was feeding notes the whole time
+,Jazlyn,24,Red 2,8044,,,0,0,TRUE,,,FALSE,2,2,,0,Solo Climb,,Ground,didn’t move at the beginning of the match switched between amp and speaker
+,Jalen,24,Blue 2,16,,,0,2,TRUE,Center Spike,,FALSE,1,1,,0,Solo Climb,,Source,It was doing good but it struggled for a while with getting one of the notes in the amp
+,Jalen,24,Blue 2,16,,,0,2,TRUE,Center Spike,,FALSE,1,1,,0,Solo Climb,,Source,It was doing good but it struggled for a while with getting one of the notes in the amp
+,Luke,25,Red 3,5437,,,0,0,FALSE,,,FALSE,0,0,,0,Solo Climb,,,"Note got stuck, had to defend"
+,Luke,25,Red 3,5437,,,0,0,FALSE,,,FALSE,0,0,,0,Solo Climb,,,"Note got stuck, had to defend"
+,Ariana,25,Red 1,323,,,0,0,TRUE,,,FALSE,0,7,,0,,,"Ground, Source",
+,Aiden,25,Blue 1,3937,,,0,1,TRUE,,,FALSE,2,1,,0,Solo Climb,,Ground,
+,Garys,25,Blue 1,3937,,,0,1,FALSE,"Failed Center Line 1 , Failed Center Line 2",,FALSE,3,2,,0,2 Robot Climb,,Ground,
+,Ariana,25,Red 2,1622,,,0,3,TRUE,"Center Spike, Left Spike",,FALSE,4,3,,0,,,Ground,
+,Ariana,25,Red 2,1622,,,0,3,TRUE,"Center Spike, Left Spike",,FALSE,4,3,,0,,,Ground,
+,Ariana,25,Blue 2,7525,,,0,2,FALSE,"Right Spike, Center Spike, Failed Left Spike",,FALSE,0,3,,0,,Disabled,Ground,Disabled at the end
+,Ariana,25,Blue 2,7525,,,0,2,FALSE,"Right Spike, Center Spike, Faild Left Spike",,FALSE,0,3,,0,,Disabled,Ground,Disabled at the end
+,Nisala,25,Red 1,323,,,0,0,TRUE,,,FALSE,0,7,,0,,,"Ground , Source","Goofy source intake, but that's okay."
+,Nisalsa,25,Blue 3,4107,,,0,0,FALSE,,,FALSE,1,3,,0,,,Ground,"Failed climb, missed shots."
+,Nisalsa,25,Blue 3,4107,,,0,0,FALSE,,,FALSE,1,3,,0,,,Ground,"Failed climb, missed shots."
+,Jalen,26,Blue 2,3616,,,0,0,FALSE,,,FALSE,5,0,,0,Solo Climb,,Ground,
+,Danyar,26,Red 1,9067,,,0,0,FALSE,,,FALSE,0,0,,0,Solo Climb,,"Ground , Source",
+,Jazlyn,26,Red 2,6586,,,0,0,TRUE,,,FALSE,0,0,,0,,,,"didn’t do anything 😭
+one wrong turn and it will fall"
+,Jazlyn,26,Red 2,6586,,,0,0,TRUE,,,FALSE,0,0,,0,,,,"didn’t do anything 😭
+one wrong turn and it will fall"
+,alex,26,Blue 3,9429,,,0,2,TRUE,,,FALSE,0,0,,0,,,Source,
+,Aiden,26,Blue 1,5002,,,0,1,FALSE,,,FALSE,0,0,,0,,,,Heavy defense
+,Coby,26,Blue 2,3616,,,0,0,FALSE,,,FALSE,4,0,,0,Solo Climb,Failed Auto,"Ground , Source",
+,Garys,26,Blue 1,5002,,,0,0,FALSE,,,TRUE,0,0,,0,Solo Climb,,Ground,Bad intake; does not touch keep; defensive.
+,Leif,26,Blue 3,9429,,,0,0,TRUE,,,FALSE,0,2,,0,,Failed Auto,Source,"Another defense robot, which scored twice, and good at flipping over robots."
+,Dillon,26,Red 1,9067,,,0,0,TRUE,,,TRUE,0,0,,0,,Parts Fell Off/Broke,Ground,Confused. It like drove around. Bad intake and shooter
+,Nisala,26,Red 3,1038,,,0,0,FALSE,,,FALSE,4,0,,0,Solo Climb,,Ground,Very suceptible to defense -- not as fast as a swerve bot
+,Nisala,26,Red 3,1038,,,0,0,FALSE,,,FALSE,4,0,,0,Solo Climb,,Ground,Very suceptible to defense -- not as fast as a swerve bot
+,Aiden,27,Blue 1,1781,,,0,0,FALSE,,,FALSE,3,4,,0,Solo Climb,,"Ground , Source",
+,Aiden,27,Blue 1,1781,,,0,0,FALSE,,,FALSE,3,4,,0,Solo Climb,,"Ground , Source",
+,Jalen,27,Blue 2,2357,,,0,2,FALSE,Left Spike,,FALSE,2,0,,0,Solo Climb,,"Ground , Source",
+,zofia,27,Red 2,3792,,,0,0,TRUE,,,FALSE,0,4,,0,,,Ground,
+,Dillon,27,Red 1,6186,,,0,0,TRUE,,,TRUE,0,0,,0,,,"Ground , Source",Terrible
+,Dillon,27,Red 1,6186,,,0,0,TRUE,,,TRUE,0,0,,0,,,"Ground , Source",Terrible
+,alex,27,Blue 3,2190,,,0,0,TRUE,,,FALSE,0,0,,0,,,,"note got stuck, decent defense"
+,Jazlyn,27,Red 2,3792,,,0,1,TRUE,,,TRUE,0,5,,0,,,Ground,
+,Leif,27,Blue 3,2190,,,0,0,TRUE,,,FALSE,0,0,,0,,,,Yet another defense robot that prevented the other team’s robots from scoring by going to the other team’s subwoofer.
+,Coby,27,Blue 2,2357,,,0,2,FALSE,,,FALSE,1,2,,0,Solo Climb,,"Ground , Source",
+,Nisala,27,Red 3,5454,,,0,0,FALSE,,,FALSE,5,4,,0,,,Ground,Very impressive!
+,Nisala,27,Red 3,5454,,,0,0,FALSE,,,FALSE,5,4,,0,,,Ground,Very impressive!
+,Coby,28,Blue 2,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,Failed Auto,,Can’t fire
+,Jalen,28,Blue 2,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,,,
+,zofua,28,Red 2,2341,,,0,1,FALSE,,,TRUE,0,0,,0,,,,"idk if malfunctioned, nothing working only drive"
+,alex,28,Blue 3,2992,,,0,0,TRUE,Left Spike,,FALSE,2,3,,0,,,Ground,
+,Dillon,28,Red 1,4336,,,0,2,TRUE,,,TRUE,2,3,,0,,,"Ground , Source",It was ok at scoring.
+,Garys,28,Blue 1,7483,,,0,0,FALSE,,,TRUE,1,1,,0,,Tipped/Tippy,Ground,
+,Jazlyn,28,Red 2,2341,,,0,1,FALSE,,,TRUE,0,1,,0,,Tipped/Tippy,Ground,"couldn’t pick up notes, started playing defense"
+,Leif,28,Blue 3,2992,,,0,0,TRUE,Left Spike,,FALSE,3,3,,0,,,Ground,"The robot paused for about 20 seconds to pick up a single note, the rest of the match was efficient."
+,Aiden,28,Blue 1,7483,,,0,0,FALSE,,,FALSE,1,1,,0,,,Ground,
+,Mariana,28,Red 1,4336,,,0,1,FALSE,"Center Spike , Left Spike , Failed Right Spike",,FALSE,2,2,,0,2 Robot Climb,,Ground,interferes with other teams auto causing them to and themselves to mess up in auto
+,Nisala,28,Red 3,16,,,0,1,TRUE,,,FALSE,4,3,,0,Solo Climb,,,Inconsistent shooter from a distance
+,Nisala,28,Red 3,16,,,0,1,TRUE,,,FALSE,4,3,,0,Solo Climb,,,Inconsistent shooter from a distance
+,Danyar,29,Red 1,9067,,,0,0,FALSE,,,TRUE,0,5,,0,2 Robot Climb,,"Ground , Source",
+,Jalen,29,Blue 2,1038,,,1,0,FALSE,,,FALSE,2,0,,1,Solo Climb,,Ground,
+,Garys,29,Blue 1,3102,,,0,1,FALSE,,,FALSE,0,3,,0,Solo Climb,Tipped/Tippy,Source,
+,Taj,29,Red 3,4107,,,0,0,FALSE,,,FALSE,2,1,,0,,,Ground,Slow slow cycles
+,Aiden,29,Blue 1,3102,,,0,1,TRUE,,,FALSE,0,3,,0,,,Source,
+,zofia,29,Red 2,9429,,,0,1,TRUE,,,FALSE,0,1,,0,Solo Climb,,Source,"only source so slow cycle, not a great bot or driver"
+,Dillon,29,Red 1,9067,,,0,0,FALSE,,,FALSE,0,5,,0,Solo Climb,Parts Fell Off/Broke,"Ground , Source",Not got stuck but they fixed. No auto
+,alex,29,Blue 3,6055,,,0,1,TRUE,,,FALSE,0,2,,0,,,Ground,slow and sorta flimsy
+,Luke Thompson,29,Red 3,4107,,,0,0,FALSE,,,FALSE,4,2,,0,,,"Ground , Source",
+,Coby,29,Blue 2,1038,,,0,0,FALSE,,,FALSE,4,0,,1,Solo Climb,,"Ground , Source",
+,Leif,29,Blue 3,6055,,,0,1,TRUE,,,FALSE,0,3,,0,,,Ground,"Attempted to climb but did not have enough time, along with its climber being small and hard to position."
+,Jazlyn,29,Red 2,9429,,,0,1,FALSE,,,FALSE,0,2,,0,,,,i’m sorry but what was that 😢😢
+,Luke,30,Red 3,3937,,,0,1,TRUE,,,TRUE,3,1,,0,Solo Climb,,Ground,
+,Taj,30,Red 3,3937,,,0,1,FALSE,,,FALSE,1,2,,0,Solo Climb,,Ground,
+,Ariana,30,Blue 1,2357,,,0,1,TRUE,Failed Left Center Line 5,,TRUE,4,1,,0,Solo Climb,,Ground,had a hard time combating defense
+,Ariana,30,Blue 1,2357,,,0,1,TRUE,Failed Left Center Line 5,,TRUE,4,1,,0,Solo Climb,,Ground,had a hard time combating defense
+,Jaleb,30,Blue 2,7525,,,0,2,FALSE,Center Spike,,FALSE,0,0,,0,Solo Climb,Failed Auto,Ground,Their intake is messed up
+,Coby,30,Blue 2,7525,,,0,3,FALSE,,,FALSE,0,1,,0,Solo Climb,Parts Fell Off/Broke,Ground,Shoulda been a penalty
+,Leif,30,Blue 3,9608,,,0,0,FALSE,,,FALSE,0,0,,0,,"Disabled , Failed Auto",,It didn’t do anything the entire round.
+,Dillon,30,Red 1,1781,,,0,1,TRUE,,,TRUE,0,2,,0,Solo Climb,,"Ground , Source",Tbh i didnt watch. Too hype. I dont like 1781
+,Dillon,30,Red 1,1781,,,0,1,TRUE,,,TRUE,0,2,,0,Solo Climb,,"Ground , Source",Tbh i didnt watch. Too hype. I dont like 1781
+,alex,30,Blue 3,9608,,,0,0,FALSE,,,FALSE,0,0,,0,,,,literally didnt do anything
+,Nisala,30,Red 2,5002,,,0,0,TRUE,,,FALSE,0,0,,0,,,,"Reasonable-ish defense against us (I mean, we lost the match)"
+,Nisala,30,Red 2,5002,,,0,0,TRUE,,,FALSE,0,0,,0,,,,"Reasonable-ish defense against us (I mean, we lost the match)"
+,Maggie,31,Red 2,1622,,,0,0,TRUE,,,TRUE,2,1,,0,,,Ground,
+,Fanta,31,Blue 1,6186,,,0,0,FALSE,Left Spike,,FALSE,0,0,,0,,,Source,"Didn’t really attempt to score, have to other teammates."
+,lucia,31,Blue 3,7483,,,0,0,FALSE,,,FALSE,1,0,,0,,,,intake broke maybe? they drove around with the intake out but not shooting
+,Ridge,31,Blue 2,6586,,,0,1,FALSE,,,FALSE,0,1,,0,Solo Climb,Tipped/Tippy,Ground,Not good at shooting
+,Jonathan,31,Blue 2,6586,,,0,0,TRUE,Center Spike,,FALSE,0,2,,0,,Failed Auto,Ground,weak shooter
+,Damari,31,Blue 1,6186,,,0,0,TRUE,,,FALSE,0,0,,0,,,Source,
+,Mariana,31,Red 2,1622,,,0,1,TRUE,Failed Center Spike,,TRUE,1,2,,0,,Disabled,Ground,"disabled but enabled later, didn’t climb and went to the other alliance’s amp for some reason??? idk what they were doing"
+,Noah Carrillo,31,Red 3,8044,,,0,0,TRUE,,,FALSE,3,6,,0,,,Ground,Intake is found at the right side of the not.
+,sofiya,31,Blue 3,7483,,,0,1,FALSE,,,FALSE,0,1,,0,,Disabled,,they were doo doo ngl died half of the match and didn't score they played mid Def almost pinned their own tm8 - yussuf
+,Logan,31,Red 3,8044,,,0,0,TRUE,,,FALSE,3,5,,0,,Failed Auto,Ground,"Their auto could move but not shoot, they got notes stuck between their intake and shooter."
+,Nisala,31,Red 1,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,,,"Did nothing, bad defense"
+,Nisala,31,Red 1,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,,,"Did nothing, bad defense"
+,Mariana,32,Red 2,3792,,,0,0,FALSE,,,FALSE,0,1,,0,Solo Climb,,,
+,Fanta,32,Blue 1,5454,,,0,0,TRUE,,,TRUE,3,1,,0,,,Ground,
+,Maggie,32,Red 2,3792,,,0,0,FALSE,,,FALSE,0,1,,0,Solo Climb,,Ground,
+,Noah Carrillo,32,Red 3,2992,,,0,1,TRUE,,,FALSE,5,2,,0,,,"Ground , Source",
+,Damari,32,Blue 1,5454,,,0,0,FALSE,,,FALSE,3,1,,0,,,Ground,
+,lucia,32,Blue 3,5437,,,0,0,FALSE,,,FALSE,0,0,,0,,"Tipped/Tippy , Disabled",,"Kept missing shots, and were SUPER SUPER wobbly"
+,Jonathan,32,Blue 2,323,,,0,0,TRUE,Center Line 1,,TRUE,0,5,,0,,"Parts Fell Off/Broke , Failed Auto",Ground,intake or shooter broke?
+,Ridge,32,Blue 2,323,,,0,0,FALSE,,,TRUE,0,4,,0,,Parts Fell Off/Broke,Ground,Good speed and aim when functioning properly
+,sofiya,32,Blue 3,5437,,,0,0,FALSE,,,FALSE,0,0,,0,,"Tipped/Tippy , Disabled",,"do not trust any of my data prior to match 31
+very unfortunate performance"
+,Logan,32,Red 3,2992,,,0,1,FALSE,,,FALSE,4,2,,0,Solo Climb,,Ground,"Very quick and controlled driving, good at avoiding defense, auto was buggy tho"
+,Nisala,32,Red 1,16,,,0,1,TRUE,,,FALSE,4,0,,0,,Parts Fell Off/Broke,Ground,"Couldn't shoot, and not amazing amp cycles -- likely broken"
+,Nisala,32,Red 1,16,,,0,1,TRUE,,,FALSE,4,0,,0,,Parts Fell Off/Broke,Ground,"Couldn't shoot, and not amazing amp cycles -- likely broken"
+,Noah Carrillo,33,Red 3,2190,,,0,0,TRUE,,,FALSE,0,0,,0,,,,
+,Fanta,33,Blue 1,2341,,,0,0,TRUE,,,FALSE,1,1,,0,2 Robot Climb,,Ground,
+,Ridge,33,Blue 2,4107,,,0,0,FALSE,,,FALSE,2,6,,0,,,Ground,
+,lucia,33,Blue 3,3616,,,0,1,TRUE,Left Spike,,FALSE,0,0,,0,Solo Climb,,,note got stuck i think
+,Damari,33,Blue 1,2341,,,0,0,FALSE,,,FALSE,1,2,,0,Solo Climb,,Ground,
+,sofiya,33,Blue 3,3616,,,0,1,FALSE,,,FALSE,0,0,,0,Solo Climb,,Ground,I think their intake got stuck
+,Jonathan,33,Blue 2,4107,,,0,1,TRUE,Center Spike,,FALSE,2,4,,0,,,"Ground , Source",
+,Logan,33,Red 3,2190,,,0,0,FALSE,,,FALSE,0,0,,0,Solo Climb,,,"Can barely move, can’t defend, cant score"
+,Nisala,33,Red 1,9608,,,0,0,FALSE,,,FALSE,0,3,,0,,,Source,Not great.
+,Nisala,33,Red 1,9608,,,0,0,FALSE,,,FALSE,0,3,,0,,,Source,Not great.
+,ridleyt,33,Red 2,4336,,,0,3,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,4,1,,0,Solo Climb,,Ground,missed like 4 shots
+,ridleyt,33,Red 2,4336,,,0,3,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,4,1,,0,Solo Climb,,Ground,missed like 4 shots
+,Noah Carrillo,34,Red 3,6186,,,0,0,TRUE,,,FALSE,0,0,,0,,,,It sat in the corner.
+,lucia,34,Blue 3,7483,,,0,0,FALSE,,,FALSE,0,0,,0,,,,"mostly played defense, but last forty seconds was mostly idle"
+,Maggie,34,Red 2,3102,,,0,1,TRUE,,,FALSE,0,2,,0,,,Source,
+,Ridge,34,Blue 2,9067,,,0,0,FALSE,,,FALSE,2,4,,0,Solo Climb,Failed Auto,Ground,
+,Fanta,34,Blue 1,6055,,,0,0,FALSE,,,TRUE,2,3,,0,,,"Ground , Source",
+,Damari,34,Blue 1,6055,,,0,0,FALSE,,,FALSE,1,3,,0,,,Ground,
+,John Davis,34,Red 1,3937,,,2,0,FALSE,"Right Spike , Center Spike",,FALSE,5,3,,0,Solo Climb,,"Ground , Source",Good robot 👍
+,John Davis,34,Red 1,3937,,,2,0,FALSE,"Right Spike , Center Spike",,FALSE,5,3,,0,Solo Climb,,"Ground , Source",Good robot 👍
+,Jonathan,34,Blue 2,9067,,,0,0,FALSE,,,TRUE,2,3,,0,Solo Climb,,"Ground , Source",
+,Logan,34,Red 3,6186,,,0,0,FALSE,,,FALSE,0,0,,0,Solo Climb,Disabled,,"They aren’t very good at driving, they tried to intake under their bumper but it was too low."
+,sofiya,34,Blue 3,7483,,,0,0,FALSE,,,FALSE,0,0,,0,,,,only defended
+,mariana,34,Red 2,3102,,,0,1,TRUE,,,FALSE,0,2,,0,,Tipped/Tippy,Source,only picks up from the source and it misses a lot of shot for  the speaker so when it misses it has to go all the way back to the source.
+,Jonathan,35,Blue 2,1622,,,0,0,FALSE,,,FALSE,0,4,,0,Solo Climb,Disabled,Ground,
+,Noah Carrillo,35,Red 3,323,,,0,0,TRUE,,,FALSE,1,4,,0,Solo Climb,,Ground,
+,Damari,35,Blue 1,1038,,,2,0,FALSE,,,FALSE,4,0,,1,Solo Climb,,Ground,
+,Mariana,35,Red 2,1781,,,0,1,FALSE,Left Spike,,TRUE,2,2,,0,Solo Climb,Tipped/Tippy,Ground,
+,lucia,35,Blue 3,5002,,,0,0,TRUE,,,FALSE,0,0,,0,,,,"very clumsily driven, mostly defense"
+,John Davis,35,Red 1,3792,,,1,0,FALSE,,,FALSE,4,0,,0,Solo Climb,,Source,
+,John Davis,35,Red 1,3792,,,1,0,FALSE,,,FALSE,4,0,,0,Solo Climb,,Source,
+,Ridge,35,Blue 2,1622,,,0,0,FALSE,,,FALSE,0,3,,0,Solo Climb,Failed Auto,Ground,Connection issues for first minute
+,sofiya,35,Blue 3,5002,,,0,0,TRUE,,,FALSE,0,0,,0,,,,only defended
+,Logan,35,Red 3,323,,,0,0,TRUE,,,FALSE,1,4,,0,3 Robot Climb,Failed Auto,Ground,Pretty quick but hot caught up with defense
+,Fanta,35,Blue 1,1038,,,2,0,FALSE,Left Spike,,TRUE,2,0,,0,2 Robot Climb,,Ground,
+,Maggie,35,Red 2,1781,,,0,1,TRUE,Right Spike,,TRUE,3,1,,0,Solo Climb,Tipped/Tippy,"Ground , Source",Almost falls over when hit and in a certain position (intake/shooter all the way up)
+,Maggie,36,Red 2,3616,,,0,0,TRUE,Right Spike,,TRUE,0,2,,0,Solo Climb,,Ground,
+,Mariana,36,Red 2,3616,,,0,0,TRUE,Left Spike,,FALSE,1,2,,0,Solo Climb,,Ground,
+,John Davis,36,Red 1,2341,,,0,0,FALSE,,,TRUE,0,3,,0,Solo Climb,,Ground,
+,John Davis,36,Red 1,2341,,,0,0,FALSE,,,TRUE,0,3,,0,Solo Climb,,Ground,
+,lucia,36,Blue 3,2357,,,0,2,TRUE,"Right Spike , Center Spike",,TRUE,4,1,,0,,,"Ground , Source","REALLY good at scoring amp, but is a little too large for under the stage and got stuck"
+,Damari,36,Blue 1,5437,,,0,0,FALSE,,,TRUE,0,0,,0,Solo Climb,Tipped/Tippy,Ground,
+,Fanta,36,Blue 1,5437,,,0,0,FALSE,,,FALSE,0,0,,0,,,Ground,
+,Noah Carrillo,36,Red 3,6586,,,0,0,TRUE,Left Spike,,FALSE,0,0,,0,,,,Was at half power. Missing a battery.
+,Noah Carrillo,36,Red 3,6586,,,0,0,TRUE,Left Spike,,FALSE,0,0,,0,,,,Was at half power. Missing a battery.
+,Ridge,36,Blue 2,16,,,0,1,FALSE,,,FALSE,2,2,,0,Solo Climb,,Ground,"Did slightly worse than usual this round, could be counted as outlier"
+,sofiya,36,Blue 3,2357,,,0,3,TRUE,,,TRUE,4,1,,0,,,"Ground , Source",
+,Jonathan,36,Blue 2,16,,,0,1,TRUE,Center Line 5,,FALSE,2,0,,0,,Disabled,"Ground , Source","defense support errrr fixed teammate that was flipped, was paused at the beginning. bombsquad? more like bumsquad"
+,Damari,37,Blue 1,4336,,,0,0,TRUE,,,FALSE,0,0,,0,Solo Climb,,Ground,
+,Noah Carrillo,37,Red 3,5454,,,0,0,FALSE,,,FALSE,3,5,,0,,,Ground,
+,Noah Carrillo,37,Red 3,5454,,,0,0,FALSE,,,FALSE,3,5,,0,,,Ground,
+,lucia,37,Blue 3,9073,,,0,0,FALSE,,,FALSE,1,0,,0,,,Ground,"kept missing amp scoring, that might be all they can do"
+,Mariana,37,Red 2,8044,,,0,1,TRUE,"Failed Center Line 2 , Failed Center Line 3",,TRUE,1,5,,0,,Failed Auto,Ground,not disabled but moved kinda jittery idk
+,Ridge,37,Blue 2,2190,,,0,0,FALSE,,,FALSE,0,0,,0,,,,Absolute pile of trash that sat there and did nothing
+,Maggie,37,Red 2,8044,,,0,1,TRUE,,,TRUE,2,6,,0,,,Ground,
+,Fanta,37,Blue 1,4336,,,0,0,FALSE,,,FALSE,0,0,,0,,,,Defense
+,Jonathan,37,Blue 2,2190,,,0,0,TRUE,,,FALSE,0,0,,0,,"Tipped/Tippy , Disabled , Parts Fell Off/Broke",,im not sure what just happened. live replay: 🧍‍♂️🧍‍♂️🧍‍♂️
+,John Davis,37,Red 1,9429,,,0,0,FALSE,,,TRUE,0,0,,0,,Disabled,Source,"Stopped in the middle of endgame 
+
+Also didn't score but passed notes to their team"
+,John Davis,37,Red 1,9429,,,0,0,FALSE,,,TRUE,0,0,,0,,Disabled,Source,"Stopped in the middle of endgame 
+
+Also didn't score but passed notes to their team"
+,sofiya,37,Blue 3,9073,,,0,0,FALSE,,,FALSE,1,0,,0,,,Ground,"only attempted to score amp but kept missing
+"":3"" -Lucia"
+,Noah Carrillo,38,Red 3,1038,,,2,0,TRUE,Left Spike,,FALSE,3,0,,0,Solo Climb,,Ground,
+,Noah Carrillo,38,Red 3,1038,,,2,0,TRUE,Left Spike,,FALSE,3,0,,0,Solo Climb,,Ground,
+,Fanta,38,Blue 1,3792,,,0,0,FALSE,,,FALSE,0,6,,0,3 Robot Climb,,Ground,
+,Damari,38,Blue 1,3792,,,0,0,TRUE,,,FALSE,0,6,,0,Solo Climb,,Ground,
+,Ridge,38,Blue 2,7525,,,0,3,FALSE,,,FALSE,0,8,,0,Solo Climb,,Ground,Another breathtaking performance
+,Maggie,38,Red 2,2992,,,0,1,TRUE,,,TRUE,2,3,,0,,,Ground,
+,lucia,38,Blue 3,9067,,,0,0,TRUE,,,FALSE,4,0,,0,3 Robot Climb,,"Ground , Source",
+,mariana,38,Red 2,2992,,,0,1,TRUE,,,FALSE,0,3,,0,,,Ground,note got stuck
+,John Davis,38,Red 1,9608,,,0,0,FALSE,,,FALSE,0,2,,0,Solo Climb,,Source,They (probably) can't score amp
+,John Davis,38,Red 1,9608,,,0,0,FALSE,,,FALSE,0,2,,0,Solo Climb,,Source,They (probably) can't score amp
+,sofiya,38,Blue 3,9067,,,0,0,TRUE,,,FALSE,4,0,,0,Solo Climb,,Ground,
+,Jonathan,38,Blue 2,7525,,,0,3,FALSE,"Center Spike , Left Spike , Failed Right Spike",,,0,7,,0,Solo Climb,Failed Auto,"Ground , Source",hahaha what can i say 😉
+,lucia,39,Blue 3,323,,,0,1,FALSE,,,FALSE,1,5,,0,Solo Climb,,Ground,
+,Damari,39,Blue 1,2357,,,0,2,TRUE,,,TRUE,3,0,,1,Solo Climb,,Ground,
+,Noah Carrillo,39,Red 3,3616,,,0,2,FALSE,Center Spike,,FALSE,4,3,,0,Solo Climb,,Ground,
+,Ridge,39,Blue 2,3102,,,0,1,FALSE,,,TRUE,0,2,,0,Solo Climb,,Source,"Surprisingly durable, good defense"
+,Jonathan,39,Blue 2,3102,,,0,0,TRUE,,,,0,2,,0,,,"Ground , Source",
+,Fanta,39,Blue 1,2357,,,0,3,TRUE,"Right Spike , Center Spike , Left Spike",,FALSE,4,0,,0,2 Robot Climb,,Ground,
+,sofiya,39,Blue 3,323,,,0,1,FALSE,,,FALSE,1,6,,0,Solo Climb,,Ground,
+,Nisala,39,Red 1,7483,,,0,0,FALSE,,,FALSE,0,0,,0,,,,Dropped note and then tried to defend. Not good at it.
+,Ridley rober t walker,39,Red 1,7483,,,0,0,FALSE,,,FALSE,0,0,,0,,,,its bad GG
+,Ridleyy,39,Red 3,3616,,,0,2,TRUE,Center Spike,,TRUE,4,3,,0,Solo Climb,,Ground,good
+,Ridley,39,Red 2,5437,,,0,0,FALSE,,,FALSE,0,0,,0,,Tipped/Tippy,,intake doesn't work
+,Ridley,39,Red 2,5437,,,0,0,FALSE,,,FALSE,0,0,,0,,Tipped/Tippy,,intake doesn't work
+,Maggie,40,Red 2,2190,,,0,0,TRUE,,,FALSE,0,0,,0,,Tipped/Tippy,Source,
+,Fanta,40,Blue 1,6586,,,0,0,FALSE,,,FALSE,0,0,,0,,"Tipped/Tippy , Disabled",,
+,Noah Carrillo,40,Red 3,16,,,0,3,TRUE,"Right Spike , Center Spike",,FALSE,4,3,,0,,,Ground,
+,Noah Carrillo,40,Red 3,16,,,0,3,TRUE,"Right Spike , Center Spike",,FALSE,4,3,,0,,,Ground,
+,john davis,40,Red 1,1622,,,1,0,FALSE,,,FALSE,1,1,,0,,,Source,
+,Damari,40,Blue 1,6586,,,0,0,TRUE,,,FALSE,0,0,,0,,"Tipped/Tippy , Failed Auto",Ground,
+,Ridge,40,Blue 2,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,,,"They decided to be a wall for this game, and it worked decently well"
+,lucia,40,Blue 3,1781,,,0,0,FALSE,,,FALSE,4,3,,0,,,Source,got penalized womp womp
+,Mariana,40,Red 2,2190,,,0,0,TRUE,,,FALSE,0,0,,0,,,,defence? idk just moving back and forth in a line most of the time. mid defence
+,Owen Reynolds,40,Red 1,1622,,,0,0,FALSE,,,FALSE,1,1,,0,,,Ground,
+,Jonathan,40,Blue 2,9073,,,0,0,FALSE,,,,0,0,,0,,,,defense pretty good but their robot is too light for it
+,sofiya,40,Blue 3,1781,,,0,0,FALSE,,,FALSE,3,4,,0,,,Source,penalized
+,Maggie,41,Red 2,2992,,,0,1,TRUE,Right Spike,,TRUE,7,1,,0,,,Ground,
+,lucia,41,Blue 3,4107,,,0,2,TRUE,Center Spike,,FALSE,1,4,,0,Solo Climb,,Source,
+,Noah Carrillo,41,Red 3,2341,,,0,1,FALSE,,,FALSE,0,1,,0,,,Ground,Fickle intake
+,Noah Carrillo,41,Red 3,2341,,,0,1,FALSE,,,FALSE,0,1,,0,,,Ground,Fickle intake
+,Ridge,41,Blue 2,6055,,,0,0,FALSE,,,FALSE,3,1,,0,Solo Climb,,"Ground , Source",
+,Damari,41,Blue 1,5454,,,0,0,FALSE,,,FALSE,1,4,,0,,,Ground,
+,Fanta,41,Blue 1,5454,,,0,0,FALSE,,,FALSE,2,4,,0,,,Ground,
+,Owen Reynolds,41,Red 1,5002,,,0,0,TRUE,,,FALSE,0,0,,0,,,,Glorified roomba
+,Mariana,41,Red 2,2992,,,0,1,TRUE,Left Spike,,FALSE,6,3,,0,,,Ground,
+,john davis,41,Red 1,5002,,,0,0,FALSE,,,FALSE,0,0,,0,,Parts Fell Off/Broke,,it didn’t take anything or shoot so i think it’s intake or something broke
+,sofiya,41,Blue 3,4107,,,0,2,TRUE,Center Spike,,FALSE,1,4,,0,Solo Climb,,Source,
+,joanthab,41,Blue 2,6055,,,0,0,FALSE,,,,3,0,,0,Solo Climb,,Source,not sure about auto at all i started late
+,Maggie,42,Red 1,3937,,,0,2,TRUE,Center Line 2,,TRUE,2,5,,0,,,Ground,
+,Aiden,42,Blue 1,6186,,,0,1,FALSE,,,TRUE,0,0,,0,,,,
+,Alex,42,Blue 3,8044,,,0,0,TRUE,,,FALSE,1,3,,0,,,"Ground , Source",
+,Dillon,42,Red 1,3937,,,0,2,TRUE,,,TRUE,2,5,,0,,,Ground,Was cery good at scoring. Missed a bit but good teamate.
+,Luke Thompson,42,Red 3,7525,,,0,4,TRUE,,,TRUE,0,7,,0,Solo Climb,,Ground,"Very good cycles, one or two times where we didn’t see the note go in"
+,Taj,42,Red 3,7525,,,0,4,TRUE,,,TRUE,0,7,,0,Solo Climb,,Ground,"Breakaway great with us, never got in the way, both scored a ton"
+,Jalen,42,Blue 2,4336,,,0,3,TRUE,"Right Spike , Center Spike",,TRUE,3,3,,0,,,,One of the notes was stuck
+,Coby,42,Blue 2,4336,,,0,3,TRUE,,,TRUE,3,3,,0,,,"Ground , Source",
+,Garys,42,Blue 1,6186,,,0,1,FALSE,,,TRUE,0,0,,0,,,,Didn't intake anything. Didn't climb.
+,Jazlyn,42,Red 2,9429,,,0,0,FALSE,,,FALSE,0,0,,0,,Disabled,,wasn’t working this match
+,zofia,42,Red 2,9429,,,0,0,FALSE,,,FALSE,0,0,,0,,Disabled,,robot shutdown whole match
+,Leif,42,Blue 3,8044,,,0,0,FALSE,Failed Center Line 2,,FALSE,2,2,,0,,Failed Auto,Ground,"Ground intake only, failed to shoot the first note preloaded in auto. Which then led it to move toward center 2nd note, but it didn’t pick it up either way, but it did touch the note. The overall gameplay wasn’t strong. Shooter needs to be more accurate, many seconds were wasted missing amp and speaker."
+,Coby,43,Blue 2,9608,,,0,1,FALSE,,,TRUE,0,0,,0,,,,
+,freya,43,Red 1,2190,,,0,0,FALSE,,,FALSE,0,0,,0,,,,
+,Aiden,43,Blue 1,9067,,,0,1,TRUE,Left Spike,,TRUE,2,1,,0,,"Parts Fell Off/Broke , Failed Auto",Ground,
+,Taj,43,Red 3,1038,,,1,0,TRUE,,,TRUE,3,0,,1,Solo Climb,,Ground,Slow slow cycles
+,Jalen,43,Blue 2,9608,,,0,1,FALSE,,,TRUE,0,0,,0,,,,The robots driver stink
+,Dillon,43,Red 1,2190,,,0,0,TRUE,,,FALSE,0,0,,0,,,,It just drove around. Like thats all that happened. Struggled on defense. No points.
+,Luke,43,Red 3,1038,,,1,0,TRUE,,,TRUE,3,0,,1,Solo Climb,,Ground,"One of their pieces broke during match, doesn’t look too significant, seems like they can only score amp/trap"
+,zofia,43,Red 2,2357,,,0,2,TRUE,Center Spike,,FALSE,0,5,,0,Solo Climb,,Ground,"very similar robot to us, can shoot speaker consistently from stage so they could shoot behind us for speaker
+
+good driver, able to maneuver around robot to source well"
+,alex,43,Blue 3,1622,,,0,1,TRUE,Center Spike,,FALSE,4,1,,0,,Tipped/Tippy,"Ground , Source","got messed up early, very flimsy"
+,Garys,43,Blue 1,9067,,,0,1,TRUE,Left Spike,,TRUE,2,1,,0,,Disabled,Ground,Got hit and froze for a while
+,Jazlyn,43,Red 2,2357,,,0,2,TRUE,,,TRUE,0,6,,0,Solo Climb,,Ground,goonies pushed as it was climbing so not sure if it actuallly climbed
+,Leif,43,Blue 3,1622,,,0,1,TRUE,Center Spike,,FALSE,5,1,,0,,,Ground,"Team 1692 (Spyder) decided to go for a very last attempt at the speaker rather than climbing, but could not get the melody ranking point either way. Otherwise the robot has issues with being stable, along with appearing to be easily overcome by other robots on defense. The other robots on the team did absolutely nothing, so it was surprising to see Spyder score many points considering it was a 1 v 3."
+,Coby,44,Blue 2,5437,,,0,0,FALSE,,,FALSE,0,0,,0,,,,
+,Aiden,44,Blue 1,3102,,,0,0,TRUE,,,FALSE,0,6,,0,,Failed Auto,Source,
+,Taj,44,Red 3,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,,,"Defense, let bomb score everything"
+,zofia,44,Red 2,5454,,,0,0,FALSE,,,FALSE,0,5,,0,,Failed Auto,Ground,"intake can move around so can avoid speaker defense, driver not that good at maneuvering"
+,alex,44,Blue 3,5002,,,0,0,TRUE,,,FALSE,0,1,,0,,,Ground,"pretty mid, got in the way of teammates and defense was mid"
+,Jazlyn,44,Red 2,5454,,,0,0,FALSE,,,FALSE,0,6,,0,,,Ground,seemed to be moving a little weird
+,Luke,44,Red 3,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,"Disabled , Failed Auto",,"Had to defend, seems very broken, could only pass off first note then defend then sat in the middle of the field halfway through"
+,Jalen,44,Blue 2,5437,,,0,0,FALSE,,,FALSE,0,0,,0,,,,Booo
+,Garys,44,Blue 1,3102,,,0,0,TRUE,,,FALSE,0,6,,0,,Tipped/Tippy,Source,Hits many robots and objects. Almost fell at one point.
+,freya,44,Red 1,16,,,0,3,TRUE,,,FALSE,0,8,,0,,,Ground,
+,Dillon,44,Red 1,16,,,0,3,TRUE,,,FALSE,0,8,,0,,,Ground,Missed a few. Scored a lot though.
+,Leif,44,Blue 3,5002,,,0,0,TRUE,,,FALSE,0,1,,0,,,Ground,"The robot has really weak power, which is terrible for the 4 or 5 times it attempted to shoot into the speaker. It only made 1/4 or 1/5, shortly after is switched to defense, and stalled robots attempting to get points from the source. The defense was average, possibly on the worse side of the spectrum."
+,Aiden,45,Blue 1,8044,,,0,2,TRUE,"Right Spike , Center Line 3",,TRUE,4,3,,0,Solo Climb,,Ground,
+,alex,45,Blue 3,3616,,,0,0,TRUE,,,FALSE,0,6,,0,3 Robot Climb,,"Ground , Source","bad auto, solid teleop"
+,freya,45,Red 1,4107,,,0,0,FALSE,,,FALSE,0,5,,0,,Tipped/Tippy,Source,
+,Dillon,45,Red 1,4107,,,0,1,FALSE,,,FALSE,0,6,,0,,,"Ground , Source",Good at scoring. Couldnt keep up on defense.
+,Coby,45,Blue 2,3937,,,0,2,TRUE,,,FALSE,3,7,,0,,,"Ground , Source",
+,Taj,45,Red 3,1781,,,0,2,TRUE,,,FALSE,3,4,,0,Solo Climb,Tipped/Tippy,Ground,"Fiddled with notes for a bit, lil bit tippy"
+,Jalen,45,Blue 2,3937,,,0,2,FALSE,,,FALSE,3,6,,0,,,"Ground , Source",
+,zofia,45,Red 2,7483,,,0,0,FALSE,,,FALSE,1,1,,0,,,Ground,"not a strong got, felt like it got slow after it got knocked around a bunch"
+,Garys,45,Blue 1,8044,,,0,2,TRUE,"Center Line 2 , Center Line 3",,FALSE,4,3,,0,Solo Climb,,Ground,
+,Luke,45,Red 3,1781,,,0,2,TRUE,,,FALSE,3,4,,0,Solo Climb,,Ground,"Note got stuck underneath for a lil bit, climb is odd cause it lowers after it raises, don’t know if it counts"
+,Leif,45,Blue 3,3616,,,0,0,TRUE,,,FALSE,0,6,,0,Solo Climb,,Ground,"The robot team was very efficient, and beat the high score by getting 108. The robot overall is a good shooter, good accuracy, but is a little slow."
+,Jazlyn,45,Red 2,7483,,,0,0,FALSE,,,FALSE,1,1,,0,,,Source,moved very sporadically and stopped playing mid round
+,Coby,46,Blue 2,2341,,,0,1,FALSE,,,FALSE,0,5,,0,Solo Climb,,"Ground , Source",
+,Jalen,46,Blue 2,2341,,,0,1,FALSE,,,FALSE,0,5,,0,Solo Climb,,"Ground , Source",
+,Aiden,46,Blue 1,2992,,,0,2,TRUE,Center Spike,,FALSE,0,2,,0,,,Ground,
+,Maggie,46,Red 1,6586,,,0,0,TRUE,,,FALSE,0,0,,0,,,,"Mostly played defense. Tippy, which slowed them down."
+,zofia,46,Red 2,9429,,,0,1,FALSE,,,FALSE,0,0,,0,,,Source,"maybe shooter disabled, just flung notes across the arena"
+,alex,46,Blue 3,323,,,0,1,TRUE,Left Spike,,FALSE,6,1,,0,,,"Ground , Source","bad shooter aim, indecisive at end"
+,Jazlyn,46,Red 2,9429,,,0,1,FALSE,,,FALSE,0,0,,0,,,Source,"just shot notes towards the amp, only played a little defense at the beginning"
+,Dillon,46,Red 1,6586,,,0,0,TRUE,,,FALSE,0,0,,0,,"Tipped/Tippy , Parts Fell Off/Broke",,I think it was broken. It was just driving around and struggling on defense.
+,Luke,46,Red 3,3792,,,0,0,TRUE,,,FALSE,0,6,,0,,Parts Fell Off/Broke,Ground,"Climber broke, so couldn’t climb and had to go around stage, seems very fragile"
+,Taj,46,Red 3,3792,,,0,0,TRUE,,,FALSE,0,6,,0,,Parts Fell Off/Broke,Ground,"Hit by robots, arm got extended, really finicky scoring"
+,Garys,46,Blue 1,2992,,,0,2,TRUE,Center Spike,,FALSE,0,2,,0,,,Ground,
+,Leif,46,Blue 3,323,,,0,2,FALSE,Center Line 5,,FALSE,6,3,,0,,,Ground,"The robot worked efficiently. It has quick movement speed, but requires the shooter to be attached to intake to work, which causes delay, so shooting is a little slower then trying to get a note into the speaker."
+,zofia,47,Red 2,4336,,,0,3,FALSE,"Left Spike , Center Line 1",,FALSE,4,2,,0,Solo Climb,,Ground,
+,alex,47,Blue 3,1622,,,0,1,TRUE,,,FALSE,4,1,,0,2 Robot Climb,,"Ground , Source",
+,Aiden,47,Blue 1,7525,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike",,FALSE,0,5,,0,Solo Climb,Parts Fell Off/Broke,Ground,Belt probably broke off again
+,Coby,47,Blue 2,6186,,,0,1,FALSE,,,TRUE,0,0,,0,,,,
+,Jalen,47,Blue 2,6186,,,0,1,FALSE,,,TRUE,0,0,,0,,,,
+,Luke,47,Red 3,6055,,,0,1,FALSE,,,TRUE,1,0,,0,Solo Climb,Tipped/Tippy,Ground,"I guess intake broke, started defending halfway through"
+,Taj,47,Red 3,6055,,,0,1,FALSE,,,TRUE,1,0,,0,Solo Climb,"Tipped/Tippy , Disabled",Ground,"First very tippy, I think it broke bc middle of match it just completely switched to defense"
+,freya,47,Red 1,5454,,,0,0,FALSE,,,FALSE,1,2,,0,,,,
+,Dillon,47,Red 1,5454,,,0,0,FALSE,,,TRUE,1,4,,0,,,Ground,It was alright at scoring. Not agile.  light defense locked it up
+,Garys,47,Blue 1,7525,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,0,5,,0,Solo Climb,,Ground,
+,Jazlyn,47,Red 2,4336,,,0,3,TRUE,"Center Spike , Left Spike",,TRUE,3,2,,0,Solo Climb,,Ground,took a bit of time between to score
+,Leif,47,Blue 3,1622,,,0,0,FALSE,,,FALSE,6,1,,0,Solo Climb,,Ground,"The robot scored many times in the amp, the power (low power issue) on the shooter did make it miss a few shots."
+,Coby,48,Blue 2,7483,,,0,0,FALSE,,,FALSE,1,0,,0,,"Parts Fell Off/Broke , Failed Auto",,
+,Aiden,48,Blue 1,16,,,0,1,TRUE,,,TRUE,0,9,,0,Solo Climb,"Parts Fell Off/Broke , Made Alliance Fail Climb",Ground,
+,Dillon,48,Red 1,2190,,,0,0,TRUE,,,TRUE,0,0,,0,,,,It only plays defense. Its not that good defense. No intake.
+,alex,48,Blue 3,1038,,,1,0,TRUE,,,FALSE,4,0,,0,,,"Ground , Source",solid amp bot
+,Garys,48,Blue 1,16,,,0,1,FALSE,"Failed Right Spike , Failed Center Line 2",,TRUE,0,9,,0,,,Ground,
+,freya,48,Red 1,2190,,,0,0,FALSE,,,FALSE,0,0,,0,,,,
+,zofia,48,Red 2,5437,,,0,0,FALSE,,,FALSE,0,0,,0,,Tipped/Tippy,Source,"failed it’s only (preloaded) amp attempt, could only defend, idk if they even have an intake"
+,Luke,48,Red 3,4107,,,0,1,TRUE,,,TRUE,3,7,,0,,,"Ground , Source",They were the only one on their team doing anything
+,Taj,48,Red 3,4107,,,0,1,TRUE,,,TRUE,3,7,,0,,,"Ground , Source",
+,Jazlyn,48,Red 2,5437,,,0,0,FALSE,,,TRUE,0,0,,0,,Tipped/Tippy,,"only blocked blue from scoring but rlly did not do anything
+it’s movement easnt very good"
+,Leif,48,Blue 3,1038,,,1,0,TRUE,,,FALSE,4,0,,0,,,"Ground , Source","They attempted to climb, but failed due to alignment. This could possibly and most likely be due to weight distribution and position if climbers. We can also find that it scored in amp, which as it did so, helped amplification for team bomb squad scoring in the speaker."
+,Leif,49,Blue 3,9067,,,0,1,TRUE,Right Spike,,FALSE,0,0,,0,Solo Climb,,Ground,The robot
+,zofia,49,Red 2,2357,,,0,1,TRUE,,,FALSE,2,2,,0,,,Ground,
+,Dillon,49,Red 1,6586,,,0,0,TRUE,,,TRUE,0,0,,0,,Tipped/Tippy,,It just drove  around. Tippy
+,Coby,49,Blue 2,2992,,,0,1,TRUE,,,TRUE,3,2,,0,,,"Ground , Source",
+,Jalen,49,Blue 2,2992,,,0,1,TRUE,,,TRUE,3,4,,0,,,"Ground , Source",
+,Aiden,49,Blue 1,9073,,,0,0,FALSE,,,TRUE,0,0,,0,,,Ground,
+,freya,49,Red 1,6586,,,0,0,FALSE,,,FALSE,0,0,,0,,,,
+,alex,49,Blue 3,9067,,,0,1,TRUE,Right Spike,,FALSE,0,0,,0,Solo Climb,,,"got a note stuck and switchrd to (bad) defense, kept getting in the way of teammates"
+,Lucas,49,Red 2,2357,,,0,1,FALSE,,,FALSE,2,2,,0,,,"Ground , Source",weird climb didn’t work
+,Luke,49,Red 3,3937,,,0,2,FALSE,,,TRUE,6,4,,0,Solo Climb,,Ground,"Missed a few shots, don’t think they got off ground on climb"
+,Taj,49,Red 3,3937,,,0,2,TRUE,,,TRUE,6,4,,0,,,Ground,"Missed a ton, didn’t have time to climb"
+,Garys,49,Blue 1,9073,,,0,0,FALSE,,,TRUE,0,0,,0,,,Ground,Can't really shoot. Acts as defender.
+,Aiden,50,Blue 1,3616,,,0,0,TRUE,Failed Left Spike,,TRUE,1,3,,0,Solo Climb,Failed Auto,Ground,
+,Garys,50,Blue 1,3616,,,0,0,TRUE,Left Spike,,TRUE,1,3,,0,Solo Climb,,Ground,
+,freya,50,Red 1,3792,,,0,0,FALSE,,,FALSE,0,5,,0,,,,
+,Coby,50,Blue 2,6055,,,0,0,TRUE,,,TRUE,3,1,,0,Solo Climb,Failed Auto,"Ground , Source",
+,alex,50,Blue 3,9608,,,0,0,TRUE,,,FALSE,0,1,,0,,,Source,
+,Taj,50,Red 3,4336,,,0,0,TRUE,,,TRUE,5,4,,0,Solo Climb,,Ground,"Played better than yesterday, they love the amp"
+,Jalen,50,Blue 2,6055,,,0,0,TRUE,,,TRUE,3,1,,0,Solo Climb,Failed Auto,"Ground , Source",
+,Dillon,50,Red 1,3792,,,0,0,TRUE,,,TRUE,0,7,,0,,,Ground,It was pretty good at scoring. Drove a little confused but it was pretty good. Misses a few shots on speaker.
+,Luke,50,Red 3,4336,,,0,0,TRUE,,,TRUE,5,4,,0,Solo Climb,,Ground,"Decently fast cycles, amp scoring very accurate"
+,Jazlyn,50,Red 2,5002,,,0,0,TRUE,,,,0,1,,0,,,Ground,stopped scoring and started preventing  blue from scoring
+,Leif,50,Blue 3,9608,,,0,0,TRUE,,,FALSE,0,1,,0,,,Source,"The robot was like a kit robot, it was easily overwhelmed and could not shoot very well."
+,Jonathan,51,Blue 2,6186,,,0,1,TRUE,Failed Right Spike,,FALSE,0,0,,0,,,,bad defense
+,Danyar,51,Red 2,7525,,,0,4,FALSE,"Right Spike , Center Spike , Left Spike",,FALSE,0,2,,0,Solo Climb,Parts Fell Off/Broke,"Ground , Source",
+,Maggie,51,Red 2,7525,,,0,4,TRUE,"Right Spike , Center Spike , Left Spike",,TRUE,0,2,,0,Solo Climb,,Ground,Note got stuck
+,Damari,51,Blue 1,9429,,,0,0,TRUE,,,TRUE,0,2,,0,,,Source,
+,Noah Carrillo,51,Red 3,2341,,,0,1,FALSE,,,FALSE,0,1,,0,Solo Climb,,Ground,
+,Ridge,51,Blue 2,6186,,,0,1,FALSE,,,TRUE,0,0,,0,,Parts Fell Off/Broke,Ground,Flailed around and did nothing
+,Fanta,51,Blue 1,9429,,,0,0,FALSE,,,TRUE,0,2,,0,,Tipped/Tippy,Ground,"Bumped into other teams, didn’t score in amp"
+,Aros,51,Red 1,3102,,,0,0,FALSE,,,FALSE,3,0,,0,2 Robot Climb,,"Ground , Source",
+,Logan,51,Red 3,2341,,,0,1,FALSE,,,TRUE,0,2,,0,2 Robot Climb,,Ground,They really struggled to intake under their bumper running over the note and getting stuck multiple times in the process.
+,sofiya,51,Blue 3,1781,,,0,2,TRUE,Right Spike,,TRUE,0,6,,0,Solo Climb,,"Ground , Source","I'm not sure about this data, I couldn't see the first half of the match"
+,Maggie,52,Red 2,9067,,,0,0,TRUE,,,TRUE,0,5,,0,Solo Climb,,Ground,
+,lucia,52,Blue 3,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,,,"note got stuck, mostly did defense, but seemed to also block their teams movement some"
+,Danyar,52,Red 2,9067,,,0,0,FALSE,,,TRUE,0,4,,0,Solo Climb,,"Ground , Source",
+,Damari,52,Blue 1,323,,,0,1,TRUE,Left Spike,,FALSE,2,3,,0,,,Ground,Kept missing notes into speaker
+,Aros,52,Red 1,8044,,,0,0,TRUE,Failed Right Spike,,FALSE,3,2,,0,2 Robot Climb,Disabled,"Ground , Source",Stopping running by source womp
+,Ridge,52,Blue 2,4107,,,0,2,FALSE,,,FALSE,0,1,,0,Solo Climb,Parts Fell Off/Broke,"Ground , Source",Was unable to aim/shoot into speaker multiple times
+,Logan,52,Red 3,2357,,,0,1,TRUE,"Center Spike , Left Spike",,TRUE,2,3,,0,2 Robot Climb,Failed Auto,Ground,They missed most of their shots at speaker in auto. They can score in the speaker from further back.
+,Karos,52,Red 1,8044,,,0,0,TRUE,Failed Center Line 1,,FALSE,3,2,,0,2 Robot Climb,Disabled,"Ground , Source","Stopped working mid match, wouldn't move. But had good shooting with their robot. Very accurate"
+,sofiya,52,Blue 3,9073,,,0,0,FALSE,,,FALSE,0,0,,0,,,,"preloaded note got stuck on them really early in teleop, played defense but also kinda got in the way of their own team 
+didn't even climb 😭
+no auto"
+,Noah Carrillo,52,Red 3,2357,,,0,1,FALSE,"Right Spike , Failed Right Spike",,FALSE,1,3,,0,Solo Climb,,Ground,I was focused on the wrong robot.
+,Fanta,52,Blue 1,323,,,0,1,FALSE,,,TRUE,4,2,,0,,,Ground,"Didn’t climb, Didn’t defend, and mostly attempted and failed at scoring in speaker."
+,Jonathan,52,Blue 2,4107,,,0,2,TRUE,"Center Spike , Failed Left Spike , Failed Right Spike",,FALSE,1,0,,0,Solo Climb,Failed Auto,"Ground , Source","Really bad aim, im pretty sure they missed all of their speaker shots?"
+,Maggie,53,Red 2,6055,,,0,1,TRUE,,,FALSE,0,3,,0,Solo Climb,,Ground,
+,Jonathan,53,Blue 2,5454,,,0,0,FALSE,,,FALSE,0,8,,0,,,"Ground , Source",
+,lucia,53,Blue 3,5437,,,0,0,FALSE,,,FALSE,0,0,,0,,Tipped/Tippy,,"played defense, note got stuck"
+,Danyar,53,Red 2,6055,,,0,2,FALSE,Left Spike,,FALSE,0,1,,0,Solo Climb,,Ground,He kept on missing his shots in the speaker
+,Ridge,53,Blue 2,5454,,,0,0,FALSE,,,FALSE,0,7,,0,,,Ground,"Speedy intake but slower at shooting, good driver"
+,Aros,53,Red 1,5002,,,0,0,FALSE,Failed Left Spike,,FALSE,0,3,,0,Solo Climb,,"Ground , Source",Was getting bullied by other team 🥺
+,Damari,53,Blue 1,1038,,,2,0,FALSE,,,TRUE,3,0,,0,Solo Climb,,Ground,
+,Fanta,53,Blue 1,1038,,,2,0,TRUE,,,FALSE,3,0,,0,Solo Climb,,Ground,Scored in amp during auto??? Only scored in amp during teleop
+,Karos,53,Red 1,5002,,,0,0,FALSE,,,FALSE,0,3,,0,Solo Climb,,"Ground , Source",robot is smaller so it got pushed around by other robots making it harder to score
+,Noah Carrillo,53,Red 3,6586,,,0,0,TRUE,Failed Left Spike,,FALSE,0,0,,0,,,,Played defense. Poorly.
+,sofiya,53,Blue 3,5437,,,0,0,FALSE,,,FALSE,0,0,,0,,Tipped/Tippy,,"insanely tippy idk how they didn't fall
+only defended
+nearly knocked over their teammate"
+,Logan,53,Red 3,6586,,,0,0,TRUE,,,FALSE,0,0,,0,,Failed Auto,Ground,They tried to intake from left spike during auto but couldn’t. They played ok defense but racked up a bunch of penalty points for the other team.
+,lucia,54,Blue 3,7483,,,0,0,TRUE,,,FALSE,0,0,,0,,Failed Auto,,"stayed idle in the center the whole time, their intake probably broke? during auto they ran into the stage so that could’ve damaged something"
+,Maggie,54,Red 2,3937,,,0,1,FALSE,Center Spike,,TRUE,3,6,,0,Solo Climb,,Ground,
+,Jonathan,54,Blue 2,1622,,,0,1,TRUE,Center Spike,,TRUE,1,0,,0,Solo Climb,"Parts Fell Off/Broke , Failed Auto",Ground,intake broke at auto? played defense rest of the match pretty good at defense
+,Ridge,54,Blue 2,1622,,,0,0,FALSE,,,FALSE,2,0,,0,Solo Climb,Parts Fell Off/Broke,Ground,Amazing defense
+,Danyar,54,Red 2,3937,,,0,1,FALSE,Left Spike,,FALSE,3,4,,0,Solo Climb,,"Ground , Source",The driver for this team is pretty good
+,Aros,54,Red 1,9608,,,0,0,FALSE,Left Spike,,FALSE,0,0,,1,3 Robot Climb,,"Ground , Source","Extremely horrible offence , but hillariously crazy good defence"
+,Damari,54,Blue 1,9429,,,0,1,FALSE,,,FALSE,0,2,,0,,,Source,It was either trying to defend or just wasn’t working well in auto. It just stood or drove around.
+,Noah Carrillo,54,Red 3,2341,,,0,1,FALSE,,,FALSE,0,3,,0,Solo Climb,,Ground,
+,Karos,54,Red 1,9608,,,0,0,FALSE,,,FALSE,0,0,,1,3 Robot Climb,,Ground,Good defense
+,Owen Reynolds,54,Blue 3,7483,,,0,0,TRUE,,,TRUE,0,0,,0,,"Disabled , Failed Auto",,"Was motionless around the middle of the match, moved very slow otherwise and didn't really do much during the entire game"
+,Fanta,54,Blue 1,9429,,,0,1,TRUE,,,TRUE,0,2,,0,,Tipped/Tippy,Source,"OK Defense, and received only from source."
+,Logan,54,Red 3,2341,,,0,1,FALSE,,,TRUE,0,3,,0,3 Robot Climb,,Ground,"They really struggled with intaking again, accidentally picking up 2 notes at one point. Driving was really slow and uncontrolled, I think it had mechanical or communication errors."
+,Danyar,55,Red 2,6186,,,0,0,FALSE,,,FALSE,3,1,,0,Solo Climb,,"Ground , Source",
+,Maggie,55,Red 2,6186,,,0,1,TRUE,,,FALSE,0,0,,0,,,Ground,Defense
+,lucia,55,Blue 3,7525,,,0,3,FALSE,"Right Spike , Center Spike",,FALSE,0,7,,0,Solo Climb,Failed Auto,"Ground , Source",got blocked during auto by another robot :(
+,Aros,55,Red 1,8044,,,0,1,TRUE,Center Line 3,,FALSE,3,2,,0,,,"Ground , Source",
+,Noah Carrillo,55,Red 3,16,,,0,2,TRUE,"Center Line 2 , Center Line 3",,FALSE,3,6,,0,,,Ground,Incredibly fast.
+,Logan,55,Red 3,16,,,0,2,TRUE,"Center Line 3 , Center Line 4",,FALSE,3,6,,0,,,Ground,Pretty much flawless
+,Damari,55,Blue 1,3792,,,0,0,TRUE,,,FALSE,0,4,,0,,,Ground,Auto seemed to fail. Notes sometimes missed.
+,Owen Reynolds,55,Blue 3,7525,,,0,3,TRUE,"Right Spike , Center Spike , Left Spike",,FALSE,0,8,,0,Solo Climb,,"Ground , Source",Goated Team Goated Driver only lost because that Red Defense was disgusting
+,Karos,55,Red 1,8044,,,0,1,TRUE,Center Line 1,,FALSE,3,2,,0,,,"Ground , Source",Kept trying to hit our robot
+,Ridge,55,Blue 2,3616,,,0,0,FALSE,,,FALSE,2,1,,0,Solo Climb,,Ground,Alright defense
+,Jonathan,55,Blue 2,3616,,,0,0,TRUE,,,FALSE,2,1,,0,Solo Climb,,"Ground , Source",do not trust me please
+,Fanta,55,Blue 1,3792,,,0,0,FALSE,,,FALSE,0,3,,0,,"Tipped/Tippy , Failed Auto",Ground,"Didn’t utilize amp, failed at scoring speaker a few times, and a bit tippy."
+,sofiya,55,Blue 3,7525,,,0,2,TRUE,"Center Spike , Left Spike",,FALSE,0,8,,0,Solo Climb,,Ground,"godly autos 😍
+the smoothest, sexiest driving known to man
+breaking everyone's ankles 
+should have won"
+,Maggie,56,Red 2,2190,,,0,0,TRUE,,,FALSE,0,0,,0,,,,"Didn’t score, but didn’t have a very effective defense either."
+,Karos,56,Red 1,323,,,0,1,TRUE,,,FALSE,0,0,,0,Solo Climb,,"Ground , Source",Was jus stopped for most of the time
+,Danyar,56,Red 2,2190,,,0,0,FALSE,,,FALSE,0,0,,0,Solo Climb,,Source,They didn’t do anything except defend all game
+,Fanta,56,Blue 1,2992,,,0,1,FALSE,,,FALSE,1,3,,0,,,Ground,I’m scouting 2992. Shot notes to team members
+,Aros,56,Red 1,323,,,0,1,FALSE,Left Spike,,FALSE,0,0,,1,Solo Climb,,"Ground , Source",Was stationary for most match
+,Owen Reynolds,56,Blue 3,4336,,,0,3,TRUE,,,TRUE,4,4,,0,Solo Climb,,"Ground , Source","Scouted 4336 Ramageddon, spotlit, did extremely well. Good auto, and reliably scored in both amp and speaker, good strategy, good driving, and good performance all around"
