@@ -24,7 +24,6 @@ class Global:
             self.shift_A = shift_A
             self.shift_B = shift_B
             self.shift_C = shift_C
-
         
     CURRENT_EVENT = Events.ARKANSAS
 
@@ -37,7 +36,6 @@ class Global:
     MATCHES_B = MATCHES_PER_SHIFT + (MATCH_REMAINDER if LAST_SHIFT == 1 else 0)
     MATCHES_C = MATCHES_PER_SHIFT + (MATCH_REMAINDER if LAST_SHIFT == 2 else 0)
 
-    # this is an abomination
     SHIFT_A = CURRENT_EVENT.shift_A
     SHIFT_B = CURRENT_EVENT.shift_B
     SHIFT_C = CURRENT_EVENT.shift_C
@@ -49,10 +47,7 @@ class Global:
     if (not CURRENT_EVENT.double_scouted):
         for scouter in SHIFT_C:
             scouter.append(MATCHES_C)
-
-    print(SHIFT_A)
-    print(SHIFT_B)
-    print(SHIFT_C)
+            
     COMBINED_SHIFTS = SHIFT_A + SHIFT_B + SHIFT_C
 class TBAAnalysis:
     TBA_API_kEY = ""
