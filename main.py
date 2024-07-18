@@ -42,13 +42,14 @@ def calculateScouterGrades():
         accuracy = round(((cross_entries_checked - len(filtered_cross_data))/cross_entries_checked) * 100, 2)
         letter_grade = getLetterGrade(accuracy)
         matches_missed = filtered_missed_data[0][1]
+        matches_scouted = filtered_missed_data[0][2]
         
-        scouter_grades.append([accuracy, letter_grade, matches_missed, name])
+        scouter_grades.append([accuracy, letter_grade, matches_missed, name, matches_scouted])
     scouter_grades.sort(key=lambda subarray: subarray[0], reverse = True)
 
 # Output Data
 calculateScouterGrades()
 for grade in scouter_grades:
-    print(f"{grade[3]} got a {grade[1]} with {grade[0]}% accuracy and {grade[2]} matches missed")
+    print(f"{grade[3]} got a {grade[1]} with {grade[0]}% accuracy and missed {grade[2]} matches out of {grade[4]} matches")
         
 
