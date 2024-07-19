@@ -24,7 +24,7 @@ class Global:
             self.shift_C = shift_C
             self.path = path
     
-    CURRENT_EVENT = Events.BUCKEYE
+    CURRENT_EVENT = Events.ARKANSAS
     SCOUTING_DATA_PATH = CURRENT_EVENT.path
     DOUBLE_SCOUTING = CURRENT_EVENT.double_scouted
 
@@ -54,5 +54,6 @@ class TBAAnalysis:
     TBA_API_kEY = ""
     TBA_PATH = "Data/TBA.json"
     SHOW_MISSED_MATCHES = False;
+    EVENT_KEY = "2024hop" if Global.CURRENT_EVENT == Global.Events.HOPPER else ("2024ohcl" if Global.CURRENT_EVENT == Global.Events.BUCKEYE else "2024arli")
     
 

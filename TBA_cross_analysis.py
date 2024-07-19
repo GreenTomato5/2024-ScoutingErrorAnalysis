@@ -16,7 +16,7 @@ class TBACrossAnalysis:
     
     def __init__(self):
         # Load Data
-        self.tba = requests.get("https://www.thebluealliance.com/api/v3/event/2024hop/matches", 
+        self.tba = requests.get(f"https://www.thebluealliance.com/api/v3/event/{constants.TBAAnalysis.EVENT_KEY}/matches", 
                             headers={"X-TBA-Auth-Key": 
                                 constants.TBAAnalysis.TBA_API_kEY}).json()
 
