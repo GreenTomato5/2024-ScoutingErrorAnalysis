@@ -10,6 +10,7 @@ SCOUTING_DATA_PATH = constants.Global.SCOUTING_DATA_PATH
 MAX_MATCH_NUMBER = constants.Global.MAX_MATCH_NUMBER
 TBA_PATH = constants.TBAAnalysis.TBA_PATH
 SHOW_MISSED_MATCHES = constants.TBAAnalysis.SHOW_MISSED_MATCHES
+DOUBLE_SCOUTING = constants.Global.DOUBLE_SCOUTING
 
 class TBACrossAnalysis:
     
@@ -51,23 +52,19 @@ class TBACrossAnalysis:
                 for team_id in [1, 2, 3]:
                     assignment = f"{Alliance} {team_id}"
                     filtered_data = self.data[(self.data['Match Number'] == match_number) & (self.data["Assignment"] == assignment)]
-            
-                    if (len(filtered_data.index) == 1):
-                        tba_cross_line = str(filtered_data['Crossed Line?'].iloc[0]).lower()
-                        scouting_cross_line = "true" if str(match["score_breakdown"][Alliance.lower()][f"autoLineRobot{team_id}"]).lower() == "yes" else "false"
-                        
-                        if (tba_cross_line != scouting_cross_line):
-                            self.cross_line_errors.append(self.error(filtered_data["Name"].iloc[0], "Crossed Line", assignment))
-                        
+                    if (len(filtered_data.index) > 0):
+                        tba_cross_line = "true" if str(match["score_breakdown"][Alliance.lower()][f"autoLineRobot{team_id}"]).lower() == "yes" else "false"
                         tba_robot_climbed = match["score_breakdown"][Alliance.lower()][f"endGameRobot{team_id}"] != "None"
-                        scouting_robot_climbed = filtered_data["Climb Type"].iloc[0] != None
                         
-                        if (tba_robot_climbed != scouting_robot_climbed):
-                            self.climb_errors.append(self.error(filtered_data["Name"].iloc[0], "Climb", assignment))                 
-                    
-                        self.entries_checked += 1
+                        for index, row in filtered_data.iterrows():
+                            if (not row['Crossed Line?'] == tba_cross_line):
+                                self.cross_line_errors.append(self.error(row["Name"], "Cross Line", assignment))
+                            if (not (row["Climb Type"] != None)  == tba_robot_climbed):
+                                self.climb_errors.append(self.error(row["Name"], "Climb", assignment))
+                        
+                        self.entries_checked += len(filtered_data.index)  
                     elif (SHOW_MISSED_MATCHES):
-                        print(f"Match {match_number} {assignment} scouted {len(filtered_data.index)} times :(")  
+                        print(f"Match {match_number} {assignment} not scouted")
                         
     def outputAnalysisResults(self):   
         print(f"Around {round(len(self.cross_line_errors)/self.entries_checked * 100, 2)}% of entries had a crossed line error")

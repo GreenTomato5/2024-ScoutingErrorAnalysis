@@ -1,9 +1,9 @@
 import csv
 import os
 import pandas as pd
-import constants
 import difflib
 
+import constants
 
 # Constants
 MISSED_SHIFT_PATH = constants.MissedShiftAnalysis.MISSED_SHIFT_PATH
@@ -98,6 +98,8 @@ class MissedShiftAnalysis:
         
         for scout in combined_shifts:
             print(f"{scout[0]} missed {scout[1]} matches")
+            if(DOUBLE_SCOUTING):
+                print(f"{scout[2]} missed {scout[3]}")
     
     def getMissedShifts(self):
         return self.shift_A + self.shift_B + self.shift_C
