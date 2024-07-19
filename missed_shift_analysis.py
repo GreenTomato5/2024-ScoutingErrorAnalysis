@@ -34,7 +34,7 @@ class MissedShiftAnalysis:
         self.shift_C = SHIFT_C
 
     def current_shift(self, match_number):
-        return SHIFTS[(match_number - 1) // 15 % constants.CURRENT_EVENT.number_of_shifts]
+        return SHIFTS[(match_number - 1) // 15 % constants.Global.CURRENT_EVENT.number_of_shifts]
 
     def error(self, scouter, match, scouter_assignment):
         return [scouter, match, scouter_assignment] 
@@ -78,7 +78,7 @@ class MissedShiftAnalysis:
                                 scout[3] += 1
                             elif times_scouted == 1:
                                 remaining -= 1
-                                further_filtered = filtered_match_data[filtered_match_data['Assignment' == assignment]]
+                                further_filtered = filtered_match_data[filtered_match_data['Assignment'] == assignment]
                                 scout[self.closest_string_value(further_filtered['Name'].iloc[0], [scout[0], scout[2]])] += 1
                     if remaining == len(filtered_match_data):
                             break

@@ -57,11 +57,11 @@ class TBACrossAnalysis:
                         tba_robot_climbed = match["score_breakdown"][Alliance.lower()][f"endGameRobot{team_id}"] != "None"
                         
                         for index, row in filtered_data.iterrows():
-                            if (not row['Crossed Line?'] == tba_cross_line):
+                            if ((str(row['Crossed Line?']).lower()) != tba_cross_line):
                                 self.cross_line_errors.append(self.error(row["Name"], "Cross Line", assignment))
-                            if (not (row["Climb Type"] != None)  == tba_robot_climbed):
+                            if ((row["Climb Type"] != None) != tba_robot_climbed):
                                 self.climb_errors.append(self.error(row["Name"], "Climb", assignment))
-                        
+
                         self.entries_checked += len(filtered_data.index)  
                     elif (SHOW_MISSED_MATCHES):
                         print(f"Match {match_number} {assignment} not scouted")
